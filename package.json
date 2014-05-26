@@ -1,0 +1,10 @@
+{
+    "name": "boksok.no-data-utils",
+    "version": "0.0.1",
+    "description": "Conversion tools for exported boksok.no data",
+    "dependencies": {
+        "underscore": "1.6.x",
+    "engines": {
+      "node": "0.10.x"
+    }
+}

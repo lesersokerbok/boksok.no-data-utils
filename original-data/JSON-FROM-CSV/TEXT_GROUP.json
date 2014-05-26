@@ -1,0 +1,22 @@
+[
+  {
+    "TEXT_GROUP_ID":1,
+    "NAME1":"Alder"
+  },
+  {
+    "TEXT_GROUP_ID":2,
+    "NAME1":"Ekstra"
+  },
+  {
+    "TEXT_GROUP_ID":3,
+    "NAME1":"Sjanger"
+  },
+  {
+    "TEXT_GROUP_ID":4,
+    "NAME1":"Emne"
+  },
+  {
+    "TEXT_GROUP_ID":5,
+    "NAME1":"Språk"
+  }
+]

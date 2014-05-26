@@ -1,0 +1,27 @@
+TEXT_ID,TEXT1,TEXT_GROUP_ID,ORDER,PARENT_TO
+1,Barn,1,1010,NULL
+2,Ungdom,1,1020,NULL
+3,Voksne,1,1030,NULL
+4,Mange bilder,2,10,NULL
+5,Lydbok,2,20,NULL
+11,Prosa,3,10,NULL
+12,Dikt,3,20,NULL
+13,Faglitteratur,3,30,NULL
+33,Dokumentar/Fakta,3,40,NULL
+32,Andre sjangre,3,50,NULL
+14,Krim/Spenning,4,10,NULL
+15,Eventyr,4,20,NULL
+16,Humor,4,30,NULL
+17,Historie/samfunn,4,40,NULL
+18,Kjærlighet,4,50,NULL
+19,Hus/hjem/hage,4,60,NULL
+20,Mat/Helse,4,70,NULL
+21,Sport,4,80,NULL
+22,Natur,4,90,NULL
+23,Mennesker i mellom,4,100,NULL
+24,Annet,4,110,NULL
+25,Nynorsk,5,10,NULL
+26,Bokmål,5,20,NULL
+27,Nordsamisk,5,30,NULL
+28,Sørsamisk,5,40,NULL
+29,Lulesamisk,5,50,NULL
