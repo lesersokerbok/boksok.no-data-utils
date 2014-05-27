@@ -1,7 +1,12 @@
 boksok.no-data-utils
 ====================
 
-Conversion tools for exported boksok.no data
+Conversion tools for exported boksok.no data. 
+
+The original data exported from boksok.no is located in ```./original-data/boksok.xlsx```. Each table is exported from its corresponding excel sheet into a CSV file in ```./original-data/CSV-FROM-EXCEL/```, then converted into JSON in ```./original-data/JSON-FROM-CSV/```.
+
+A proof-of-concept Node.js conversion script in ```./util/convert.js``` converts the JSON data into a test JSON data structure in ```./output/test.json```. To run the script, first install Node.js dependencies (```npm install```) then run ```node util/convert.js```.
+
 
 # Notes about the exported data
 
