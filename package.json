@@ -2,8 +2,18 @@
     "name": "boksok.no-data-utils",
     "version": "0.0.1",
     "description": "Conversion tools for exported boksok.no data",
+    "scripts": {
+        "test": "nodeunit test/*"
+    },
     "dependencies": {
         "underscore": "1.6.x",
+        "xml": "*",
+        "nodeunit": "*",
+        "promise": "*"
+    },
+    "devDependencies": {
+        "xml2js": "*"
+    },
     "engines": {
       "node": "0.10.x"
     }
