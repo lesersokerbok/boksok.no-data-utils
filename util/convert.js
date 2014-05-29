@@ -4,13 +4,19 @@ var fs = require('fs'),
     _ = require('underscore'),
     textCategories = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/TEXT.json')),
     menuLinks = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/MENU_LINK.json')),
-    menuItems = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/MENU.json'));
+    menuItems = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/MENU.json')),
+    contentItems = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/CONTENT.json'));
 
 function preprocess(value) {
     if (value === 'NULL')
         return undefined;
 
     return value
+}
+
+function contentForBook(bookID) {
+    var contentItem = _.findWhere(contentItems, { "CONTENT_TYPE_ID": bookID });
+    return contentItem !== undefined ? contentItem["CONTENT"] : undefined;
 }
 
 function arrayFromItemCategory(itemCat) {
@@ -100,7 +106,7 @@ fs.readFile('./original-data/JSON-FROM-CSV/DOC.json', function (err, data) {
                 arrayFromMenuLink(book.id)
             ]);
 
-            console.log(book.tags);
+            book.content = contentForBook(book.id);
         }
 
         books.push(book);
