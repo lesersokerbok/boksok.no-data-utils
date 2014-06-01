@@ -77,7 +77,7 @@ to multiple menu items.
     * Demente
 * Tegnspråk & NMT
     * Tegnspråk
-    * * Tegn til tale /NMT
+    * Tegn til tale /NMT
 * Bliss & Piktogram
 
 ## Image mapping
@@ -119,25 +119,26 @@ Images may be retrieved by constructing a URL of the form:
 
 # Book Data Structure
 
-Old field | New field | New field data type
---- | --- | ---
-title | title | wp text
-content | lsb_review | acf wysiwyg (full, no media) (2)
-custom_ingress | lsb_quote | acf wysiwyg (basic, no media)
-ingress | excerpt | wp text
-custom_author | lsb_author | wp custom taxonomy (tag) (1)
-custom_illustrator | lsb_illustrator | wp custom taxonomy (tag) (1)
-custom_translation | ? | ? (3)
-custom_publishing_house | lsb_publisher | wp custom taxonomy (tag) (1)
-custom_year | lsb_published_year | acf text
-custom_isbn | lsb_isdn | acf text
-custom_pages | lsb_pages | acf text
-custom_supports_lsb | lsb_supported | true / false
- | lsb_support_cat | purple (Litt å lese), yellow (Storskrift), orange (Punktskrift & Følebilder), green (Enkelt innhold), red (Tegnspråk & NMT), blue (Bliss & Piktogram)
+Old field | New field | New field data type | Default value or optional
+--- | --- | --- | ---
+title | title | wp text | ?
+content | lsb_review | acf wysiwyg (full, no media) (2) | ?
+custom_ingress | lsb_quote | acf wysiwyg (basic, no media) | ?
+ingress | excerpt | wp text | ?
+custom_author | lsb_author | wp custom taxonomy (tag) (1) | ?
+custom_illustrator | lsb_illustrator | wp custom taxonomy (tag) (1) | ?
+custom_translation | ? | ? (3) | ?
+custom_publishing_house | lsb_publisher | wp custom taxonomy (tag) (1) | ?
+custom_year | lsb_published_year | acf text | ?
+custom_isbn | lsb_isbn | acf text | ?
+custom_pages | lsb_pages | acf text | ?
+custom_supports_lsb | lsb_supported | true / false | ?
+ | lsb_support_cat | purple (Litt å lese), yellow (Storskrift), orange (Punktskrift & Følebilder), green (Enkelt innhold), red (Tegnspråk & NMT), blue (Bliss & Piktogram) | ?
   
+
 1. So the user can easily add another and the ui will "type ahead" and that might help combat spelling differences.  
 2. With acf wysiwyg one can limit the user more, ie. no possibility of media upload.
-3. Added by @testower - leaving to @raae to determine new field name and type. Possibly should be "translator" rather than "translation".
+3. Added by @testower - leaving to @raae to determine new field name and type. Possibly should be "translator" rather than "translation"
 
 ### Implementation note for lsb_support_cat
 
