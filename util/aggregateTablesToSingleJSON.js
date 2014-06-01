@@ -126,8 +126,11 @@ function tagsArrayFromItemCategory(itemCat, bookID, lsbCatKey) {
             return categoryText.split('&');
         })
         .flatten()
-        .map(function (category) {
-            return category.toLowerCase();
+        .map(function (categoryText) {
+            return categoryText.trim();
+        })
+        .map(function (categoryText) {
+            return categoryText.toLowerCase();
         }).value();
 }
 
