@@ -10,7 +10,9 @@ A proof-of-concept Node.js conversion script in ```./util/convert.js``` converts
 
 # Notes about the exported data
 
-Category types:
+Documents (books) may belong to several categories of each category type, and be linked to multiple menu items.
+
+## Category types:
 
 * Alder: Barn, Ungdom, Voksne
 * Ekstra: Mange bilder, Lydbok
@@ -18,9 +20,57 @@ Category types:
 * Emne: Krim/Spenning, Eventyr, Humor, Historie/samfunn, Kjærlighet, Hus/hjem/hage, Mat/Helse, Sport, Natur, Mennesker i mellom, Annet
 * Språk: Nynorsk, Bokmål, Nordsamisk, Sørsamisk, Lulesamisk
 
-Menu items: Litt å lese, Storskrift, Punktskrift & følebilder, Enkelt innhold, Tegnspråk & NMT, Bliss & Piktogram,Skjønnlitteratur, Faglitteratur, Bilder, Ny i Norge, Tegn til tale /NMT, Utviklingshemmede, Demente
+## Menu items
+* Litt å lese
+* Storskrift
+* Punktskrift & følebilder
+* Enkelt innhold
+* Tegnspråk & NMT
+* Bliss & Piktogram
+* Skjønnlitteratur
+* Faglitteratur
+* Bilder
+* Ny i Norge
+* Tegn til tale /NMT
+* Utviklingshemmede
+* Demente
 
-Documents (books) may belong to several categories of each category type, and be linked to multiple menu items.
+## Image mapping
+
+Images may be retrieved by constructing a URL of the form:
+
+    http://www.boksok.no/thumb.aspx?file=upload_images/<object_id>.<EXTENSION>&height=<height>&width=<width>
+
+ The fields object_id, EXTENSION, height, and width may be extracted from the IMAGES table ```original-data/JSON-FROM-CSV/images.json```, linked to book objects by ```DOC_ID```.
+
+ Full attribute set example for image objects:
+
+ ```json
+ {
+    "DOC_ID":27,
+    "param_id":2,
+    "xsl_id":"0",
+    "pos":10,
+    "description":"Dokumentbilde",
+    "width":259,
+    "height":337,
+    "section_id":2,
+    "att_id":602,
+    "object_type_id":27,
+    "object_type":"d",
+    "object_id":"40345289C0DF45A3B10D4EC8282B233A",
+    "title":"Julie og sofia.jpg",
+    "att_descr":"",
+    "att_param_id":2,
+    "NAME":"Julie og sofia.jpg",
+    "EXTENTION":"jpg",
+    "OBJECT_SIZE":708103,
+    "changed":"6/17/10 13:10",
+    "actual_width":"259",
+    "actual_height":"337",
+    "IMG":"prod_images/doc_27_2.jpg"
+  }
+  ```
 
 # Book Data Structure
 
