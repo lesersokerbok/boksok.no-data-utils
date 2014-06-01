@@ -29,7 +29,7 @@
 	<title>boksøk.no</title>
 	<link>http://localhost:8888</link>
 	<description></description>
-	<pubDate>Sat, 31 May 2014 21:02:32 +0000</pubDate>
+	<pubDate>Sun, 01 Jun 2014 18:11:36 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost:8888</wp:base_site_url>
@@ -38,7 +38,7 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>raae</wp:author_login><wp:author_email>raae@bgraphic.no</wp:author_email><wp:author_display_name><![CDATA[raae]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 
-	
+
 
 	<item>
 				<title>Julie og Sofia</title>
@@ -62,13 +62,19 @@
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="lsb_tax_topic" nicename="bestevenner"><![CDATA[bestevenner]]></category>
+		<category domain="lsb_tax_language" nicename="no_nb"><![CDATA[Bokmål]]></category>
+		<category domain="lsb_tax_customization" nicename="enkelt-innhold"><![CDATA[Enkelt innhold]]></category>
 		<category domain="lsb_tax_author" nicename="johanne-emilie-andersen"><![CDATA[Johanne Emilie Andersen]]></category>
 		<category domain="lsb_tax_illustrator" nicename="johanne-emilie-andersen"><![CDATA[Johanne Emilie Andersen]]></category>
 		<category domain="lsb_tax_publisher" nicename="orkana"><![CDATA[Orkana]]></category>
+		<category domain="lsb_tax_genre" nicename="prosa"><![CDATA[Prosa]]></category>
 		<category domain="lsb_tax_topic" nicename="samtalebok"><![CDATA[samtalebok]]></category>
+		<category domain="lsb_tax_age" nicename="ungdom"><![CDATA[Ungdom]]></category>
+		<category domain="lsb_tax_customization" nicename="utviklingshemmede"><![CDATA[Utviklingshemmede]]></category>
 		<category domain="lsb_tax_topic" nicename="venner"><![CDATA[venner]]></category>
 		<category domain="lsb_tax_topic" nicename="venninner"><![CDATA[venninner]]></category>
 		<category domain="lsb_tax_topic" nicename="vennskap"><![CDATA[vennskap]]></category>
+		<category domain="lsb_tax_age" nicename="voksen"><![CDATA[Voksen]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -127,7 +133,7 @@ Når hun kommer hjem fra jobben
 går hun rett inn og legger seg i senga.
 Der blir hun liggende å tenke ...
 
-Julie og Sofia har store illustrasjoner i farger.
+<strong>Julie og Sofia</strong> har store illustrasjoner i farger.
 Illustrasjonene viser hva som skjer.
 Boka har lite tekst på hver side og er lett å lese.
 For de som ikke forstår alt selv,

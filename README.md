@@ -90,8 +90,8 @@ custom_pages | lsb_pages | acf text
 custom_supports_lsb | lsb_supported | true / false
  | lsb_support_cat | purple (Litt å lese), yellow (Storskrift), orange (Punktskrift & Følebilder), green (Enkelt innhold), red (Tegnspråk & NMT), blue (Bliss & Piktogram)
   
-(1): So the user can easily add another and the ui will "type ahead" and that might help combat spelling differences.
-(2): With acf wysiwyg one can limit the user more, ie. no possibility of media upload.
+(1): So the user can easily add another and the ui will "type ahead" and that might help combat spelling differences.  
+(2): With acf wysiwyg one can limit the user more, ie. no possibility of media upload.  
 
 ## Categorization
 
@@ -107,7 +107,7 @@ Emne | lsb_topic | wp custom taxonomy (tag) | free form (3)
 
 
 (1): Find a better term  
-(2): On import split bliss & piktogram into seperate categories.  
-     Record the book id so one can manually go through and pic the correct one category.  
-(3): In import split hus/hjem/hage into the seperate tags hus, hjem, hage.  
+(2): On import split original groups like Bliss & Piktogram into the seperate customazation categories: Bliss, Piktogram.  
+     Record the book id so one can manually go through and pic the correct category/categories.  
+(3): In import split groups like hus/hjem/hage into the seperate topic tags: hus, hjem, hage.  
      Record the book id so one can manually go through and pic the correct tags.
