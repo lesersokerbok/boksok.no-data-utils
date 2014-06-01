@@ -76,7 +76,7 @@ module.exports = {
     testBooksToXML: function (test) {
         booksToXML(testFixture).then(function (xml) {
 
-           fs.writeFile('./output/books.xml', xml);
+           fs.writeFile('./output-example/test-books-import-file-generator.xml', xml);
 
             var preamble = '<?xml version="1.0" encoding="UTF-8"?>';
             test.ok(typeof xml === 'string', 'Result should be a string.');

@@ -112,7 +112,7 @@ fs.readFile('./original-data/JSON-FROM-CSV/DOC.json', function (err, data) {
         books.push(book);
     }
 
-    fs.writeFile('./output/test.json', JSON.stringify(books, null, 4), function (err) {
+    fs.writeFile('./output-example/test-json-conversion.json', JSON.stringify(books, null, 4), function (err) {
         if (err)
             console.log(err);
     });
