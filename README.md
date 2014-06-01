@@ -40,9 +40,9 @@ Documents (books) may belong to several categories of each category type, and be
 
 Images may be retrieved by constructing a URL of the form:
 
-    http://www.boksok.no/thumb.aspx?file=upload_images/<object_id>.<EXTENSION>&height=<height>&width=<width>
+    http://www.boksok.no/thumb.aspx?file=upload_images/<object_id>.<EXTENSION>&height=<actual_height>&width=<actual_width>
 
- The fields object_id, EXTENTION (sic), height, and width may be extracted from the IMAGES table ```original-data/JSON-FROM-CSV/images.json```, linked to book objects by ```DOC_ID```.
+ The fields object_id, EXTENTION (sic), actual_height, and actual_width may be extracted from the IMAGES table ```original-data/JSON-FROM-CSV/images.json```, linked to book objects by ```DOC_ID```.
 
  Full attribute set example for image objects:
 
