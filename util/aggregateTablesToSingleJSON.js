@@ -143,6 +143,9 @@ function tagsArrayFromMenuLink(bookID) {
             return menuItem['NAME'];
         })
         .map(function (menuItemName) {
+            return menuItemName.trim();
+        })
+        .map(function (menuItemName) {
             if (menuItemName.indexOf('/') > -1) {
                 console.log('INFO_LSB_CUSTOMIZATION_VALUE_SPLIT_BY_/_BOOKID: ' + bookID);
             }
