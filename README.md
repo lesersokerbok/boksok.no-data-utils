@@ -3,9 +3,10 @@ boksok.no-data-utils
 
 Conversion tools for exported boksok.no data.
 
-The original data exported from boksok.no is located in ```./original-data/boksok.xlsx```. Each table is exported from its corresponding excel sheet into a CSV file in ```./original-data/CSV-FROM-EXCEL/```, then converted into JSON in ```./original-data/JSON-FROM-CSV/```.
+The original data exported from boksok.no is located in ```./original-data/boksok.xlsx```. Each table is exported from its corresponding excel sheet into a CSV file in ```./original-data/CSV-FROM-EXCEL/```, then converted into JSON in ```./original-data/JSON-FROM-CSV/```. Images are located in ```./original-data/bilder.xlsx```
+.
 
-A proof-of-concept Node.js conversion script in ```./util/convert.js``` converts the JSON data into a test JSON data structure in ```./output/test.json```. To run the script, first install Node.js dependencies (```npm install```) then run ```node util/convert.js```.
+A proof-of-concept Node.js conversion script in ```./util/aggregateTablesToSingleJSON.js``` converts the JSON data into a test JSON data structure in ```./output-example/test-json-conversion.json```. To run the script, first install Node.js dependencies (```npm install```) then run ```node util/aggregateTablesToSingleJSON.js```.
 
 
 # Notes about the exported data
@@ -41,7 +42,7 @@ Images may be retrieved by constructing a URL of the form:
 
     http://www.boksok.no/thumb.aspx?file=upload_images/<object_id>.<EXTENSION>&height=<height>&width=<width>
 
- The fields object_id, EXTENSION, height, and width may be extracted from the IMAGES table ```original-data/JSON-FROM-CSV/images.json```, linked to book objects by ```DOC_ID```.
+ The fields object_id, EXTENTION (sic), height, and width may be extracted from the IMAGES table ```original-data/JSON-FROM-CSV/images.json```, linked to book objects by ```DOC_ID```.
 
  Full attribute set example for image objects:
 

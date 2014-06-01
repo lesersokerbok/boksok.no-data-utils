@@ -5,13 +5,34 @@ var fs = require('fs'),
     textCategories = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/TEXT.json')),
     menuLinks = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/MENU_LINK.json')),
     menuItems = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/MENU.json')),
-    contentItems = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/CONTENT.json'));
+    contentItems = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/CONTENT.json')),
+    imageItems = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/IMAGES.json'));
 
 function preprocess(value) {
     if (value === 'NULL')
         return undefined;
 
     return value
+}
+
+function imageObjectForBook(bookID) {
+    var imageItem = _.findWhere(imageItems, { "DOC_ID": bookID });
+
+    if (imageItem === undefined)
+        return undefined;
+
+    var url = "http://www.boksok.no/thumb.aspx?file=upload_images/"
+        + imageItem.object_id
+        + "."
+        + imageItem.EXTENTION
+        + "&height="
+        + imageItem.actual_height
+        + "&width="
+        + imageItem.actual_width;
+
+    return {
+        url: url
+    };
 }
 
 function contentForBook(bookID) {
@@ -107,6 +128,11 @@ fs.readFile('./original-data/JSON-FROM-CSV/DOC.json', function (err, data) {
             ]);
 
             book.content = contentForBook(book.id);
+
+            var imageObject = imageObjectForBook(book.id);
+
+            if (imageObject !== undefined)
+                book.coverImageUrl = imageObject.url;
         }
 
         books.push(book);
