@@ -214,6 +214,8 @@ fs.readFile('./original-data/JSON-FROM-CSV/DOC.json', function (err, data) {
         books.push(book);
     }
 
+    console.log("Generated number of books to JSON: " + books.length);
+
     fs.writeFile('./output-example/test-json-conversion.json', JSON.stringify(books, null, 4), function (err) {
         if (err)
             console.log(err);
