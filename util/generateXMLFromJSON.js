@@ -17,7 +17,10 @@ fs.readFile('./output-example/test-json-conversion.json', function (err, data) {
     console.log("Number of books to generate XML from: " + books.length);
 
     booksToXML(books).then(function (xml) {
+        console.log("done");
         fs.writeFile('./output-example/test-books-import-file-generator.xml', xml);
+    }, function (err) {
+        console.error(err);
     });
 
 });

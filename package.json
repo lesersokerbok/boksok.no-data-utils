@@ -9,7 +9,9 @@
         "underscore": "1.6.x",
         "xml": "*",
         "nodeunit": "*",
-        "promise": "*"
+        "promise": "*",
+        "request": "*",
+        "async": "*"
     },
     "devDependencies": {
         "xml2js": "*"
