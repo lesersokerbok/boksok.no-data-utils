@@ -26,23 +26,11 @@
 >
 
 <channel>
-	<title>boksøk.no</title>
-	<link>http://localhost:8888</link>
-	<description></description>
-	<pubDate>Tue, 03 Jun 2014 15:35:14 +0000</pubDate>
-	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://localhost:8888</wp:base_site_url>
-	<wp:base_blog_url>http://localhost:8888</wp:base_blog_url>
-
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>raae</wp:author_login><wp:author_email>raae@bgraphic.no</wp:author_email><wp:author_display_name><![CDATA[raae]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-
-
-
 
 	<item>
-				<title>Julie og Sofia</title>
-		<link>http://localhost:8888/bok/julie-og-sofia/</link>
+    <title>Julie og Sofia</title>
+		<link>http://boksok.lillyapps.no/bok/julie-og-sofia/</link>
 		<pubDate>Sat, 31 May 2014 20:59:31 +0000</pubDate>
 		<dc:creator><![CDATA[raae]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?post_type=lsb_book&#038;p=107</guid>
@@ -77,7 +65,7 @@
 		<category domain="lsb_tax_age" nicename="voksen"><![CDATA[Voksen]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>lsb_isbn</wp:meta_key>
@@ -160,7 +148,39 @@ Hun bare mumler at de får prates senere.]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[109]]></wp:meta_value>
+			<wp:meta_value><![CDATA[117]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+
+	<item>
+    <title>julieogsofie</title>
+		<link>http://boksok.lillyapps.no/bok/julie-og-sofia/julieogsofie/</link>
+		<pubDate>Tue, 03 Jun 2014 16:14:23 +0000</pubDate>
+		<dc:creator><![CDATA[raae]]></dc:creator>
+		<guid isPermaLink="false">http://boksok.lillyapps.no/wp-content/uploads/sites/6/2014/05/julieogsofie.jpeg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>117</wp:post_id>
+		<wp:post_date>2014-06-03 18:14:23</wp:post_date>
+		<wp:post_date_gmt>2014-06-03 16:14:23</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>julieogsofie</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>107</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://boksok.lillyapps.no/wp-content/uploads/sites/6/2014/05/julieogsofie.jpeg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2014/05/julieogsofie.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:1326;s:4:"file";s:25:"2014/05/julieogsofie.jpeg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"julieogsofie-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"julieogsofie-231x300.jpeg";s:5:"width";i:231;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"julieogsofie-790x1024.jpeg";s:5:"width";i:790;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
