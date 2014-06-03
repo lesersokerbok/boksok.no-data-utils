@@ -37,8 +37,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 28,
@@ -78,8 +77,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 29,
@@ -114,8 +112,7 @@
         "lsb_customization": [
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 30,
@@ -149,8 +146,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 31,
@@ -187,8 +183,7 @@
         "lsb_customization": [
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 32,
@@ -225,8 +220,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 33,
@@ -263,8 +257,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 34,
@@ -305,8 +298,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 35,
@@ -347,8 +339,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 37,
@@ -383,8 +374,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 38,
@@ -419,8 +409,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 39,
@@ -458,8 +447,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 49,
@@ -498,8 +486,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 50,
@@ -535,8 +522,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 51,
@@ -566,8 +552,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 52,
@@ -602,8 +587,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 53,
@@ -633,8 +617,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 54,
@@ -666,8 +649,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 55,
@@ -703,8 +685,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 56,
@@ -743,8 +724,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 57,
@@ -776,8 +756,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 58,
@@ -809,8 +788,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 59,
@@ -842,8 +820,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 60,
@@ -876,8 +853,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 61,
@@ -910,8 +886,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 62,
@@ -943,8 +918,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 63,
@@ -976,8 +950,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 64,
@@ -1011,8 +984,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 65,
@@ -1044,8 +1016,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 66,
@@ -1077,8 +1048,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 67,
@@ -1110,8 +1080,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 68,
@@ -1143,8 +1112,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 69,
@@ -1178,8 +1146,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 70,
@@ -1211,8 +1178,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 72,
@@ -1247,8 +1213,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 73,
@@ -1282,8 +1247,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 74,
@@ -1315,8 +1279,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 75,
@@ -1351,8 +1314,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 76,
@@ -1384,8 +1346,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 77,
@@ -1421,8 +1382,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 78,
@@ -1458,8 +1418,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 79,
@@ -1491,8 +1450,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 80,
@@ -1529,8 +1487,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 81,
@@ -1564,8 +1521,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 82,
@@ -1597,8 +1553,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 83,
@@ -1630,8 +1585,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 84,
@@ -1663,8 +1617,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 85,
@@ -1696,8 +1649,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 86,
@@ -1730,8 +1682,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 87,
@@ -1767,8 +1718,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 88,
@@ -1803,8 +1753,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 89,
@@ -1839,8 +1788,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 90,
@@ -1878,8 +1826,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 91,
@@ -1920,8 +1867,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 92,
@@ -1959,8 +1905,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 93,
@@ -1992,8 +1937,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 94,
@@ -2031,8 +1975,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 95,
@@ -2066,8 +2009,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 96,
@@ -2104,8 +2046,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 97,
@@ -2141,8 +2082,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 98,
@@ -2179,8 +2119,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 99,
@@ -2215,8 +2154,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 100,
@@ -2257,8 +2195,7 @@
             "nmt",
             "tegnspråk",
             "nmt"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 101,
@@ -2291,8 +2228,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 102,
@@ -2328,8 +2264,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 103,
@@ -2365,8 +2300,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 104,
@@ -2397,8 +2331,7 @@
         "lsb_customization": [
             "bliss",
             "piktogram"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 105,
@@ -2437,8 +2370,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 106,
@@ -2474,8 +2406,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 109,
@@ -2514,8 +2445,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 110,
@@ -2558,8 +2488,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 111,
@@ -2592,8 +2521,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 113,
@@ -2633,8 +2561,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 114,
@@ -2675,8 +2602,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 116,
@@ -2716,8 +2642,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 118,
@@ -2752,8 +2677,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 119,
@@ -2786,8 +2710,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 120,
@@ -2821,8 +2744,7 @@
         ],
         "lsb_customization": [
             "storskrift"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 121,
@@ -2856,8 +2778,7 @@
         ],
         "lsb_customization": [
             "storskrift"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 122,
@@ -2892,8 +2813,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 123,
@@ -2930,8 +2850,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 124,
@@ -2967,8 +2886,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 125,
@@ -3009,8 +2927,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 126,
@@ -3049,8 +2966,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 127,
@@ -3086,8 +3002,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 128,
@@ -3123,8 +3038,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 129,
@@ -3158,8 +3072,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 130,
@@ -3193,8 +3106,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 131,
@@ -3236,8 +3148,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 132,
@@ -3279,8 +3190,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 133,
@@ -3320,8 +3230,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 134,
@@ -3363,8 +3272,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 135,
@@ -3404,8 +3312,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 136,
@@ -3438,8 +3345,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 137,
@@ -3479,8 +3385,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 138,
@@ -3517,8 +3422,7 @@
         "lsb_customization": [
             "bliss",
             "piktogram"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 139,
@@ -3551,8 +3455,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 140,
@@ -3588,8 +3491,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 141,
@@ -3629,8 +3531,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 142,
@@ -3669,8 +3570,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 143,
@@ -3708,8 +3608,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 144,
@@ -3744,8 +3643,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 145,
@@ -3786,8 +3684,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 146,
@@ -3827,8 +3724,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 147,
@@ -3871,8 +3767,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 148,
@@ -3909,8 +3804,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 149,
@@ -3951,8 +3845,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 150,
@@ -3987,8 +3880,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 151,
@@ -4030,8 +3922,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 153,
@@ -4068,8 +3959,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 154,
@@ -4105,8 +3995,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 155,
@@ -4148,8 +4037,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 157,
@@ -4185,8 +4073,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 159,
@@ -4225,8 +4112,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 161,
@@ -4266,8 +4152,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 162,
@@ -4306,8 +4191,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 163,
@@ -4348,8 +4232,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 164,
@@ -4381,8 +4264,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 165,
@@ -4417,8 +4299,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 166,
@@ -4451,8 +4332,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 167,
@@ -4488,8 +4368,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 168,
@@ -4525,8 +4404,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 169,
@@ -4561,8 +4439,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 170,
@@ -4597,8 +4474,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 171,
@@ -4630,8 +4506,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 172,
@@ -4661,8 +4536,7 @@
             "tegnspråk",
             "tegnspråk",
             "nmt"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 173,
@@ -4693,8 +4567,7 @@
             "tegnspråk",
             "tegnspråk",
             "nmt"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 174,
@@ -4736,8 +4609,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 175,
@@ -4772,8 +4644,7 @@
             "nmt",
             "tegnspråk",
             "nmt"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 176,
@@ -4795,8 +4666,7 @@
             "tegnspråk",
             "tegnspråk",
             "nmt"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 177,
@@ -4835,8 +4705,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 178,
@@ -4873,8 +4742,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 179,
@@ -4913,8 +4781,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 180,
@@ -4950,8 +4817,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 181,
@@ -4981,8 +4847,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 182,
@@ -5016,8 +4881,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 183,
@@ -5048,8 +4912,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 185,
@@ -5085,8 +4948,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 186,
@@ -5124,8 +4986,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 187,
@@ -5159,8 +5020,7 @@
             "storskrift",
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 188,
@@ -5199,8 +5059,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 189,
@@ -5244,8 +5103,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 190,
@@ -5279,8 +5137,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 191,
@@ -5317,8 +5174,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 192,
@@ -5355,8 +5211,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 193,
@@ -5395,8 +5250,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 194,
@@ -5435,8 +5289,7 @@
         "lsb_customization": [
             "demente",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 195,
@@ -5471,8 +5324,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 196,
@@ -5511,8 +5363,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 197,
@@ -5553,8 +5404,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 198,
@@ -5595,8 +5445,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 199,
@@ -5634,8 +5483,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 200,
@@ -5671,8 +5519,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 201,
@@ -5706,8 +5553,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 202,
@@ -5743,8 +5589,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 203,
@@ -5780,8 +5625,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 204,
@@ -5820,8 +5664,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 205,
@@ -5853,8 +5696,7 @@
             "tegnspråk",
             "tegnspråk",
             "nmt"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 206,
@@ -5892,8 +5734,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 207,
@@ -5935,8 +5776,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 209,
@@ -5972,8 +5812,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 210,
@@ -6013,8 +5852,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 211,
@@ -6058,8 +5896,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 213,
@@ -6099,8 +5936,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 214,
@@ -6138,8 +5974,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 215,
@@ -6168,8 +6003,7 @@
         ],
         "lsb_customization": [
             "storskrift"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 216,
@@ -6198,8 +6032,7 @@
         ],
         "lsb_customization": [
             "storskrift"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 217,
@@ -6228,8 +6061,7 @@
         ],
         "lsb_customization": [
             "storskrift"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 218,
@@ -6258,8 +6090,7 @@
         ],
         "lsb_customization": [
             "storskrift"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 219,
@@ -6299,8 +6130,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 220,
@@ -6336,8 +6166,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 221,
@@ -6371,8 +6200,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 222,
@@ -6411,8 +6239,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 223,
@@ -6452,8 +6279,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 224,
@@ -6490,8 +6316,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 225,
@@ -6526,8 +6351,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 226,
@@ -6568,8 +6392,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 227,
@@ -6608,8 +6431,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 228,
@@ -6648,8 +6470,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 229,
@@ -6688,8 +6509,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 230,
@@ -6717,8 +6537,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 231,
@@ -6756,8 +6575,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 232,
@@ -6796,8 +6614,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 233,
@@ -6834,8 +6651,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 234,
@@ -6870,8 +6686,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 235,
@@ -6907,8 +6722,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 236,
@@ -6944,8 +6758,7 @@
             "storskrift",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 237,
@@ -6984,8 +6797,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 238,
@@ -7021,8 +6833,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 239,
@@ -7059,8 +6870,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 240,
@@ -7097,8 +6907,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 241,
@@ -7135,8 +6944,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 242,
@@ -7172,8 +6980,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 243,
@@ -7212,8 +7019,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 244,
@@ -7249,8 +7055,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 245,
@@ -7288,8 +7093,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 246,
@@ -7325,8 +7129,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 247,
@@ -7362,8 +7165,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 249,
@@ -7400,8 +7202,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 250,
@@ -7437,8 +7238,7 @@
             "storskrift",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 251,
@@ -7474,8 +7274,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 252,
@@ -7513,8 +7312,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 253,
@@ -7552,8 +7350,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 254,
@@ -7585,8 +7382,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 255,
@@ -7622,8 +7418,7 @@
             "nmt",
             "tegnspråk",
             "nmt"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 256,
@@ -7663,8 +7458,7 @@
             "litt å lese",
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 257,
@@ -7702,8 +7496,7 @@
             "litt å lese",
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 258,
@@ -7744,8 +7537,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 259,
@@ -7786,8 +7578,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 260,
@@ -7822,8 +7613,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 261,
@@ -7862,8 +7652,7 @@
             "tegnspråk",
             "tegnspråk",
             "nmt"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 262,
@@ -7904,8 +7693,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 263,
@@ -7942,8 +7730,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 264,
@@ -7985,8 +7772,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 265,
@@ -8025,8 +7811,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 266,
@@ -8064,8 +7849,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 267,
@@ -8106,8 +7890,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 268,
@@ -8144,8 +7927,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 269,
@@ -8185,8 +7967,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 270,
@@ -8224,8 +8005,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 271,
@@ -8260,8 +8040,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 272,
@@ -8298,8 +8077,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 273,
@@ -8341,8 +8119,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 274,
@@ -8382,8 +8159,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 275,
@@ -8425,8 +8201,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 276,
@@ -8462,8 +8237,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 277,
@@ -8499,8 +8273,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 278,
@@ -8536,8 +8309,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 279,
@@ -8572,8 +8344,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 280,
@@ -8610,8 +8381,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 281,
@@ -8647,8 +8417,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 282,
@@ -8683,8 +8452,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 283,
@@ -8720,8 +8488,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 284,
@@ -8765,8 +8532,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 285,
@@ -8805,8 +8571,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 286,
@@ -8847,8 +8612,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 287,
@@ -8887,8 +8651,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 288,
@@ -8927,8 +8690,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 289,
@@ -8957,8 +8719,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 290,
@@ -9001,8 +8762,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 291,
@@ -9043,8 +8803,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 292,
@@ -9085,8 +8844,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 293,
@@ -9125,8 +8883,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 294,
@@ -9161,8 +8918,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 295,
@@ -9205,8 +8961,7 @@
             "storskrift",
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 296,
@@ -9243,8 +8998,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 297,
@@ -9280,8 +9034,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 298,
@@ -9317,8 +9070,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 299,
@@ -9358,8 +9110,7 @@
             "nmt",
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 300,
@@ -9400,8 +9151,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 301,
@@ -9439,8 +9189,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 302,
@@ -9482,8 +9231,7 @@
             "litt å lese",
             "demente",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 303,
@@ -9521,8 +9269,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 304,
@@ -9555,8 +9302,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 305,
@@ -9594,8 +9340,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 306,
@@ -9632,8 +9377,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 307,
@@ -9669,8 +9413,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 308,
@@ -9708,8 +9451,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 309,
@@ -9749,8 +9491,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 311,
@@ -9788,8 +9529,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 312,
@@ -9826,8 +9566,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 314,
@@ -9863,8 +9602,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 315,
@@ -9902,8 +9640,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 316,
@@ -9928,8 +9665,7 @@
             "tegnspråk",
             "tegnspråk",
             "nmt"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 317,
@@ -9966,8 +9702,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 318,
@@ -10006,8 +9741,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 319,
@@ -10042,8 +9776,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 320,
@@ -10077,8 +9810,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 322,
@@ -10117,8 +9849,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 323,
@@ -10153,8 +9884,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 324,
@@ -10191,8 +9921,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 325,
@@ -10231,8 +9960,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 326,
@@ -10270,8 +9998,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 327,
@@ -10305,8 +10032,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 328,
@@ -10340,8 +10066,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 329,
@@ -10374,8 +10099,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 330,
@@ -10410,8 +10134,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 331,
@@ -10449,8 +10172,7 @@
             "litt å lese",
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 332,
@@ -10488,8 +10210,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 333,
@@ -10527,8 +10248,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 334,
@@ -10568,8 +10288,7 @@
             "nmt",
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 335,
@@ -10609,8 +10328,7 @@
             "nmt",
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 336,
@@ -10651,8 +10369,7 @@
         "lsb_customization": [
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 337,
@@ -10693,8 +10410,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 338,
@@ -10730,8 +10446,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 342,
@@ -10768,8 +10483,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 346,
@@ -10806,8 +10520,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 347,
@@ -10844,8 +10557,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 348,
@@ -10878,8 +10590,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 349,
@@ -10912,8 +10623,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 350,
@@ -10949,8 +10659,7 @@
         "lsb_customization": [
             "bliss",
             "piktogram"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 351,
@@ -10986,8 +10695,7 @@
         "lsb_customization": [
             "bliss",
             "piktogram"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 352,
@@ -11026,8 +10734,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 353,
@@ -11066,8 +10773,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 354,
@@ -11106,8 +10812,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 355,
@@ -11146,8 +10851,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 356,
@@ -11183,8 +10887,7 @@
             "storskrift",
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 357,
@@ -11223,8 +10926,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 358,
@@ -11261,8 +10963,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 359,
@@ -11297,8 +10998,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 360,
@@ -11333,8 +11033,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 361,
@@ -11376,8 +11075,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 362,
@@ -11419,8 +11117,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 363,
@@ -11461,8 +11158,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 364,
@@ -11501,8 +11197,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 365,
@@ -11543,8 +11238,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 366,
@@ -11578,8 +11272,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 367,
@@ -11618,8 +11311,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 368,
@@ -11658,8 +11350,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 370,
@@ -11697,8 +11388,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 371,
@@ -11738,8 +11428,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 372,
@@ -11782,8 +11471,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 373,
@@ -11824,8 +11512,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 374,
@@ -11863,8 +11550,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 375,
@@ -11905,8 +11591,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 376,
@@ -11943,8 +11628,7 @@
         "lsb_customization": [
             "bliss",
             "piktogram"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 377,
@@ -11983,8 +11667,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 378,
@@ -12023,8 +11706,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 379,
@@ -12059,8 +11741,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 380,
@@ -12104,8 +11785,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 381,
@@ -12140,8 +11820,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 382,
@@ -12177,8 +11856,7 @@
         "lsb_customization": [
             "bliss",
             "piktogram"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 383,
@@ -12219,8 +11897,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 384,
@@ -12260,8 +11937,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 385,
@@ -12301,8 +11977,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 386,
@@ -12342,8 +12017,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 387,
@@ -12382,8 +12056,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 388,
@@ -12423,8 +12096,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 389,
@@ -12462,8 +12134,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 390,
@@ -12501,8 +12172,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 391,
@@ -12542,8 +12212,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 392,
@@ -12583,8 +12252,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 393,
@@ -12620,8 +12288,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 394,
@@ -12658,8 +12325,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 396,
@@ -12699,8 +12365,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 397,
@@ -12738,8 +12403,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 398,
@@ -12777,8 +12441,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 399,
@@ -12815,8 +12478,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 401,
@@ -12853,8 +12515,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 402,
@@ -12891,8 +12552,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 403,
@@ -12927,8 +12587,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 404,
@@ -12956,7 +12615,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://www.blaiboka.no/index.php?isbn13=9788252175035#/0"
     },
     {
         "id": 407,
@@ -12992,8 +12651,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 409,
@@ -13034,8 +12692,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 410,
@@ -13074,8 +12731,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 411,
@@ -13108,8 +12764,7 @@
         "lsb_customization": [
             "demente",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 412,
@@ -13146,8 +12801,7 @@
             "storskrift",
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 413,
@@ -13184,8 +12838,7 @@
             "storskrift",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 414,
@@ -13220,8 +12873,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 416,
@@ -13253,8 +12905,7 @@
         ],
         "lsb_customization": [
             "storskrift"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 417,
@@ -13289,8 +12940,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 419,
@@ -13326,8 +12976,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 421,
@@ -13366,8 +13015,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 422,
@@ -13404,8 +13052,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 423,
@@ -13442,8 +13089,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 424,
@@ -13477,8 +13123,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 425,
@@ -13513,8 +13158,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 426,
@@ -13550,8 +13194,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 427,
@@ -13588,8 +13231,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 428,
@@ -13627,8 +13269,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 429,
@@ -13666,8 +13307,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 430,
@@ -13703,8 +13343,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 431,
@@ -13736,8 +13375,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 433,
@@ -13774,8 +13412,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 434,
@@ -13816,8 +13453,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 435,
@@ -13854,8 +13490,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 436,
@@ -13899,8 +13534,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 437,
@@ -13934,8 +13568,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 438,
@@ -13969,8 +13602,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 439,
@@ -14006,8 +13638,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 440,
@@ -14042,8 +13673,7 @@
         ],
         "lsb_customization": [
             "storskrift"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 441,
@@ -14079,8 +13709,7 @@
         ],
         "lsb_customization": [
             "storskrift"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 442,
@@ -14112,8 +13741,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 443,
@@ -14147,8 +13775,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 444,
@@ -14182,8 +13809,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 445,
@@ -14218,8 +13844,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 446,
@@ -14255,8 +13880,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 447,
@@ -14292,8 +13916,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 448,
@@ -14331,8 +13954,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 449,
@@ -14370,8 +13992,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 450,
@@ -14411,8 +14032,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 451,
@@ -14451,8 +14071,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 452,
@@ -14485,8 +14104,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 453,
@@ -14526,8 +14144,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 454,
@@ -14562,8 +14179,7 @@
             "storskrift",
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 455,
@@ -14600,8 +14216,7 @@
         "lsb_customization": [
             "bliss",
             "piktogram"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 456,
@@ -14639,8 +14254,7 @@
         "lsb_customization": [
             "bliss",
             "piktogram"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 457,
@@ -14674,8 +14288,7 @@
         "lsb_customization": [
             "bliss",
             "piktogram"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 458,
@@ -14710,8 +14323,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 459,
@@ -14746,8 +14358,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 460,
@@ -14780,8 +14391,7 @@
         "lsb_customization": [
             "bliss",
             "piktogram"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 461,
@@ -14816,8 +14426,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 462,
@@ -14854,8 +14463,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 463,
@@ -14894,8 +14502,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 464,
@@ -14930,8 +14537,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 465,
@@ -14967,8 +14573,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 466,
@@ -15006,8 +14611,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 467,
@@ -15043,8 +14647,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 468,
@@ -15082,8 +14685,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 469,
@@ -15118,8 +14720,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 470,
@@ -15160,8 +14761,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 471,
@@ -15197,8 +14797,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 472,
@@ -15237,8 +14836,7 @@
         "lsb_customization": [
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 473,
@@ -15273,8 +14871,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 474,
@@ -15316,8 +14913,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 475,
@@ -15351,8 +14947,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 476,
@@ -15388,8 +14983,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 477,
@@ -15427,8 +15021,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 478,
@@ -15467,8 +15060,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 479,
@@ -15503,8 +15095,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 480,
@@ -15543,8 +15134,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 481,
@@ -15579,8 +15169,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 482,
@@ -15614,8 +15203,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 483,
@@ -15650,8 +15238,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 484,
@@ -15687,8 +15274,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 485,
@@ -15720,8 +15306,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 486,
@@ -15764,8 +15349,7 @@
             "storskrift",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 487,
@@ -15804,8 +15388,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 488,
@@ -15840,8 +15423,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 489,
@@ -15877,8 +15459,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 490,
@@ -15914,8 +15495,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 491,
@@ -15953,8 +15533,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 492,
@@ -15989,8 +15568,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 494,
@@ -16027,8 +15605,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 496,
@@ -16069,8 +15646,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 499,
@@ -16110,8 +15686,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 500,
@@ -16151,8 +15726,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 501,
@@ -16189,8 +15763,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 504,
@@ -16230,8 +15803,7 @@
         "lsb_customization": [
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 506,
@@ -16274,8 +15846,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 507,
@@ -16310,8 +15881,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 508,
@@ -16352,8 +15922,7 @@
         "lsb_customization": [
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 510,
@@ -16394,8 +15963,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 511,
@@ -16430,8 +15998,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 512,
@@ -16468,8 +16035,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 513,
@@ -16506,8 +16072,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 514,
@@ -16545,8 +16110,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 515,
@@ -16583,8 +16147,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 517,
@@ -16620,8 +16183,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 518,
@@ -16657,8 +16219,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 519,
@@ -16692,8 +16253,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 520,
@@ -16736,8 +16296,7 @@
         "lsb_customization": [
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 521,
@@ -16782,8 +16341,7 @@
         "lsb_customization": [
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 522,
@@ -16819,8 +16377,7 @@
             "storskrift",
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 523,
@@ -16860,8 +16417,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 528,
@@ -16897,8 +16453,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 530,
@@ -16933,8 +16488,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 531,
@@ -16968,8 +16522,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 532,
@@ -17004,8 +16557,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 533,
@@ -17039,8 +16591,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 534,
@@ -17072,8 +16623,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 536,
@@ -17111,8 +16661,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 537,
@@ -17147,8 +16696,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 539,
@@ -17183,8 +16731,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 541,
@@ -17220,8 +16767,7 @@
         ],
         "lsb_customization": [
             "storskrift"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 542,
@@ -17259,8 +16805,7 @@
         ],
         "lsb_customization": [
             "storskrift"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 549,
@@ -17294,8 +16839,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 550,
@@ -17332,8 +16876,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 552,
@@ -17367,8 +16910,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 554,
@@ -17402,8 +16944,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 555,
@@ -17440,8 +16981,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 556,
@@ -17476,8 +17016,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 557,
@@ -17511,8 +17050,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 558,
@@ -17548,8 +17086,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 560,
@@ -17580,8 +17117,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 561,
@@ -17623,8 +17159,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 562,
@@ -17658,8 +17193,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 563,
@@ -17692,8 +17226,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 564,
@@ -17729,8 +17262,7 @@
             "storskrift",
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 565,
@@ -17766,8 +17298,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 566,
@@ -17805,8 +17336,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 567,
@@ -17841,8 +17371,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 571,
@@ -17884,8 +17413,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 573,
@@ -17920,8 +17448,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 574,
@@ -17960,8 +17487,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 575,
@@ -18001,8 +17527,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 576,
@@ -18036,8 +17561,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 577,
@@ -18074,8 +17598,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 578,
@@ -18114,8 +17637,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 581,
@@ -18155,8 +17677,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 582,
@@ -18191,8 +17712,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 583,
@@ -18229,8 +17749,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 584,
@@ -18265,8 +17784,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 585,
@@ -18302,8 +17820,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 586,
@@ -18341,8 +17858,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 587,
@@ -18378,8 +17894,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 589,
@@ -18413,8 +17928,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 590,
@@ -18450,8 +17964,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 592,
@@ -18487,8 +18000,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 593,
@@ -18524,8 +18036,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 594,
@@ -18561,8 +18072,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 595,
@@ -18602,8 +18112,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 596,
@@ -18640,8 +18149,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 597,
@@ -18679,8 +18187,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 598,
@@ -18699,8 +18206,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 599,
@@ -18740,8 +18246,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 600,
@@ -18773,8 +18278,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 601,
@@ -18816,8 +18320,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 602,
@@ -18858,8 +18361,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 603,
@@ -18902,8 +18404,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 605,
@@ -18944,8 +18445,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 606,
@@ -18985,8 +18485,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 607,
@@ -19022,8 +18521,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 608,
@@ -19060,8 +18558,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 609,
@@ -19100,8 +18597,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 610,
@@ -19136,8 +18632,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 611,
@@ -19172,8 +18667,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 613,
@@ -19208,8 +18702,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 614,
@@ -19253,8 +18746,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 615,
@@ -19295,8 +18787,7 @@
         "lsb_customization": [
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 616,
@@ -19331,8 +18822,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 617,
@@ -19368,8 +18858,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 618,
@@ -19405,8 +18894,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 621,
@@ -19448,8 +18936,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 622,
@@ -19484,8 +18971,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 624,
@@ -19518,8 +19004,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 625,
@@ -19551,8 +19036,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 626,
@@ -19597,7 +19081,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/apefjes?mode=window&backgroundColor=%23222222"
     },
     {
         "id": 627,
@@ -19637,8 +19121,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 628,
@@ -19677,8 +19160,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 629,
@@ -19712,8 +19194,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 630,
@@ -19753,8 +19234,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 631,
@@ -19788,8 +19268,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 632,
@@ -19829,8 +19308,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 633,
@@ -19867,7 +19345,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/ingensomroyker"
     },
     {
         "id": 634,
@@ -19904,8 +19382,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 635,
@@ -19939,8 +19416,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 636,
@@ -19980,8 +19456,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 637,
@@ -20016,8 +19491,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 638,
@@ -20057,8 +19531,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 639,
@@ -20104,7 +19577,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/aschehoug/docs/kakedager/1"
     },
     {
         "id": 640,
@@ -20143,8 +19616,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 643,
@@ -20189,7 +19661,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/stixmail/docs/hurrabok_noen_bilder/15"
     },
     {
         "id": 645,
@@ -20233,8 +19705,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 648,
@@ -20272,8 +19743,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 652,
@@ -20310,8 +19780,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 653,
@@ -20352,8 +19821,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 654,
@@ -20394,8 +19862,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 655,
@@ -20431,8 +19898,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 656,
@@ -20479,7 +19945,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/minuskelforlag/docs/aya_fra_yopougon"
     },
     {
         "id": 657,
@@ -20521,7 +19987,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/naturligvis"
     },
     {
         "id": 658,
@@ -20556,8 +20022,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 659,
@@ -20589,8 +20054,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 660,
@@ -20628,8 +20092,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 661,
@@ -20661,8 +20124,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 662,
@@ -20702,8 +20164,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 663,
@@ -20738,8 +20199,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 664,
@@ -20772,8 +20232,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 665,
@@ -20811,7 +20270,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/hosten_nielsen/1?zoomed=&zoomPercent=&zoomX=&zoomY=&noteText=&noteX=&noteY=&viewMode=magazine"
     },
     {
         "id": 666,
@@ -20847,8 +20306,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 667,
@@ -20880,8 +20338,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 668,
@@ -20919,8 +20376,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 669,
@@ -20958,8 +20414,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 670,
@@ -20997,8 +20452,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 671,
@@ -21037,7 +20491,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/antarktis/1"
     },
     {
         "id": 672,
@@ -21074,8 +20528,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 673,
@@ -21109,8 +20562,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 674,
@@ -21142,8 +20594,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 675,
@@ -21180,8 +20631,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 676,
@@ -21220,8 +20670,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 677,
@@ -21262,8 +20711,7 @@
             "litt å lese",
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 678,
@@ -21302,8 +20750,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 680,
@@ -21343,7 +20790,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "NULL "
     },
     {
         "id": 681,
@@ -21384,7 +20831,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "NULL "
     },
     {
         "id": 682,
@@ -21423,7 +20870,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "NULL "
     },
     {
         "id": 683,
@@ -21466,7 +20913,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "NULL "
     },
     {
         "id": 684,
@@ -21506,7 +20953,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/hockeysveis "
     },
     {
         "id": 685,
@@ -21537,8 +20984,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 686,
@@ -21567,8 +21013,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 687,
@@ -21610,8 +21055,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 688,
@@ -21653,7 +21097,7 @@
             "tegnspråk",
             "nmt"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "NULL "
     },
     {
         "id": 689,
@@ -21687,8 +21131,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 690,
@@ -21720,8 +21163,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 691,
@@ -21758,8 +21200,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 692,
@@ -21799,8 +21240,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 693,
@@ -21840,8 +21280,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 694,
@@ -21876,8 +21315,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 695,
@@ -21915,8 +21353,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 696,
@@ -21957,7 +21394,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/aschehoug/docs/iskremfabrikken"
     },
     {
         "id": 697,
@@ -21994,8 +21431,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 698,
@@ -22035,8 +21471,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 699,
@@ -22069,8 +21504,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 700,
@@ -22109,7 +21543,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/bla-i-boka_kongen_din_issuu"
     },
     {
         "id": 701,
@@ -22152,8 +21586,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 703,
@@ -22191,8 +21624,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 704,
@@ -22228,8 +21660,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 705,
@@ -22272,8 +21703,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 706,
@@ -22311,8 +21741,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 707,
@@ -22352,7 +21781,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/pauls_jul/1"
     },
     {
         "id": 708,
@@ -22387,8 +21816,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 709,
@@ -22425,8 +21853,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 710,
@@ -22464,8 +21891,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 711,
@@ -22503,8 +21929,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 712,
@@ -22539,8 +21964,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 713,
@@ -22576,8 +22000,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 714,
@@ -22613,8 +22036,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 715,
@@ -22649,8 +22071,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 716,
@@ -22684,8 +22105,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 717,
@@ -22723,8 +22143,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 718,
@@ -22759,8 +22178,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 719,
@@ -22793,8 +22211,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 720,
@@ -22832,8 +22249,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 721,
@@ -22868,7 +22284,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/detnorskesamlaget/docs/flukta_fr__rekkehuset"
     },
     {
         "id": 722,
@@ -22904,7 +22320,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/schibstedforlag/docs/ingen-fridde-i-jolster/1"
     },
     {
         "id": 723,
@@ -22942,7 +22358,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/kaggeforlag/docs/den_store_julekakeboka_utdrag/1"
     },
     {
         "id": 724,
@@ -22979,7 +22395,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/detnorskesamlaget/docs/fuck_off_i_love_you"
     },
     {
         "id": 725,
@@ -23018,7 +22434,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/aschehoug/docs/hellstrom_jr/1"
     },
     {
         "id": 726,
@@ -23053,8 +22469,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 727,
@@ -23089,8 +22504,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 728,
@@ -23126,8 +22540,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 729,
@@ -23164,7 +22577,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/vegaforlag/docs/se_norges_blomsterdal_issuu/1"
     },
     {
         "id": 730,
@@ -23202,8 +22615,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 731,
@@ -23237,8 +22649,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 732,
@@ -23283,8 +22694,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 733,
@@ -23325,8 +22735,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 734,
@@ -23362,7 +22771,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/broren_min/1"
     },
     {
         "id": 735,
@@ -23399,7 +22808,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/hjemlandet_blaibok"
     },
     {
         "id": 736,
@@ -23431,8 +22840,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 737,
@@ -23463,8 +22871,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 738,
@@ -23501,8 +22908,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 739,
@@ -23537,8 +22943,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 740,
@@ -23579,7 +22984,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/orkensang/1?zoomed=&zoomPercent=&zoomX=&zoomY=&noteText=&noteX=&noteY=&viewMode=magazine"
     },
     {
         "id": 741,
@@ -23617,8 +23022,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 742,
@@ -23661,7 +23065,7 @@
             "ny i norge",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://www.cappelendamm.no/main/katalog.aspx?artid=8902"
     },
     {
         "id": 743,
@@ -23694,8 +23098,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 744,
@@ -23736,8 +23139,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 745,
@@ -23778,7 +23180,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/blitzregn_02-12_blaibok/1"
     },
     {
         "id": 746,
@@ -23814,7 +23216,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/kj_reninasimone_blaibok/1?zoomed=&zoomPercent=&zoomX=&zoomY=&noteText=&noteX=&noteY=&viewMode=magazine"
     },
     {
         "id": 747,
@@ -23854,8 +23256,7 @@
             "litt å lese",
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 748,
@@ -23891,7 +23292,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/schibstedforlag/docs/miraklenes-tid/1"
     },
     {
         "id": 749,
@@ -23927,8 +23328,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 750,
@@ -23963,8 +23363,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 751,
@@ -24000,8 +23399,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 752,
@@ -24040,7 +23438,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/vegaforlag/docs/lekestue_issuu/1"
     },
     {
         "id": 753,
@@ -24074,8 +23472,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 754,
@@ -24112,7 +23509,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/juritzenforlag/docs/mariusblai/1"
     },
     {
         "id": 755,
@@ -24146,8 +23543,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 756,
@@ -24181,8 +23577,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 757,
@@ -24216,7 +23611,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/blaibok_ein_heilt_vanleg"
     },
     {
         "id": 758,
@@ -24250,8 +23645,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 759,
@@ -24287,8 +23681,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 761,
@@ -24331,7 +23724,7 @@
             "demente",
             "enkelt innhold"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/skaldforlag/docs/9788279591821_issuu/1?e=0/2539417"
     },
     {
         "id": 762,
@@ -24368,8 +23761,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 763,
@@ -24412,8 +23804,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 766,
@@ -24451,8 +23842,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 768,
@@ -24494,8 +23884,7 @@
         "lsb_customization": [
             "utviklingshemmede",
             "enkelt innhold"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 770,
@@ -24537,8 +23926,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 771,
@@ -24574,8 +23962,7 @@
         "lsb_customization": [
             "punktskrift",
             "følebilder"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 772,
@@ -24608,8 +23995,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 773,
@@ -24652,8 +24038,7 @@
             "litt å lese",
             "ny i norge",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 774,
@@ -24689,7 +24074,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/holde_pusten/3?e=1324688/4593984"
     },
     {
         "id": 775,
@@ -24723,8 +24108,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 776,
@@ -24760,8 +24144,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 780,
@@ -24802,8 +24185,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 781,
@@ -24837,8 +24219,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 782,
@@ -24879,8 +24260,7 @@
             "litt å lese",
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 783,
@@ -24913,7 +24293,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/blaibok_hvisnoensermeg?e=0"
     },
     {
         "id": 784,
@@ -24952,7 +24332,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/blaibok_kongen_din?e=0"
     },
     {
         "id": 787,
@@ -24987,8 +24367,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 788,
@@ -25021,7 +24400,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/detnorskesamlaget/docs/fraa_ragnar_til_alle?e=1955840/4710975"
     },
     {
         "id": 789,
@@ -25055,8 +24434,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 790,
@@ -25090,8 +24468,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 791,
@@ -25127,8 +24504,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 792,
@@ -25169,8 +24545,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 793,
@@ -25208,8 +24583,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 794,
@@ -25244,8 +24618,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 795,
@@ -25279,8 +24652,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 796,
@@ -25315,8 +24687,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 797,
@@ -25358,8 +24729,7 @@
             "tegnspråk",
             "tegnspråk",
             "nmt"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 798,
@@ -25394,8 +24764,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 799,
@@ -25432,7 +24801,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/schibstedforlag/docs/levande_varde_i_lom"
     },
     {
         "id": 800,
@@ -25472,8 +24841,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 801,
@@ -25507,8 +24875,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 802,
@@ -25545,8 +24912,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 804,
@@ -25584,7 +24950,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/kaggeforlag/docs/01_jeg_greier_det"
     },
     {
         "id": 805,
@@ -25619,8 +24985,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 806,
@@ -25661,7 +25026,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/kaggeforlag/docs/01_verdt____vite"
     },
     {
         "id": 807,
@@ -25699,8 +25064,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 809,
@@ -25732,8 +25096,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 810,
@@ -25772,7 +25135,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/skaldforlag/docs/9788279591894_issuu/11?e=6431248/5369595"
     },
     {
         "id": 811,
@@ -25809,8 +25172,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 812,
@@ -25850,8 +25212,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 813,
@@ -25891,7 +25252,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/eltefrittbrodoghimmelskekaker?e=1324688/1810029"
     },
     {
         "id": 814,
@@ -25928,8 +25289,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 815,
@@ -25965,7 +25325,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://www.cappelendamm.no/main/katalog.aspx?artid=9531"
     },
     {
         "id": 816,
@@ -25997,8 +25357,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 817,
@@ -26033,8 +25392,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 818,
@@ -26066,8 +25424,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 819,
@@ -26101,8 +25458,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 820,
@@ -26136,8 +25492,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 821,
@@ -26169,8 +25524,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 822,
@@ -26209,8 +25563,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 823,
@@ -26245,7 +25598,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/minuskelforlag/docs/goliat_issuu"
     },
     {
         "id": 824,
@@ -26283,8 +25636,7 @@
             "litt å lese",
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 825,
@@ -26320,8 +25672,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 826,
@@ -26358,7 +25709,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/skaldforlag/docs/9788279591924_issuu?e=6431248/3111426"
     },
     {
         "id": 827,
@@ -26396,7 +25747,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/detnorskesamlaget/docs/statsminister-boka?e=1955840/6280378"
     },
     {
         "id": 828,
@@ -26432,7 +25783,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/detnorskesamlaget/docs/heimekontor_i_gravferda?e=1955840/6717839"
     },
     {
         "id": 829,
@@ -26470,8 +25821,7 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 830,
@@ -26505,8 +25855,7 @@
         "lsb_customization": [
             "skjønnlitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 831,
@@ -26541,7 +25890,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/detnorskesamlaget/docs/friedland?e=1955840/5183806"
     },
     {
         "id": 832,
@@ -26577,7 +25926,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/blaibok_etter_foedselen?e=0"
     },
     {
         "id": 833,
@@ -26610,7 +25959,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/kaggeforlag/docs/skriv_godt_ok"
     },
     {
         "id": 834,
@@ -26649,7 +25998,7 @@
             "faglitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/kaggeforlag/docs/01_jakten_p___messi"
     },
     {
         "id": 835,
@@ -26688,8 +26037,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 836,
@@ -26731,7 +26079,7 @@
             "bilder",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/schibstedforlag/docs/ibsen_paa_en_time"
     },
     {
         "id": 837,
@@ -26768,8 +26116,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 838,
@@ -26804,8 +26151,7 @@
         "lsb_customization": [
             "bilder",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     },
     {
         "id": 839,
@@ -26841,7 +26187,7 @@
             "skjønnlitteratur",
             "litt å lese"
         ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        "lsb_look_inside": "http://issuu.com/aschehoug/docs/den_kalde_vinden?e=2026704/5117627"
     },
     {
         "id": 840,
@@ -26881,7 +26227,6 @@
         "lsb_customization": [
             "faglitteratur",
             "litt å lese"
-        ],
-        "lsb_look_inside": "CUSTOM_BLA_I_BOKA"
+        ]
     }
 ]

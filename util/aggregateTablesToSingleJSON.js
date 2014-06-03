@@ -210,7 +210,7 @@ fs.readFile('./original-data/JSON-FROM-CSV/DOC.json', function (err, data) {
 
         book.lsb_customization = tagsArrayFromMenuLink(book.id);
 
-        book.lsb_look_inside = preprocess('CUSTOM_BLA_I_BOKA');
+        book.lsb_look_inside = preprocess(item['CUSTOM_BLA_I_BOKA']);
 
         books.push(book);
     }
