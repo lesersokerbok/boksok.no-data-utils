@@ -127,7 +127,7 @@ custom_ingress | lsb_quote | acf wysiwyg (basic, no media) | ?
 ingress | excerpt | wp text | ?
 custom_author | lsb_author | wp custom taxonomy (tag) (1) | ?
 custom_illustrator | lsb_illustrator | wp custom taxonomy (tag) (1) | ?
-custom_translation | ? | ? (3) | ?
+custom_translation | lsb_translator | wp custom taxonomy (tag) (1)| ?
 custom_publishing_house | lsb_publisher | wp custom taxonomy (tag) (1) | ?
 custom_year | lsb_published_year | acf text | ?
 custom_isbn | lsb_isbn | acf text | ?
@@ -138,7 +138,6 @@ custom_supports_lsb | lsb_supported | true / false | ?
 
 1. So the user can easily add another and the ui will "type ahead" and that might help combat spelling differences.  
 2. With acf wysiwyg one can limit the user more, ie. no possibility of media upload.
-3. Added by @testower - leaving to @raae to determine new field name and type. Possibly should be "translator" rather than "translation"
 
 ### Implementation note for lsb_support_cat
 
@@ -168,20 +167,18 @@ fieldnames for the categorization of the the original data.
 Old field | New field | New field data type | Values
 --- | --- | --- | ---
 Alder | lsb_age | wp custom taxonomy (category) | barn, ungdom, voksen
-Ekstra (4) | ? | ? | ?
 Sjanger | lsb_genre | wp custom taxonomy (category) | skjønnlitteratur, prosa, dikt, faglitteratur, dokumentar/fakta, annet
 Emne | lsb_topic | wp custom taxonomy (tag) | free form (3)
 Språk | lsb_language | wp custom taxonomy (category) | nynorsk, bokmål, nordsamisk, sørsamisk, lulesamisk
-Tilpasning | lsb_customization (1) | wp custom taxonomy (category) | storskrift, bliss, piktogram, tegnspråk, nmt, punktskrift, følebilder, enkelt innhold (demente, utviklingshemmede), litt å lese (mye bilder, ny i Norge) (2)
+Tilpasning (4) | lsb_customization (1) | wp custom taxonomy (category) | storskrift, bliss, piktogram, tegnspråk, nmt, punktskrift, følebilder, enkelt innhold (demente, utviklingshemmede), litt å lese (mye bilder, ny i Norge), lyd bok, mange bilder (2)
 
 1. Find a better term
 2.    On import split original groups like Bliss & Piktogram into the seperate customazation categories: Bliss, Piktogram.  
     Record the book id so one can manually go through and pic the correct category/categories.  
 3. In import split groups like hus/hjem/hage into the seperate topic tags: hus, hjem, hage.  
       Record the book id so one can manually go through and pic the correct tags.
-4. Added by @testower. ```CUSTOM_CAT_2``` / ```TEXT_GROUP_ID == 2```. Possible values
-    according to data is "Mange bilder", "Lydbok". Possibly merge with one
-    of the other fields?
+4. ```CUSTOM_CAT_2``` / ```TEXT_GROUP_ID == 2```. Possible values
+    according to data is "Mange bilder", "Lydbok". Merge into lsb_customization.
 
 ### Implementation notes for lsb_customization
 
