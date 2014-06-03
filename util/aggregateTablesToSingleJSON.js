@@ -166,7 +166,7 @@ fs.readFile('./original-data/JSON-FROM-CSV/DOC.json', function (err, data) {
         book.excerpt = preprocess(item['INGRESS']);
         book.lsb_author = preprocess(item['CUSTOM_AUTHOR']);
         book.lsb_illustrator = preprocess(item['CUSTOM_ILLUSTRATOR']);
-        // book.lsb_translator = preprocess(item['CUSTOM_TRANSLATION']);
+        book.lsb_translator = preprocess(item['CUSTOM_TRANSLATION']);
         book.lsb_publisher = preprocess(item['CUSTOM_PUBLISHING_HOUSE']);
         book.lsb_published_year = preprocess(item['CUSTOM_YEAR']);
         book.lsb_isbn = preprocess(item['CUSTOM_ISBN']);
@@ -178,12 +178,14 @@ fs.readFile('./original-data/JSON-FROM-CSV/DOC.json', function (err, data) {
         }
 
         book.lsb_age = tagsArrayFromItemCategory(item['CUSTOM_CAT_1'], book.id, 'LSB_AGE');
-        // book.lsb_extra = tagsArrayFromItemCategory(item['CUSTOM_CAT_2'], book.id, 'LSB_EXTRA');
+        book.lsb_extra = tagsArrayFromItemCategory(item['CUSTOM_CAT_2'], book.id, 'LSB_EXTRA');
         book.lsb_genre = tagsArrayFromItemCategory(item['CUSTOM_CAT_3'], book.id, 'LSB_GENRE');
         book.lsb_topic = tagsArrayFromItemCategory(item['CUSTOM_CAT_4'], book.id, 'LSB_TOPIC');
         book.lsb_language = tagsArrayFromItemCategory(item['CUSTOM_CAT_5'], book.id, 'LSB_LANGUAGE');
 
         book.lsb_customization = tagsArrayFromMenuLink(book.id);
+
+        book.lsb_look_inside = preprocess('CUSTOM_BLA_I_BOKA');
 
         books.push(book);
     }
