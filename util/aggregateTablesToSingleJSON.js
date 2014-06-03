@@ -122,8 +122,18 @@ function tagsArrayFromMenuLink(bookID) {
             return _.findWhere(menuItems, { "MENU_ID": menuId });
         })
         .map(function (menuItem) {
-            return menuItem['NAME'];
+            var result = [
+                menuItem['NAME']
+            ];
+
+            if (menuItem['PARENT_ID'] !== 'NULL') {
+                var parent = _.findWhere(menuItems, { "MENU_ID": parseInt(menuItem["PARENT_ID"], 10) });
+                result.push(parent['NAME']);
+            }
+
+            return result;
         })
+        .flatten()
         .map(function (menuItemName) {
             if (menuItemName.indexOf('/') > -1) {
                 console.log('INFO_LSB_CUSTOMIZATION_VALUE_SPLIT_BY_/_BOOKID: ' + bookID);
