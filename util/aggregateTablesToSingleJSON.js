@@ -149,6 +149,21 @@ function tagsArrayFromMenuLink(bookID) {
         .value();
 }
 
+function contributorArrayFromText(text) {
+    if (text === undefined)
+        return [];
+
+    return _.chain(text.trim().split(','))
+        .map(function (res) {
+            return res.trim().split(' og ');
+        })
+        .flatten()
+        .map(function (res) {
+            return res.trim();
+        })
+        .value();
+}
+
 fs.readFile('./original-data/JSON-FROM-CSV/DOC.json', function (err, data) {
 
     var list = JSON.parse(data);
@@ -164,9 +179,9 @@ fs.readFile('./original-data/JSON-FROM-CSV/DOC.json', function (err, data) {
         book.lsb_review = contentForBook(book.id);
         book.lsb_quote = preprocess(item['CUSTOM_INGRESS']);
         book.excerpt = preprocess(item['INGRESS']);
-        book.lsb_author = preprocess(item['CUSTOM_AUTHOR']);
-        book.lsb_illustrator = preprocess(item['CUSTOM_ILLUSTRATOR']);
-        book.lsb_translator = preprocess(item['CUSTOM_TRANSLATION']);
+        book.lsb_author = contributorArrayFromText(preprocess(item['CUSTOM_AUTHOR']));
+        book.lsb_illustrator = contributorArrayFromText(preprocess(item['CUSTOM_ILLUSTRATOR']));
+        book.lsb_translator = contributorArrayFromText(preprocess(item['CUSTOM_TRANSLATION']));
         book.lsb_publisher = preprocess(item['CUSTOM_PUBLISHING_HOUSE']);
         book.lsb_published_year = preprocess(item['CUSTOM_YEAR']);
         book.lsb_isbn = preprocess(item['CUSTOM_ISBN']);
