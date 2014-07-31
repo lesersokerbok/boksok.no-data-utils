@@ -8,13 +8,14 @@
     "dependencies": {
         "underscore": "1.6.x",
         "xml": "*",
-        "nodeunit": "*",
         "promise": "*",
         "request": "*",
         "async": "*"
     },
     "devDependencies": {
-        "xml2js": "*"
+        "nodeunit": "*",
+        "xml2js": "*",
+        "rewire": "*"
     },
     "engines": {
       "node": "0.10.x"
