@@ -816,7 +816,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Bilen vår. Nostalgi på fire hjul.</title>
-            <wp:post_name>bilen-vaar-nostalgi-på-fire-hjul</wp:post_name>
+            <wp:post_name>bilen-vaar-nostalgi-paa-fire-hjul</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Hvordan har bilene sett ut gjennom tidene?   Hva er bilens historie i Norge? ]]></excerpt:encoded>
             <wp:postmeta>
@@ -7344,7 +7344,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Eg spør! / Eg tør?</title>
-            <wp:post_name>eg-spoer-eg-tør</wp:post_name>
+            <wp:post_name>eg-spoer-eg-toer</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Eg spør og Eg tør er to bøker om Hanna.   Ho passer for eldre barn og yngre ungdom.]]></excerpt:encoded>
             <wp:postmeta>
@@ -9976,7 +9976,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Molly på tegnspråk</title>
-            <wp:post_name>molly-paa-tegnspråk</wp:post_name>
+            <wp:post_name>molly-paa-tegnspraak</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Nå kan du se   de popluære barnebøkene   om Molly på tegnspråk. ]]></excerpt:encoded>
             <wp:postmeta>
@@ -14302,7 +14302,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Når to er sinte på hverandre</title>
-            <wp:post_name>naar-to-er-sinte-på-hverandre</wp:post_name>
+            <wp:post_name>naar-to-er-sinte-paa-hverandre</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[For første gang har Leser søker bok støttet   en interaktiv bok. Boka er laget av   Deichmanske bibliotek, og er gratis å bruke.     ]]></excerpt:encoded>
             <wp:postmeta>
@@ -15170,7 +15170,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Med hånden på hjertet - 125 Fakta fra Verden</title>
-            <wp:post_name>med-haanden-på-hjertet-125-fakta-fra-verden</wp:post_name>
+            <wp:post_name>med-haanden-paa-hjertet-125-fakta-fra-verden</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Tegneserien "Fakta fra verden" er full av løgn.  På hver side får vi forklart et tema,  på en ny og uventet måte.  Selv om dette er en forvrengt sannhet,  er det likevel noe som minner om vår verden.  ]]></excerpt:encoded>
             <wp:postmeta>
@@ -17171,7 +17171,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Frøken Makeløs og karrieren</title>
-            <wp:post_name>froeken-makeløs-og-karrieren</wp:post_name>
+            <wp:post_name>froeken-makeloes-og-karrieren</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Frøken Makeløs er så heldig   at hun vet hva hun vil bli.   Hun starter med friskt mot.    Snart viser det seg   at det ikke er så enkelt likevel.   ]]></excerpt:encoded>
             <wp:postmeta>
@@ -17565,7 +17565,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Sjørøvarar</title>
-            <wp:post_name>sjoerøvarar</wp:post_name>
+            <wp:post_name>sjoeroevarar</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Dette er ein spennande bok om sjørøvarar   som er lett å lese. ]]></excerpt:encoded>
             <wp:postmeta>
@@ -22852,7 +22852,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Sjørøvere</title>
-            <wp:post_name>sjoerøvere</wp:post_name>
+            <wp:post_name>sjoeroevere</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Dette er en spennende bok om sjørøvere   som er lett å lese. ]]></excerpt:encoded>
             <wp:postmeta>
@@ -24464,7 +24464,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Røde Løv - fra Laoying i Kina</title>
-            <wp:post_name>roede-løv-fra-laoying-i-kina</wp:post_name>
+            <wp:post_name>roede-loev-fra-laoying-i-kina</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Røde Løv er elleve år gammel.  Hun bor sammen med faren sin   i landsbyen Laoying i Nord-Kina.  ]]></excerpt:encoded>
             <wp:postmeta>
@@ -33366,7 +33366,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Kjære, kjære Oluf</title>
-            <wp:post_name>kjaere-kjære-oluf</wp:post_name>
+            <wp:post_name>kjaere-kjaere-oluf</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Handlingen utspiller seg i 1973.   Oluf Gabrielsen opplever at ekteskapet med Astrid er truet, og han møter en usikker tilværelse.  ]]></excerpt:encoded>
             <wp:postmeta>
@@ -34408,7 +34408,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Den lille røde høna og hvetekornene</title>
-            <wp:post_name>den-lille-roede-høna-og-hvetekornene</wp:post_name>
+            <wp:post_name>den-lille-roede-hoena-og-hvetekornene</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Tospråklige billedbok om den lille røde høna   som finner noen hvetekorn.   Men da hun spør katten, hunden og gåsa om hjelp,   er de alle opptatt med noe annet.   Hva skal hun gjøre? ]]></excerpt:encoded>
             <wp:postmeta>
@@ -35615,7 +35615,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Kjære deg min kjære</title>
-            <wp:post_name>kjaere-deg-min-kjære</wp:post_name>
+            <wp:post_name>kjaere-deg-min-kjaere</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Levi Henriksens dikt forteller mye om det å være far, ektefelle - og medmenneske.  ]]></excerpt:encoded>
             <wp:postmeta>
@@ -39203,7 +39203,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Søvn og døgnrytme</title>
-            <wp:post_name>soevn-og-døgnrytme</wp:post_name>
+            <wp:post_name>soevn-og-doegnrytme</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Lettfattelig og oversiktelig innføring   i de vanligste temaene    knyttet til søvn og endringer av døgnrytme.  ]]></excerpt:encoded>
             <wp:postmeta>
@@ -41867,7 +41867,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Etterpå varer så lenge</title>
-            <wp:post_name>etterpaa-varer-så-lenge</wp:post_name>
+            <wp:post_name>etterpaa-varer-saa-lenge</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Nær bok om å savne noen.]]></excerpt:encoded>
             <wp:postmeta>
@@ -44281,7 +44281,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>Spøkelsene på Frostøy</title>
-            <wp:post_name>spoekelsene-paa-frostøy</wp:post_name>
+            <wp:post_name>spoekelsene-paa-frostoey</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Hva gjør du når du finner ut at hele familien din er spøkelser?]]></excerpt:encoded>
             <wp:postmeta>
@@ -47257,7 +47257,7 @@
             <wp:post_type>lsb_book</wp:post_type>
             <wp:status>publish</wp:status>
             <title>De 100 000 dødes øy</title>
-            <wp:post_name>de-100-000-doedes-øy</wp:post_name>
+            <wp:post_name>de-100-000-doedes-oey</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
             <excerpt:encoded><![CDATA[Gwenys far forlot henne og moren da han fant en flaske med et skattekart.   Fem år senere finner Gweny et nytt kart   og drar til de 100 000 dødes øy for å lete etter faren.   ]]></excerpt:encoded>
             <wp:postmeta>
