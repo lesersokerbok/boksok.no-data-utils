@@ -70,5 +70,15 @@ module.exports = {
         test.ok(result === expect, 'Should get expected result.');
 
         test.done();
+    },
+    testCleanContent: function (test) {
+        var cleanContent = tablesToJSON.__get__('cleanContent'),
+            toTest, expect, result;
+
+        toTest = '  <div><strong>Spor snø</strong> er en samling med <br />  veldig korte dikt. <br />  De fleste diktene er bare på <br />  tre linjer. <br />  Diktene lager fine, rare<br />  og morsomme bilder. </div>  <div>&#160;</div>  <div>Disse diktene er lette å lese, <br />  samtidig er det stor poesi. <br />  Bildene diktene skaper er<br />  lette å se for seg.  <br />  De får deg til å tenke<br />  og lage egne bilder. </div>  <div>&#160;</div>  <div><strong>Jan Erik Vold</strong> er en av Norges <br />  mest kjente diktere. <br />  Spor snø kom ut i 1970. <br />  Den er ikke lenger i salg, <br />  men finnes i samligen \"<strong>Huset er hvitt</strong>\". </div>  <div>Diktene i samlingen er dessverre satt </div>  <div>med tettere font og mindre luft </div>  <div>enn diktene i den opprinnelige utgaven. </div>  <div>Det kan derfor lønne seg å låne boka </div>  <div>på biblioteket. </div>  <div>&#160;</div>  ';
+        expect = '  <div><strong>Spor snø</strong> er en samling med <br />  veldig korte dikt. <br />  De fleste diktene er bare på <br />  tre linjer. <br />  Diktene lager fine, rare<br />  og morsomme bilder. </div>  <div>&#160;</div>  <div>Disse diktene er lette å lese, <br />  samtidig er det stor poesi. <br />  Bildene diktene skaper er<br />  lette å se for seg.  <br />  De får deg til å tenke<br />  og lage egne bilder. </div>  <div>&#160;</div>  <div><strong>Jan Erik Vold</strong> er en av Norges <br />  mest kjente diktere. <br />  Spor snø kom ut i 1970. <br />  Den er ikke lenger i salg, <br />  men finnes i samligen \"<strong>Huset er hvitt</strong>\". </div>  <div>Diktene i samlingen er dessverre satt </div>  <div>med tettere font og mindre luft </div>  <div>enn diktene i den opprinnelige utgaven. </div>  <div>Det kan derfor lønne seg å låne boka </div>  <div>på biblioteket. </div>  ';
+        result = cleanContent(toTest);
+        test.ok(result === expect, 'Should get expected result');
+        test.done();
     }
 }
