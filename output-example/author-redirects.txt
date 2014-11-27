@@ -1,0 +1,1420 @@
+RewriteCond %{QUERY_STRING} view=search&author=Johanne%20Emilie%20Andersen
+RewriteRule ^default\.aspx /search/Johanne+Emilie+Andersen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Johanne%20Emilie%20Andersen
+RewriteRule ^default\.aspx /search/Johanne+Emilie+Andersen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Gabrielsen
+RewriteRule ^default\.aspx /search/Bjørn+Gabrielsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bendik%20Kaltenborn
+RewriteRule ^default\.aspx /search/Bendik+Kaltenborn? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Margaret%20Saltrøe
+RewriteRule ^default\.aspx /search/Margaret+Saltrøe? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Elyas%20Poorgholam
+RewriteRule ^default\.aspx /search/Elyas+Poorgholam? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Derek%20Fagerstrom%20og%20Lauren%20Smith
+RewriteRule ^default\.aspx /search/Derek+Fagerstrom+Lauren+Smith? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Nina%20Stang
+RewriteRule ^default\.aspx /search/Nina+Stang? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Scanpix
+RewriteRule ^default\.aspx /search/Scanpix? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lars%20Lenth%20og%20Lars%20Nilssen
+RewriteRule ^default\.aspx /search/Lars+Lenth+Lars+Nilssen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anders%20de%20Lange%20og%20Bjørn%20Lahus
+RewriteRule ^default\.aspx /search/Anders+de+Lange+Bjørn+Lahus? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Laila%20Lanes%20og%20Jan%20Henry%20T.%20Olsen
+RewriteRule ^default\.aspx /search/Laila+Lanes+Jan+Henry+T.+Olsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rune%20Johansen
+RewriteRule ^default\.aspx /search/Rune+Johansen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Thor%20Gotaas
+RewriteRule ^default\.aspx /search/Thor+Gotaas? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kahlil%20Gibran
+RewriteRule ^default\.aspx /search/Kahlil+Gibran? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Axel%20Hellstenius
+RewriteRule ^default\.aspx /search/Axel+Hellstenius? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jan%20Erik%20Vold
+RewriteRule ^default\.aspx /search/Jan+Erik+Vold? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gene%20Dalby
+RewriteRule ^default\.aspx /search/Gene+Dalby? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Finn%20Tokvam%20og%20Halvor%20Folgerø
+RewriteRule ^default\.aspx /search/Finn+Tokvam+Halvor+Folgerø? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Sortland
+RewriteRule ^default\.aspx /search/Bjørn+Sortland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Freddy%20Kjensmo
+RewriteRule ^default\.aspx /search/Freddy+Kjensmo? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mona%20Høvring
+RewriteRule ^default\.aspx /search/Mona+Høvring? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Vigdis%20Hjorth
+RewriteRule ^default\.aspx /search/Vigdis+Hjorth? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kim%20Hiorthøy
+RewriteRule ^default\.aspx /search/Kim+Hiorthøy? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tiger%20Garté
+RewriteRule ^default\.aspx /search/Tiger+Garté? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Audun%20Mortensen
+RewriteRule ^default\.aspx /search/Audun+Mortensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Geir%20Gulliksen
+RewriteRule ^default\.aspx /search/Geir+Gulliksen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Hjørnevik
+RewriteRule ^default\.aspx /search/Jon+Hjørnevik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Thorvald%20Steen
+RewriteRule ^default\.aspx /search/Thorvald+Steen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Geir%20Gulliksen
+RewriteRule ^default\.aspx /search/Geir+Gulliksen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ragnar%20Hovland
+RewriteRule ^default\.aspx /search/Ragnar+Hovland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erlend%20Loe
+RewriteRule ^default\.aspx /search/Erlend+Loe? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Ingvaldsen
+RewriteRule ^default\.aspx /search/Bjørn+Ingvaldsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ari%20Behn
+RewriteRule ^default\.aspx /search/Ari+Behn? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjetil%20Indregard
+RewriteRule ^default\.aspx /search/Kjetil+Indregard? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Charles%20Bukowski
+RewriteRule ^default\.aspx /search/Charles+Bukowski? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Einar%20O.%20Risa
+RewriteRule ^default\.aspx /search/Einar+O.+Risa? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Karin%20Fossum
+RewriteRule ^default\.aspx /search/Karin+Fossum? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Levi%20Henriksen
+RewriteRule ^default\.aspx /search/Levi+Henriksen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Øyvind%20Torseter
+RewriteRule ^default\.aspx /search/Øyvind+Torseter? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Sam
+RewriteRule ^default\.aspx /search/Anna+Sam? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ingrid%20Z.%20Aanestad
+RewriteRule ^default\.aspx /search/Ingrid+Z.+Aanestad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Gavalda
+RewriteRule ^default\.aspx /search/Anna+Gavalda? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Stuart%20David
+RewriteRule ^default\.aspx /search/Stuart+David? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Selma%20Lønning%20Aarø
+RewriteRule ^default\.aspx /search/Selma+Lønning+Aarø? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Solveig%20Moen%20Rusten
+RewriteRule ^default\.aspx /search/Solveig+Moen+Rusten? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lars%20Saabye%20Christensen
+RewriteRule ^default\.aspx /search/Lars+Saabye+Christensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lars%20Saabye%20Christensen
+RewriteRule ^default\.aspx /search/Lars+Saabye+Christensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mikael%20Holmberg
+RewriteRule ^default\.aspx /search/Mikael+Holmberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Nick%20Abadzis
+RewriteRule ^default\.aspx /search/Nick+Abadzis? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Cathrine%20Grøndahl
+RewriteRule ^default\.aspx /search/Cathrine+Grøndahl? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Joanna%20Rubin%20Dranger
+RewriteRule ^default\.aspx /search/Joanna+Rubin+Dranger? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Elle%20Márjá%20Vars
+RewriteRule ^default\.aspx /search/Elle+Márjá+Vars? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Blexbolex
+RewriteRule ^default\.aspx /search/Blexbolex? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rune%20Johansen
+RewriteRule ^default\.aspx /search/Rune+Johansen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sara%20Johnsen
+RewriteRule ^default\.aspx /search/Sara+Johnsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Khalid%20Hussain
+RewriteRule ^default\.aspx /search/Khalid+Hussain? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mark%20Haddon
+RewriteRule ^default\.aspx /search/Mark+Haddon? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Amal%20Aden
+RewriteRule ^default\.aspx /search/Amal+Aden? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hal%20Sirowitz
+RewriteRule ^default\.aspx /search/Hal+Sirowitz? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Frøy%20Lode%20Wiig%20(red.)
+RewriteRule ^default\.aspx /search/Frøy+Lode+Wiig+(red.)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Shabana%20Rehman
+RewriteRule ^default\.aspx /search/Shabana+Rehman? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Signe%20Torp.%20Sanger%20og%20regler%20samlet%20av%20Marit%20Mørk%20Enger%20og%20Tone%20E.%20Morsund.
+RewriteRule ^default\.aspx /search/Signe+Torp.+Sanger+regler+samlet+av+Marit+Mørk+Enger+Tone+E.+Morsund.? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kristopher%20Schau
+RewriteRule ^default\.aspx /search/Kristopher+Schau? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjell%20Magne%20Bondevik
+RewriteRule ^default\.aspx /search/Kjell+Magne+Bondevik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=John%20Arne%20Riise%20og%20Lars%20Lenth
+RewriteRule ^default\.aspx /search/John+Arne+Riise+Lars+Lenth? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Laila%20Johansen%20m.fl.
+RewriteRule ^default\.aspx /search/Laila+Johansen+m.fl.? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=John%20Bosco%20Ngendakurio%20(med%20Jostein%20Holmedahl)
+RewriteRule ^default\.aspx /search/John+Bosco+Ngendakurio+(med+Jostein+Holmedahl)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hilde%20Hagerup
+RewriteRule ^default\.aspx /search/Hilde+Hagerup? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Helga%20Gunerius%20Eriksen
+RewriteRule ^default\.aspx /search/Helga+Gunerius+Eriksen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Maranke%20Rinck%20og%20Martijn%20van%20der%20Linden
+RewriteRule ^default\.aspx /search/Maranke+Rinck+Martijn+van+der+Linden? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bente%20Bratlund
+RewriteRule ^default\.aspx /search/Bente+Bratlund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Ousland
+RewriteRule ^default\.aspx /search/Bjørn+Ousland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Helena%20Bross
+RewriteRule ^default\.aspx /search/Helena+Bross? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lise%20Myhre
+RewriteRule ^default\.aspx /search/Lise+Myhre? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bud%20Grace
+RewriteRule ^default\.aspx /search/Bud+Grace? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Beth%20Nordahl,%20Burghard%20Wellmann,%20Gunn%20Horne,%20Solfrid%20R.%20Lyngroth
+RewriteRule ^default\.aspx /search/Beth+Nordahl+Burghard+Wellmann+Gunn+Horne+Solfrid+R.+Lyngroth? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Beth%20Nordahl,%20Burghard%20Wellmann,%20Gunn%20Horne,%20Solfrid%20R.%20Lyngroth
+RewriteRule ^default\.aspx /search/Beth+Nordahl+Burghard+Wellmann+Gunn+Horne+Solfrid+R.+Lyngroth? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Christophe%20Blain
+RewriteRule ^default\.aspx /search/Christophe+Blain? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tor%20Ærlig
+RewriteRule ^default\.aspx /search/Tor+Ærlig? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Philip%20Newth
+RewriteRule ^default\.aspx /search/Philip+Newth? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Levi%20Henriksen
+RewriteRule ^default\.aspx /search/Levi+Henriksen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjersti%20Scheen
+RewriteRule ^default\.aspx /search/Kjersti+Scheen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjersti%20Scheen
+RewriteRule ^default\.aspx /search/Kjersti+Scheen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Thorvald%20Steen
+RewriteRule ^default\.aspx /search/Thorvald+Steen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marit%20Hoem%20Kvam
+RewriteRule ^default\.aspx /search/Marit+Hoem+Kvam? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gerd%20Østergaard
+RewriteRule ^default\.aspx /search/Gerd+Østergaard? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Peter%20Garde
+RewriteRule ^default\.aspx /search/Peter+Garde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jean-Pierre%20Gibrat
+RewriteRule ^default\.aspx /search/Jean-Pierre+Gibrat? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Peter%20Garde
+RewriteRule ^default\.aspx /search/Peter+Garde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Wolf%20Erlbruch
+RewriteRule ^default\.aspx /search/Wolf+Erlbruch? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bente%20Bratlund
+RewriteRule ^default\.aspx /search/Bente+Bratlund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marvin%20Halleraker
+RewriteRule ^default\.aspx /search/Marvin+Halleraker? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Heidi%20Kahrs
+RewriteRule ^default\.aspx /search/Heidi+Kahrs? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Alexander%20Kielland.%20Tilrettelagt%20av%20Elin%20Husebø
+RewriteRule ^default\.aspx /search/Alexander+Kielland.+Tilrettelagt+av+Elin+Husebø? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Helge%20Torvund
+RewriteRule ^default\.aspx /search/Helge+Torvund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hilde%20Henriksen%20og%20Renate%20Grytnes
+RewriteRule ^default\.aspx /search/Hilde+Henriksen+Renate+Grytnes? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Sortland
+RewriteRule ^default\.aspx /search/Bjørn+Sortland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Shaun%20Tan
+RewriteRule ^default\.aspx /search/Shaun+Tan? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jørn%20Jensen
+RewriteRule ^default\.aspx /search/Jørn+Jensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Birgitta%20Ahlén,%20Marita%20Gleisner,%20Thomas%20Marainen%20og%20Philiph%20Newth
+RewriteRule ^default\.aspx /search/Birgitta+Ahlén+Marita+Gleisner+Thomas+Marainen+Philiph+Newth? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Boel%20Werner,%20Morten%20Dürr,%20Ivars%20Silis,%20Gerd%20Karin%20Nordlund
+RewriteRule ^default\.aspx /search/Boel+Werner+Morten+Dürr+Ivars+Silis+Gerd+Karin+Nordlund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Steinar%20Myhr%20og%20Bjørn%20Gjefsen
+RewriteRule ^default\.aspx /search/Steinar+Myhr+Bjørn+Gjefsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjersti%20Wold
+RewriteRule ^default\.aspx /search/Kjersti+Wold? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Charles%20Burns
+RewriteRule ^default\.aspx /search/Charles+Burns? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Thierry%20Lenain
+RewriteRule ^default\.aspx /search/Thierry+Lenain? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Éric%20Sanvoisin
+RewriteRule ^default\.aspx /search/Éric+Sanvoisin? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Reidun%20Therkelsen%20Tveit
+RewriteRule ^default\.aspx /search/Reidun+Therkelsen+Tveit? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Éric%20Sanvoisin
+RewriteRule ^default\.aspx /search/Éric+Sanvoisin? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tor%20Ærlig
+RewriteRule ^default\.aspx /search/Tor+Ærlig? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jean-Marc%20Ligny
+RewriteRule ^default\.aspx /search/Jean-Marc+Ligny? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jørn%20Jensen
+RewriteRule ^default\.aspx /search/Jørn+Jensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jørn%20Jensen
+RewriteRule ^default\.aspx /search/Jørn+Jensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jørn%20Jensen
+RewriteRule ^default\.aspx /search/Jørn+Jensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Geir%20A.%20Bremnes
+RewriteRule ^default\.aspx /search/Geir+A.+Bremnes? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Simon%20Stranger
+RewriteRule ^default\.aspx /search/Simon+Stranger? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arnt%20Birkedal
+RewriteRule ^default\.aspx /search/Arnt+Birkedal? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Axel%20Hellstenius
+RewriteRule ^default\.aspx /search/Axel+Hellstenius? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Frode%20Øverli
+RewriteRule ^default\.aspx /search/Frode+Øverli? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Thor%20Fretheim
+RewriteRule ^default\.aspx /search/Thor+Fretheim? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jeff%20Smith
+RewriteRule ^default\.aspx /search/Jeff+Smith? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kathleen%20Pettersson
+RewriteRule ^default\.aspx /search/Kathleen+Pettersson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Svingen
+RewriteRule ^default\.aspx /search/Arne+Svingen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Stein%20Helge%20Mandelid
+RewriteRule ^default\.aspx /search/Stein+Helge+Mandelid? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Pamela%20Porter
+RewriteRule ^default\.aspx /search/Pamela+Porter? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjersti%20Scheen
+RewriteRule ^default\.aspx /search/Kjersti+Scheen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hanne%20Mathiassen
+RewriteRule ^default\.aspx /search/Hanne+Mathiassen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kristin%20Roskifte
+RewriteRule ^default\.aspx /search/Kristin+Roskifte? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jason
+RewriteRule ^default\.aspx /search/Jason? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kari%20Jacquesson
+RewriteRule ^default\.aspx /search/Kari+Jacquesson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hilde%20Eskild%20og%20Benedicte%20Hambro
+RewriteRule ^default\.aspx /search/Hilde+Eskild+Benedicte+Hambro? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen
+RewriteRule ^default\.aspx /search/Anette+Diesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rauni%20Magga%20Lukkari
+RewriteRule ^default\.aspx /search/Rauni+Magga+Lukkari? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rauni%20Magga%20Lukkari
+RewriteRule ^default\.aspx /search/Rauni+Magga+Lukkari? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Christin%20Grilstad%20Prøis
+RewriteRule ^default\.aspx /search/Christin+Grilstad+Prøis? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lisbeth%20Iglum%20Rønhovde
+RewriteRule ^default\.aspx /search/Lisbeth+Iglum+Rønhovde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Øistein%20Hølleland
+RewriteRule ^default\.aspx /search/Øistein+Hølleland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Gjefsen%20og%20Steinar%20Myhr
+RewriteRule ^default\.aspx /search/Bjørn+Gjefsen+Steinar+Myhr? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Odveig%20Klyve
+RewriteRule ^default\.aspx /search/Odveig+Klyve? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ragnhild%20Rossvær
+RewriteRule ^default\.aspx /search/Ragnhild+Rossvær? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Svingen
+RewriteRule ^default\.aspx /search/Arne+Svingen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Levi%20Henriksen
+RewriteRule ^default\.aspx /search/Levi+Henriksen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Ousland
+RewriteRule ^default\.aspx /search/Bjørn+Ousland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bente%20Bratlund
+RewriteRule ^default\.aspx /search/Bente+Bratlund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Frode%20Øverli
+RewriteRule ^default\.aspx /search/Frode+Øverli? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jan%20Helge%20Østlund
+RewriteRule ^default\.aspx /search/Jan+Helge+Østlund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Martin%20Kellerman
+RewriteRule ^default\.aspx /search/Martin+Kellerman? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Carole%20Addabbo
+RewriteRule ^default\.aspx /search/Carole+Addabbo? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Flu%20Hartberg
+RewriteRule ^default\.aspx /search/Flu+Hartberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Sortland%20og%20Øyvind%20Torseter
+RewriteRule ^default\.aspx /search/Bjørn+Sortland+Øyvind+Torseter? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hildegunn%20Dale
+RewriteRule ^default\.aspx /search/Hildegunn+Dale? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Francoise%20de%20Guibert
+RewriteRule ^default\.aspx /search/Francoise+de+Guibert? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marjane%20Satrapi
+RewriteRule ^default\.aspx /search/Marjane+Satrapi? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lars%20Saabye%20Christensen
+RewriteRule ^default\.aspx /search/Lars+Saabye+Christensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Christin%20Grilstad%20Prøis
+RewriteRule ^default\.aspx /search/Christin+Grilstad+Prøis? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Craig%20Thompson
+RewriteRule ^default\.aspx /search/Craig+Thompson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marit%20Kaldhol
+RewriteRule ^default\.aspx /search/Marit+Kaldhol? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Odveig%20Klyve
+RewriteRule ^default\.aspx /search/Odveig+Klyve? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erlend%20Loe
+RewriteRule ^default\.aspx /search/Erlend+Loe? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jeff%20Smith
+RewriteRule ^default\.aspx /search/Jeff+Smith? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kari%20Jacquesson
+RewriteRule ^default\.aspx /search/Kari+Jacquesson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Renè%20Goscinny
+RewriteRule ^default\.aspx /search/Renè+Goscinny? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Dr.%20Seuss
+RewriteRule ^default\.aspx /search/Dr.+Seuss? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Fam%20Ekman
+RewriteRule ^default\.aspx /search/Fam+Ekman? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Eric%20Carle
+RewriteRule ^default\.aspx /search/Eric+Carle? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Steffen%20Sørum
+RewriteRule ^default\.aspx /search/Steffen+Sørum? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Iben%20Sandemose
+RewriteRule ^default\.aspx /search/Iben+Sandemose? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kari%20Jacquesson
+RewriteRule ^default\.aspx /search/Kari+Jacquesson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jason
+RewriteRule ^default\.aspx /search/Jason? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ingeborg%20Arvola
+RewriteRule ^default\.aspx /search/Ingeborg+Arvola? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Inger%20Vonheim
+RewriteRule ^default\.aspx /search/Inger+Vonheim? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kristin%20Roskifte
+RewriteRule ^default\.aspx /search/Kristin+Roskifte? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ida%20Tolbod
+RewriteRule ^default\.aspx /search/Ida+Tolbod? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ida%20Toldbod
+RewriteRule ^default\.aspx /search/Ida+Toldbod? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Karstein%20Volle
+RewriteRule ^default\.aspx /search/Karstein+Volle? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ellen%20Bergheim
+RewriteRule ^default\.aspx /search/Ellen+Bergheim? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lene%20Ask
+RewriteRule ^default\.aspx /search/Lene+Ask? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lars%20Fiske
+RewriteRule ^default\.aspx /search/Lars+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kristin%20Roskifte
+RewriteRule ^default\.aspx /search/Kristin+Roskifte? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Øyvind%20Torseter
+RewriteRule ^default\.aspx /search/Øyvind+Torseter? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Sortland
+RewriteRule ^default\.aspx /search/Bjørn+Sortland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jason
+RewriteRule ^default\.aspx /search/Jason? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Stella%20Murphy
+RewriteRule ^default\.aspx /search/Stella+Murphy? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Henriette%20Wich
+RewriteRule ^default\.aspx /search/Henriette+Wich? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Greta%20Aune%20Jotun
+RewriteRule ^default\.aspx /search/Greta+Aune+Jotun? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ragnar%20Aalbu
+RewriteRule ^default\.aspx /search/Ragnar+Aalbu? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kathleen%20Pettersson
+RewriteRule ^default\.aspx /search/Kathleen+Pettersson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lisbeth%20Iglum%20Rønhovde
+RewriteRule ^default\.aspx /search/Lisbeth+Iglum+Rønhovde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lisbeth%20Iglum%20Rønhovde
+RewriteRule ^default\.aspx /search/Lisbeth+Iglum+Rønhovde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Joanna%20Rubin%20Dranger
+RewriteRule ^default\.aspx /search/Joanna+Rubin+Dranger? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Elle%20Márjá%20Vars
+RewriteRule ^default\.aspx /search/Elle+Márjá+Vars? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Svingen
+RewriteRule ^default\.aspx /search/Arne+Svingen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigrun%20Nygaard%20Moriggi
+RewriteRule ^default\.aspx /search/Sigrun+Nygaard+Moriggi? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Aase%20Foss%20Abrahamsen
+RewriteRule ^default\.aspx /search/Aase+Foss+Abrahamsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Ewo
+RewriteRule ^default\.aspx /search/Jon+Ewo? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Höglund
+RewriteRule ^default\.aspx /search/Anna+Höglund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gro%20Dahle
+RewriteRule ^default\.aspx /search/Gro+Dahle? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Helene%20Uri
+RewriteRule ^default\.aspx /search/Helene+Uri? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Joanna%20Rubin%20Dranger
+RewriteRule ^default\.aspx /search/Joanna+Rubin+Dranger? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Karine%20Haaland
+RewriteRule ^default\.aspx /search/Karine+Haaland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Helga%20Gunerius%20Eriksen,%20Morten%20Øen
+RewriteRule ^default\.aspx /search/Helga+Gunerius+Eriksen+Morten+Øen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lotta%20Sjöberg
+RewriteRule ^default\.aspx /search/Lotta+Sjöberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Christin%20Grilstad%20Prøis
+RewriteRule ^default\.aspx /search/Christin+Grilstad+Prøis? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bent%20Faurby
+RewriteRule ^default\.aspx /search/Bent+Faurby? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Peter%20Garde
+RewriteRule ^default\.aspx /search/Peter+Garde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Peter%20Garde
+RewriteRule ^default\.aspx /search/Peter+Garde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gerd%20Østergaard
+RewriteRule ^default\.aspx /search/Gerd+Østergaard? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Martin%20Kvamsdal
+RewriteRule ^default\.aspx /search/Martin+Kvamsdal? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Phillip%20Newth
+RewriteRule ^default\.aspx /search/Phillip+Newth? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Christin%20Grilstad%20Prøis
+RewriteRule ^default\.aspx /search/Christin+Grilstad+Prøis? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Vigdis%20Hjorth
+RewriteRule ^default\.aspx /search/Vigdis+Hjorth? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Levi%20Henriksen
+RewriteRule ^default\.aspx /search/Levi+Henriksen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ragnar%20Hovland
+RewriteRule ^default\.aspx /search/Ragnar+Hovland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jens%20A.%20Riisnæs
+RewriteRule ^default\.aspx /search/Jens+A.+Riisnæs? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjersti%20Scheen
+RewriteRule ^default\.aspx /search/Kjersti+Scheen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bo%20R.%20Holmberg
+RewriteRule ^default\.aspx /search/Bo+R.+Holmberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erna%20Osland
+RewriteRule ^default\.aspx /search/Erna+Osland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ragnhild%20Rossvær%20og%20Eli%20Fiske%20Antonsen
+RewriteRule ^default\.aspx /search/Ragnhild+Rossvær+Eli+Fiske+Antonsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Axel%20Hellstenius
+RewriteRule ^default\.aspx /search/Axel+Hellstenius? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Axel%20Hellstenius
+RewriteRule ^default\.aspx /search/Axel+Hellstenius? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Thomas%20Halling
+RewriteRule ^default\.aspx /search/Thomas+Halling? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Patrick%20McDonnell
+RewriteRule ^default\.aspx /search/Patrick+McDonnell? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Ewo
+RewriteRule ^default\.aspx /search/Jon+Ewo? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Asgeir%20Helgestad
+RewriteRule ^default\.aspx /search/Asgeir+Helgestad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ellisiv%20Lindkvist
+RewriteRule ^default\.aspx /search/Ellisiv+Lindkvist? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bente%20Roestad
+RewriteRule ^default\.aspx /search/Bente+Roestad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Øyvind%20Torseter
+RewriteRule ^default\.aspx /search/Øyvind+Torseter? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ragnar%20Aalbu
+RewriteRule ^default\.aspx /search/Ragnar+Aalbu? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ragnar%20Aalbu
+RewriteRule ^default\.aspx /search/Ragnar+Aalbu? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Linda%20Lillevik
+RewriteRule ^default\.aspx /search/Linda+Lillevik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Axel%20Hellstenius
+RewriteRule ^default\.aspx /search/Axel+Hellstenius? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Fam%20Ekman
+RewriteRule ^default\.aspx /search/Fam+Ekman? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rune%20Johansen
+RewriteRule ^default\.aspx /search/Rune+Johansen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Jansson
+RewriteRule ^default\.aspx /search/Anna+Jansson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Liv%20Riktor%20Lykkenborg
+RewriteRule ^default\.aspx /search/Liv+Riktor+Lykkenborg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sara%20Bosse
+RewriteRule ^default\.aspx /search/Sara+Bosse? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Alf%20Prøysen
+RewriteRule ^default\.aspx /search/Alf+Prøysen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Benkt-Erik%20Hedin
+RewriteRule ^default\.aspx /search/Benkt-Erik+Hedin? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen
+RewriteRule ^default\.aspx /search/Anette+Diesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anne%20Kristin%20Bratvold
+RewriteRule ^default\.aspx /search/Anne+Kristin+Bratvold? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigrid%20Gregor
+RewriteRule ^default\.aspx /search/Sigrid+Gregor? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lydia%20Hauenschild
+RewriteRule ^default\.aspx /search/Lydia+Hauenschild? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen
+RewriteRule ^default\.aspx /search/Anette+Diesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Harald%20Skjønsberg
+RewriteRule ^default\.aspx /search/Harald+Skjønsberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Philip%20Newth
+RewriteRule ^default\.aspx /search/Philip+Newth? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erna%20Osland
+RewriteRule ^default\.aspx /search/Erna+Osland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erlend%20Loe
+RewriteRule ^default\.aspx /search/Erlend+Loe? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Liv%20Riktor%20Lykkenborg
+RewriteRule ^default\.aspx /search/Liv+Riktor+Lykkenborg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Claudia%20Ondracek
+RewriteRule ^default\.aspx /search/Claudia+Ondracek? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Alf%20Kvasbø
+RewriteRule ^default\.aspx /search/Alf+Kvasbø? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjersti%20Wold
+RewriteRule ^default\.aspx /search/Kjersti+Wold? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Vigdis%20Bjørkøy
+RewriteRule ^default\.aspx /search/Vigdis+Bjørkøy? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Sortland
+RewriteRule ^default\.aspx /search/Bjørn+Sortland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bente%20Bratlund%20Mæland
+RewriteRule ^default\.aspx /search/Bente+Bratlund+Mæland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marit%20Tusvik
+RewriteRule ^default\.aspx /search/Marit+Tusvik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arild%20Dahl%20og%20Eva%20Jensen
+RewriteRule ^default\.aspx /search/Arild+Dahl+Eva+Jensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rune%20Belsvik
+RewriteRule ^default\.aspx /search/Rune+Belsvik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lisbeth%20Iglum%20Rønhovde
+RewriteRule ^default\.aspx /search/Lisbeth+Iglum+Rønhovde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Agnès%20Vandewiele
+RewriteRule ^default\.aspx /search/Agnès+Vandewiele? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Agnès%20Vandewiele
+RewriteRule ^default\.aspx /search/Agnès+Vandewiele? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Linda%20Lillevik
+RewriteRule ^default\.aspx /search/Linda+Lillevik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Linda%20Lillevik
+RewriteRule ^default\.aspx /search/Linda+Lillevik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Odd%20Grønbeck,%20Perly%20Folstad%20Nordberg%20og%20Arne%20Rogstad
+RewriteRule ^default\.aspx /search/Odd+Grønbeck+Perly+Folstad+Nordberg+Arne+Rstad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mie%20Mohlin%20og%20Magne%20Medhus
+RewriteRule ^default\.aspx /search/Mie+Mohlin+Magne+Medhus? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mia%20Mohlin%20og%20Magne%20Medhus
+RewriteRule ^default\.aspx /search/Mia+Mohlin+Magne+Medhus? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Øistein%20Hølleland
+RewriteRule ^default\.aspx /search/Øistein+Hølleland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bent%20Faurby
+RewriteRule ^default\.aspx /search/Bent+Faurby? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Elin%20Prøysen
+RewriteRule ^default\.aspx /search/Elin+Prøysen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arild%20Rønsen
+RewriteRule ^default\.aspx /search/Arild+Rønsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tone%20Merethe%20Koch
+RewriteRule ^default\.aspx /search/Tone+Merethe+Koch? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ole%20Reidar%20Hansen
+RewriteRule ^default\.aspx /search/Ole+Reidar+Hansen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Svingen
+RewriteRule ^default\.aspx /search/Arne+Svingen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Svingen
+RewriteRule ^default\.aspx /search/Arne+Svingen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Svingen
+RewriteRule ^default\.aspx /search/Arne+Svingen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Cathy%20East%20Dobowski
+RewriteRule ^default\.aspx /search/Cathy+East+Dobowski? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Dorthea%20Hysing
+RewriteRule ^default\.aspx /search/Dorthea+Hysing? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Siv%20Svensson-Rune
+RewriteRule ^default\.aspx /search/Siv+Svensson-Rune? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Stig%20Holmås
+RewriteRule ^default\.aspx /search/Stig+Holmås? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Eduardo%20Doddo%20Andresen%20
+RewriteRule ^default\.aspx /search/Eduardo+Doddo+Andresen+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Laila%20Stien%20
+RewriteRule ^default\.aspx /search/Laila+Stien+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Johan%20Werkmäster
+RewriteRule ^default\.aspx /search/Johan+Werkmäster? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marjane%20Satrapi
+RewriteRule ^default\.aspx /search/Marjane+Satrapi? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Max%20Allan%20Collins|
+RewriteRule ^default\.aspx /search/Max+Allan+Collins|? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjersti%20Scheen
+RewriteRule ^default\.aspx /search/Kjersti+Scheen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Ewo%20
+RewriteRule ^default\.aspx /search/Jon+Ewo+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marit%20Lund%20Bødtker
+RewriteRule ^default\.aspx /search/Marit+Lund+Bødtker? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sten%20Lundberg
+RewriteRule ^default\.aspx /search/Sten+Lundberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Henning%20Mankell
+RewriteRule ^default\.aspx /search/Henning+Mankell? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Selma%20Lønning%20Aarø
+RewriteRule ^default\.aspx /search/Selma+Lønning+Aarø? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ann%20Andrén%20
+RewriteRule ^default\.aspx /search/Ann+Andrén+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erik%20Eriksson
+RewriteRule ^default\.aspx /search/Erik+Eriksson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Gjefsen%20og%20Steinar%20Myhr
+RewriteRule ^default\.aspx /search/Bjørn+Gjefsen+Steinar+Myhr? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marit%20Lund%20Bødtker
+RewriteRule ^default\.aspx /search/Marit+Lund+Bødtker? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Dorte%20Gjefsen
+RewriteRule ^default\.aspx /search/Dorte+Gjefsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Heidi%20Kahrs%20Damm
+RewriteRule ^default\.aspx /search/Heidi+Kahrs+Damm? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Alf%20Kvasbø
+RewriteRule ^default\.aspx /search/Alf+Kvasbø? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen
+RewriteRule ^default\.aspx /search/Anette+Diesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erik%20Eriksson
+RewriteRule ^default\.aspx /search/Erik+Eriksson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Herman%20Melville,%20tegnet%20og%20gjenfortalt%20av%20Will%20Eisner
+RewriteRule ^default\.aspx /search/Herman+Melville+tegnet+gjenfortalt+av+Will+Eisner? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Philip%20Newth
+RewriteRule ^default\.aspx /search/Philip+Newth? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Heidi%20Kahrs
+RewriteRule ^default\.aspx /search/Heidi+Kahrs? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Johan%20Werkmäster
+RewriteRule ^default\.aspx /search/Johan+Werkmäster? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Håkan%20Nesser
+RewriteRule ^default\.aspx /search/Håkan+Nesser? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tor%20Fretheim
+RewriteRule ^default\.aspx /search/Tor+Fretheim? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Henning%20Mankell
+RewriteRule ^default\.aspx /search/Henning+Mankell? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Liv%20Riktor%20Lykkenborg
+RewriteRule ^default\.aspx /search/Liv+Riktor+Lykkenborg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Inger%20Marii%20Tronvoll
+RewriteRule ^default\.aspx /search/Inger+Marii+Tronvoll? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Thorvald%20Steen
+RewriteRule ^default\.aspx /search/Thorvald+Steen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen
+RewriteRule ^default\.aspx /search/Anette+Diesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Dennis%20Persson.%20Etterord%20av%20Ole%20Kristian%20Brastad
+RewriteRule ^default\.aspx /search/Dennis+Persson.+Etterord+av+Ole+Kristian+Brastad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Inger%20Vonheim
+RewriteRule ^default\.aspx /search/Inger+Vonheim? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Liv%20Riktor%20Lykkenborg
+RewriteRule ^default\.aspx /search/Liv+Riktor+Lykkenborg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Luise%20Kirkengen
+RewriteRule ^default\.aspx /search/Anna+Luise+Kirkengen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Magnus%20Dahlbring
+RewriteRule ^default\.aspx /search/Magnus+Dahlbring? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sølvi%20Gunnes%20(red.)
+RewriteRule ^default\.aspx /search/Sølvi+Gunnes+(red.)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gunnar%20Staalesen
+RewriteRule ^default\.aspx /search/Gunnar+Staalesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Charles%20Bukowski
+RewriteRule ^default\.aspx /search/Charles+Bukowski? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Are%20Kalvø
+RewriteRule ^default\.aspx /search/Are+Kalvø? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tore%20Renberg
+RewriteRule ^default\.aspx /search/Tore+Renberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Øystein%20Runde
+RewriteRule ^default\.aspx /search/Øystein+Runde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Dagny%20Holm
+RewriteRule ^default\.aspx /search/Dagny+Holm? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jan%20Kjær
+RewriteRule ^default\.aspx /search/Jan+Kjær? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Reidun%20Therkelsen%20Tveit
+RewriteRule ^default\.aspx /search/Reidun+Therkelsen+Tveit? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ingrun%20Gudbrandsen
+RewriteRule ^default\.aspx /search/Ingrun+Gudbrandsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Pia%20Strømstad
+RewriteRule ^default\.aspx /search/Pia+Strømstad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ragnar%20Aalbu
+RewriteRule ^default\.aspx /search/Ragnar+Aalbu? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Asbjørn%20Kvalbein
+RewriteRule ^default\.aspx /search/Asbjørn+Kvalbein? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjell%20Askildsen
+RewriteRule ^default\.aspx /search/Kjell+Askildsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mahmona%20Khan
+RewriteRule ^default\.aspx /search/Mahmona+Khan? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Flu%20Hartberg
+RewriteRule ^default\.aspx /search/Flu+Hartberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lene%20Ask
+RewriteRule ^default\.aspx /search/Lene+Ask? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Eva%20Ramm
+RewriteRule ^default\.aspx /search/Eva+Ramm? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Solfrid%20Sivertsen
+RewriteRule ^default\.aspx /search/Solfrid+Sivertsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hanne%20Aga
+RewriteRule ^default\.aspx /search/Hanne+Aga? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marit%20Kaldhol
+RewriteRule ^default\.aspx /search/Marit+Kaldhol? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gene%20Dalby
+RewriteRule ^default\.aspx /search/Gene+Dalby? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Hjørnevik
+RewriteRule ^default\.aspx /search/Jon+Hjørnevik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Hjørnevik
+RewriteRule ^default\.aspx /search/Jon+Hjørnevik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Gavalda
+RewriteRule ^default\.aspx /search/Anna+Gavalda? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hege%20Siri
+RewriteRule ^default\.aspx /search/Hege+Siri? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gene%20Dalby
+RewriteRule ^default\.aspx /search/Gene+Dalby? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jean-Pierre%20Gibrat
+RewriteRule ^default\.aspx /search/Jean-Pierre+Gibrat? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Berggren
+RewriteRule ^default\.aspx /search/Arne+Berggren? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mauro%20Boselli%20og%20Maurizio%20Colombo
+RewriteRule ^default\.aspx /search/Mauro+Boselli+Maurizio+Colombo? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Emilie%20Christensen
+RewriteRule ^default\.aspx /search/Emilie+Christensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Emilie%20Christensen
+RewriteRule ^default\.aspx /search/Emilie+Christensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hilde%20Eskild%20og%20Benedicte%20Hambro
+RewriteRule ^default\.aspx /search/Hilde+Eskild+Benedicte+Hambro? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marguerite%20Duras
+RewriteRule ^default\.aspx /search/Marguerite+Duras? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jan%20Faye%20Braadland
+RewriteRule ^default\.aspx /search/Jan+Faye+Braadland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ragnar%20Hovland
+RewriteRule ^default\.aspx /search/Ragnar+Hovland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Johanne%20Emilie%20Andersen
+RewriteRule ^default\.aspx /search/Johanne+Emilie+Andersen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Odveig%20Klyve
+RewriteRule ^default\.aspx /search/Odveig+Klyve? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ragnar%20Hovland
+RewriteRule ^default\.aspx /search/Ragnar+Hovland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen
+RewriteRule ^default\.aspx /search/Anette+Diesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen
+RewriteRule ^default\.aspx /search/Anette+Diesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen
+RewriteRule ^default\.aspx /search/Anette+Diesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen%20
+RewriteRule ^default\.aspx /search/Anette+Diesen+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jan%20Erik%20Vold
+RewriteRule ^default\.aspx /search/Jan+Erik+Vold? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Reidar%20Kjelsen
+RewriteRule ^default\.aspx /search/Reidar+Kjelsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Odd%20Haugstad
+RewriteRule ^default\.aspx /search/Odd+Haugstad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Helena%20Bross
+RewriteRule ^default\.aspx /search/Helena+Bross? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen%20
+RewriteRule ^default\.aspx /search/Anette+Diesen+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ole%20Reidar%20Hansen
+RewriteRule ^default\.aspx /search/Ole+Reidar+Hansen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen
+RewriteRule ^default\.aspx /search/Anette+Diesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen%20
+RewriteRule ^default\.aspx /search/Anette+Diesen+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Per%20Petterson
+RewriteRule ^default\.aspx /search/Per+Petterson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Levi%20Henriksen
+RewriteRule ^default\.aspx /search/Levi+Henriksen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen
+RewriteRule ^default\.aspx /search/Anette+Diesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Amal%20Aden
+RewriteRule ^default\.aspx /search/Amal+Aden? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Selma%20Lønning%20Aarø
+RewriteRule ^default\.aspx /search/Selma+Lønning+Aarø? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Olav%20Viksmo-Slettan
+RewriteRule ^default\.aspx /search/Olav+Viksmo-Slettan? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tor%20Ærlig%20(T.%20E.%20Naas)%20
+RewriteRule ^default\.aspx /search/Tor+Ærlig+(T.+E.+Naas)+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigmund%20Falch
+RewriteRule ^default\.aspx /search/Sigmund+Falch? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lindsay%20Ashford
+RewriteRule ^default\.aspx /search/Lindsay+Ashford? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Linda%20Eide
+RewriteRule ^default\.aspx /search/Linda+Eide? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Roger%20Granelli%20
+RewriteRule ^default\.aspx /search/Rer+Granelli+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Laila%20Stien%20
+RewriteRule ^default\.aspx /search/Laila+Stien+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Cecilie%20Seim
+RewriteRule ^default\.aspx /search/Cecilie+Seim? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anette%20Diesen
+RewriteRule ^default\.aspx /search/Anette+Diesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Margaret%20Saltrøe
+RewriteRule ^default\.aspx /search/Margaret+Saltrøe? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Nils%20Morten%20Hagen
+RewriteRule ^default\.aspx /search/Nils+Morten+Hagen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rita%20Emmett
+RewriteRule ^default\.aspx /search/Rita+Emmett? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lotta%20Elstad
+RewriteRule ^default\.aspx /search/Lotta+Elstad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjersti%20Kollbotn
+RewriteRule ^default\.aspx /search/Kjersti+Kollbotn? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rune%20Eraker
+RewriteRule ^default\.aspx /search/Rune+Eraker? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Nick%20Hornby
+RewriteRule ^default\.aspx /search/Nick+Hornby? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Harald%20S.%20Simonnæs%20(red.)
+RewriteRule ^default\.aspx /search/Harald+S.+Simonnæs+(red.)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Wera%20Sæther
+RewriteRule ^default\.aspx /search/Wera+Sæther? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Fosse
+RewriteRule ^default\.aspx /search/Jon+Fosse? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigmund%20Løvåsen
+RewriteRule ^default\.aspx /search/Sigmund+Løvåsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gaute%20M.%20Sortland
+RewriteRule ^default\.aspx /search/Gaute+M.+Sortland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Liv%20Skotheim%20og%20Anna%20Holm%20Vågsland
+RewriteRule ^default\.aspx /search/Liv+Skotheim+Anna+Holm+Vågsland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigmund%20Løvåsen
+RewriteRule ^default\.aspx /search/Sigmund+Løvåsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Blexbolex
+RewriteRule ^default\.aspx /search/Blexbolex? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tor%20Bomann-Larsen
+RewriteRule ^default\.aspx /search/Tor+Bomann-Larsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjell%20Askildsen
+RewriteRule ^default\.aspx /search/Kjell+Askildsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigmund%20Falch
+RewriteRule ^default\.aspx /search/Sigmund+Falch? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigmund%20Falch
+RewriteRule ^default\.aspx /search/Sigmund+Falch? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hege%20Saastad
+RewriteRule ^default\.aspx /search/Hege+Saastad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Line%20Kjellin%20Smith%20og%20Christine%20Bredsdorff%20Hotvedt
+RewriteRule ^default\.aspx /search/Line+Kjellin+Smith+Christine+Bredsdorff+Hotvedt? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gunnar%20Staalesen
+RewriteRule ^default\.aspx /search/Gunnar+Staalesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anne%20B.%20Ragde
+RewriteRule ^default\.aspx /search/Anne+B.+Ragde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Garvang
+RewriteRule ^default\.aspx /search/Arne+Garvang? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Samlet%20av%20Asbjørnsen%20og%20Moe
+RewriteRule ^default\.aspx /search/Samlet+av+Asbjørnsen+Moe? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hilde%20Henriksen
+RewriteRule ^default\.aspx /search/Hilde+Henriksen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erna%20Osland
+RewriteRule ^default\.aspx /search/Erna+Osland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjell%20Askildsen
+RewriteRule ^default\.aspx /search/Kjell+Askildsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=L.R.Hen
+RewriteRule ^default\.aspx /search/L.R.Hen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lisbeth%20Iglum%20Rønhovde
+RewriteRule ^default\.aspx /search/Lisbeth+Iglum+Rønhovde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kari%20Stai
+RewriteRule ^default\.aspx /search/Kari+Stai? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kazuno%20Kohara
+RewriteRule ^default\.aspx /search/Kazuno+Kohara? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gunilla%20Bergström
+RewriteRule ^default\.aspx /search/Gunilla+Bergström? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Max%20Velthuijs
+RewriteRule ^default\.aspx /search/Max+Velthuijs? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bente%20Bratlund
+RewriteRule ^default\.aspx /search/Bente+Bratlund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Charles%20Bukowski
+RewriteRule ^default\.aspx /search/Charles+Bukowski? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marit%20O.%20Bromark%20og%20Sivun%20Pen
+RewriteRule ^default\.aspx /search/Marit+O.+Bromark+Sivun+Pen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Na'ima%20bint%20Robert
+RewriteRule ^default\.aspx /search/Na'ima+bint+Robert? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Henriette%20Barkow%20(tilrettelagt%20utgave)
+RewriteRule ^default\.aspx /search/Henriette+Barkow+(tilrettelagt+utgave)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Linn%20Olafsen%20(prosjektansvarlig)
+RewriteRule ^default\.aspx /search/Linn+Olafsen+(prosjektansvarlig)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anne%20Gro%20Innstrand%20og%20Sølvi%20Linde
+RewriteRule ^default\.aspx /search/Anne+Gro+Innstrand+Sølvi+Linde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mukhtar%20Mai
+RewriteRule ^default\.aspx /search/Mukhtar+Mai? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Levi%20Henriksen
+RewriteRule ^default\.aspx /search/Levi+Henriksen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ina%20Åsheim
+RewriteRule ^default\.aspx /search/Ina+Åsheim? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kristan%20Fjellanger
+RewriteRule ^default\.aspx /search/Kristan+Fjellanger? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Siri%20Walen%20Simensen
+RewriteRule ^default\.aspx /search/Siri+Walen+Simensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hilde%20Eskild
+RewriteRule ^default\.aspx /search/Hilde+Eskild? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Andrew%20Page
+RewriteRule ^default\.aspx /search/Andrew+Page? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ingrid%20Z.%20Aanestad
+RewriteRule ^default\.aspx /search/Ingrid+Z.+Aanestad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Majken%20van%20Bruggen
+RewriteRule ^default\.aspx /search/Majken+van+Bruggen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Alexandre%20Dumas%20d.y.
+RewriteRule ^default\.aspx /search/Alexandre+Dumas+d.y.? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jack%20London
+RewriteRule ^default\.aspx /search/Jack+London? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Benedicte%20Meyer%20Kroneberg
+RewriteRule ^default\.aspx /search/Benedicte+Meyer+Kroneberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Svingen
+RewriteRule ^default\.aspx /search/Arne+Svingen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Nina%20Lykke
+RewriteRule ^default\.aspx /search/Nina+Lykke? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ingvill%20Solberg
+RewriteRule ^default\.aspx /search/Ingvill+Solberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Hjeltnes
+RewriteRule ^default\.aspx /search/Arne+Hjeltnes? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gaute%20M.%20Sortland
+RewriteRule ^default\.aspx /search/Gaute+M.+Sortland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Torgeir%20Rebolledo%20Pedersen
+RewriteRule ^default\.aspx /search/Torgeir+Rebolledo+Pedersen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Magnhild%20Bruheim
+RewriteRule ^default\.aspx /search/Magnhild+Bruheim? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Max%20Estes
+RewriteRule ^default\.aspx /search/Max+Estes? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jerry%20Scott
+RewriteRule ^default\.aspx /search/Jerry+Scott? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jason
+RewriteRule ^default\.aspx /search/Jason? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Hjørnevik
+RewriteRule ^default\.aspx /search/Jon+Hjørnevik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Morten%20Øen
+RewriteRule ^default\.aspx /search/Morten+Øen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=(antologi)
+RewriteRule ^default\.aspx /search/(antoli)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Frode%20Øverli
+RewriteRule ^default\.aspx /search/Frode+Øverli? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Michelet
+RewriteRule ^default\.aspx /search/Jon+Michelet? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Yngvar%20Andersen%20og%20Liv%20Loftesnes
+RewriteRule ^default\.aspx /search/Yngvar+Andersen+Liv+Loftesnes? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Liv%20Eirill%20Evensen
+RewriteRule ^default\.aspx /search/Liv+Eirill+Evensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Torhild%20Moen
+RewriteRule ^default\.aspx /search/Torhild+Moen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lane%20Smith
+RewriteRule ^default\.aspx /search/Lane+Smith? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Øyvind%20Asbjørnsen%20(red.)
+RewriteRule ^default\.aspx /search/Øyvind+Asbjørnsen+(red.)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marvin%20Halleraker
+RewriteRule ^default\.aspx /search/Marvin+Halleraker? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Liv%20R.%20Lykkenborg
+RewriteRule ^default\.aspx /search/Liv+R.+Lykkenborg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ingvar%20Svensson
+RewriteRule ^default\.aspx /search/Ingvar+Svensson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jason
+RewriteRule ^default\.aspx /search/Jason? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Peter%20Madsen
+RewriteRule ^default\.aspx /search/Peter+Madsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Karstein%20Volle
+RewriteRule ^default\.aspx /search/Karstein+Volle? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lise%20(forfatterens%20fulle%20navn%20er%20Lise%20Myhre)
+RewriteRule ^default\.aspx /search/Lise+(forfatterens+fulle+navn+er+Lise+Myhre)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lars%20Fiske%20og%20Steffen%20Kverneland
+RewriteRule ^default\.aspx /search/Lars+Fiske+Steffen+Kverneland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Saynab%20Mohamud%20og%20Eva%20Norderhaug
+RewriteRule ^default\.aspx /search/Saynab+Mohamud+Eva+Norderhaug? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ronny%20Haugeland
+RewriteRule ^default\.aspx /search/Ronny+Haugeland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Helena%20Sigander
+RewriteRule ^default\.aspx /search/Helena+Sigander? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jason
+RewriteRule ^default\.aspx /search/Jason? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jens%20K.%20Styve
+RewriteRule ^default\.aspx /search/Jens+K.+Styve? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Ousland
+RewriteRule ^default\.aspx /search/Bjørn+Ousland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Margareta%20Nordqvist
+RewriteRule ^default\.aspx /search/Margareta+Nordqvist? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Margareta%20Nordqvist
+RewriteRule ^default\.aspx /search/Margareta+Nordqvist? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mona%20Skard%20Heier%20og%20Anne%20M.%20Wolland
+RewriteRule ^default\.aspx /search/Mona+Skard+Heier+Anne+M.+Wolland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Henrik%20Hovland
+RewriteRule ^default\.aspx /search/Henrik+Hovland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Karstein%20Volle
+RewriteRule ^default\.aspx /search/Karstein+Volle? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Viveka%20Sjögren
+RewriteRule ^default\.aspx /search/Viveka+Sjögren? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Shaun%20Tan
+RewriteRule ^default\.aspx /search/Shaun+Tan? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erlend%20Loe
+RewriteRule ^default\.aspx /search/Erlend+Loe? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bitten%20Munthe-Kaas%20og%20Lillian%20G.%20Rasmussen
+RewriteRule ^default\.aspx /search/Bitten+Munthe-Kaas+Lillian+G.+Rasmussen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Albert%20W.%20Owesen%20og%20Ane-Grethe%20Owesen%20
+RewriteRule ^default\.aspx /search/Albert+W.+Owesen+Ane-Grethe+Owesen+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sidsel%20Mørck
+RewriteRule ^default\.aspx /search/Sidsel+Mørck? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erlend%20Loe
+RewriteRule ^default\.aspx /search/Erlend+Loe? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ellisiv%20Lindkvist
+RewriteRule ^default\.aspx /search/Ellisiv+Lindkvist? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ari%20Behn
+RewriteRule ^default\.aspx /search/Ari+Behn? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Karine%20Haaland
+RewriteRule ^default\.aspx /search/Karine+Haaland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Khaled%20Hosseini
+RewriteRule ^default\.aspx /search/Khaled+Hosseini? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ingvil%20Falch%20og%20Marit%20Hallen%20(red.)
+RewriteRule ^default\.aspx /search/Ingvil+Falch+Marit+Hallen+(red.)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bente%20Bratlund
+RewriteRule ^default\.aspx /search/Bente+Bratlund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Widar%20Aspeli
+RewriteRule ^default\.aspx /search/Widar+Aspeli? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tor%20Arve%20Røssland
+RewriteRule ^default\.aspx /search/Tor+Arve+Røssland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Shaun%20Tan
+RewriteRule ^default\.aspx /search/Shaun+Tan? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Berit%20Østbye
+RewriteRule ^default\.aspx /search/Berit+Østbye? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mariangela%20Cacace
+RewriteRule ^default\.aspx /search/Mariangela+Cacace? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Svein%20Tharald%20Framnes
+RewriteRule ^default\.aspx /search/Svein+Tharald+Framnes? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tor%20Erling%20Naas
+RewriteRule ^default\.aspx /search/Tor+Erling+Naas? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Inga%20H.%20Sætre
+RewriteRule ^default\.aspx /search/Inga+H.+Sætre? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Helge%20Torvund
+RewriteRule ^default\.aspx /search/Helge+Torvund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lina%20Undrum%20Mariussen
+RewriteRule ^default\.aspx /search/Lina+Undrum+Mariussen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ruben%20Eliassen
+RewriteRule ^default\.aspx /search/Ruben+Eliassen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lars%20Ove%20Seljestad
+RewriteRule ^default\.aspx /search/Lars+Ove+Seljestad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Hjørenveik%20og%20Atle%20Nilsen
+RewriteRule ^default\.aspx /search/Jon+Hjørenveik+Atle+Nilsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Linde%20Hagerup
+RewriteRule ^default\.aspx /search/Linde+Hagerup? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Per%20Asbjørn%20Risnes%20jr.
+RewriteRule ^default\.aspx /search/Per+Asbjørn+Risnes+jr.? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Karin%20Kinge%20Lindboe
+RewriteRule ^default\.aspx /search/Karin+Kinge+Lindboe? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ruben%20Eliassen
+RewriteRule ^default\.aspx /search/Ruben+Eliassen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hedda%20Lloyd-Rønnevig%20(red.)
+RewriteRule ^default\.aspx /search/Hedda+Lloyd-Rønnevig+(red.)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ruben%20Eliassen
+RewriteRule ^default\.aspx /search/Ruben+Eliassen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tarek%20Malouf%20og%20Hummingbird-bakerne
+RewriteRule ^default\.aspx /search/Tarek+Malouf+Hummingbird-bakerne? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kari%20Jaquesson
+RewriteRule ^default\.aspx /search/Kari+Jaquesson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hurra%20Torpedo,%20Egil%20Hegerberg,%20Aslag%20Guttormsgaard%20og%20Kristopher%20Schau
+RewriteRule ^default\.aspx /search/Hurra+Torpedo+Egil+Hegerberg+Aslag+Guttormsgaard+Kristopher+Schau? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Adam%20Mansbach
+RewriteRule ^default\.aspx /search/Adam+Mansbach? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Johanne%20Emilie%20Andersen%20
+RewriteRule ^default\.aspx /search/Johanne+Emilie+Andersen+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erling%20Kagge
+RewriteRule ^default\.aspx /search/Erling+Kagge? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigbjørn%20Lilleeng
+RewriteRule ^default\.aspx /search/Sigbjørn+Lilleeng? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erling%20Ulstup
+RewriteRule ^default\.aspx /search/Erling+Ulstup? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Ewo
+RewriteRule ^default\.aspx /search/Jon+Ewo? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marguerite%20Abouet
+RewriteRule ^default\.aspx /search/Marguerite+Abouet? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kristen%20Visdal
+RewriteRule ^default\.aspx /search/Kristen+Visdal? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Max%20Estes
+RewriteRule ^default\.aspx /search/Max+Estes? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ingri%20Egeberg
+RewriteRule ^default\.aspx /search/Ingri+Egeberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=NULL
+RewriteRule ^default\.aspx /search/NULL? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kari%20Jaquesson
+RewriteRule ^default\.aspx /search/Kari+Jaquesson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Emil%20Johansen%20
+RewriteRule ^default\.aspx /search/Emil+Johansen+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Amal%20Aden
+RewriteRule ^default\.aspx /search/Amal+Aden? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jan%20Henrik%20Nielsen
+RewriteRule ^default\.aspx /search/Jan+Henrik+Nielsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jostein%20Gaarder
+RewriteRule ^default\.aspx /search/Jostein+Gaarder? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Linn%20T.%20Sunne
+RewriteRule ^default\.aspx /search/Linn+T.+Sunne? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Liv%20Eirill%20Evensen
+RewriteRule ^default\.aspx /search/Liv+Eirill+Evensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Iben%20Sandemose
+RewriteRule ^default\.aspx /search/Iben+Sandemose? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Trine%20Angelsen
+RewriteRule ^default\.aspx /search/Trine+Angelsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Cecilie%20Skog
+RewriteRule ^default\.aspx /search/Cecilie+Sk? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Caterina%20Cattaneo
+RewriteRule ^default\.aspx /search/Caterina+Cattaneo? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hilde%20Hagerup
+RewriteRule ^default\.aspx /search/Hilde+Hagerup? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mia%20Berner
+RewriteRule ^default\.aspx /search/Mia+Berner? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Klaus%20Hagerup
+RewriteRule ^default\.aspx /search/Klaus+Hagerup? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Else%20Liv%20Hagesæther
+RewriteRule ^default\.aspx /search/Else+Liv+Hagesæther? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Elin%20Husebø
+RewriteRule ^default\.aspx /search/Elin+Husebø? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Grethe%20Nestor%20og%20Norunn%20Schjerven%20
+RewriteRule ^default\.aspx /search/Grethe+Nestor+Norunn+Schjerven+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Svingen%20og%20Helene%20Uri%20
+RewriteRule ^default\.aspx /search/Arne+Svingen+Helene+Uri+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Dan%20Eggen
+RewriteRule ^default\.aspx /search/Dan+Eggen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Øyvind%20Torseter%20
+RewriteRule ^default\.aspx /search/Øyvind+Torseter+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Siv%20Wyller
+RewriteRule ^default\.aspx /search/Siv+Wyller? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Randi%20Annie%20Strand%20
+RewriteRule ^default\.aspx /search/Randi+Annie+Strand+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Randi%20Annie%20Strand%20
+RewriteRule ^default\.aspx /search/Randi+Annie+Strand+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Elle%20Márjá%20Vars%20
+RewriteRule ^default\.aspx /search/Elle+Márjá+Vars+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Signe%20Torp%20
+RewriteRule ^default\.aspx /search/Signe+Torp+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Charlotte%20Glaser%20Munch%20
+RewriteRule ^default\.aspx /search/Charlotte+Glaser+Munch+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ida%20Løkås
+RewriteRule ^default\.aspx /search/Ida+Løkås? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Helga%20Samset
+RewriteRule ^default\.aspx /search/Helga+Samset? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jeff%20Kinney%20
+RewriteRule ^default\.aspx /search/Jeff+Kinney+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rachel%20Renée%20Russell%20
+RewriteRule ^default\.aspx /search/Rachel+Renée+Russell+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Stein%20Erik%20Lunde
+RewriteRule ^default\.aspx /search/Stein+Erik+Lunde? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lene%20Ask
+RewriteRule ^default\.aspx /search/Lene+Ask? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jan%20og%20Eyvind%20Hellstrøm
+RewriteRule ^default\.aspx /search/Jan+Eyvind+Hellstrøm? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lene%20Svenning
+RewriteRule ^default\.aspx /search/Lene+Svenning? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jenny%20Skavlan%20og%20Tone%20Skårdal%20Tobiasson
+RewriteRule ^default\.aspx /search/Jenny+Skavlan+Tone+Skårdal+Tobiasson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kari%20Saanum
+RewriteRule ^default\.aspx /search/Kari+Saanum? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Harald%20Rex%20(alias%20Odd-Magnus%20Williamson)
+RewriteRule ^default\.aspx /search/Harald+Rex+(alias+Odd-Magnus+Williamson)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Robert%20Muchamore%20og%20Ian%20Edgington
+RewriteRule ^default\.aspx /search/Robert+Muchamore+Ian+Edgington? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ane%20V.%20Håbjørg
+RewriteRule ^default\.aspx /search/Ane+V.+Håbjørg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Norunn%20Amundsen
+RewriteRule ^default\.aspx /search/Norunn+Amundsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tor%20Erling%20Naas
+RewriteRule ^default\.aspx /search/Tor+Erling+Naas? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ben%20Furmann
+RewriteRule ^default\.aspx /search/Ben+Furmann? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Paul%20Løwe
+RewriteRule ^default\.aspx /search/Paul+Løwe? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Linn%20T.%20Sunne
+RewriteRule ^default\.aspx /search/Linn+T.+Sunne? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Eva%20Jensen
+RewriteRule ^default\.aspx /search/Eva+Jensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Eivor%20Vindenes
+RewriteRule ^default\.aspx /search/Eivor+Vindenes? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Fabien%20Vehlmann
+RewriteRule ^default\.aspx /search/Fabien+Vehlmann? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Charlotte%20Riise
+RewriteRule ^default\.aspx /search/Charlotte+Riise? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Des%20Pawson
+RewriteRule ^default\.aspx /search/Des+Pawson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arne%20Berggren
+RewriteRule ^default\.aspx /search/Arne+Berggren? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rønnaug%20Kleiva
+RewriteRule ^default\.aspx /search/Rønnaug+Kleiva? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gaute%20Heivoll
+RewriteRule ^default\.aspx /search/Gaute+Heivoll? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Martin%20Ernstsen
+RewriteRule ^default\.aspx /search/Martin+Ernstsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bente%20Bratlund
+RewriteRule ^default\.aspx /search/Bente+Bratlund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kristopher%20Schau%20
+RewriteRule ^default\.aspx /search/Kristopher+Schau+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Martin%20Ernstsen
+RewriteRule ^default\.aspx /search/Martin+Ernstsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Hjørnevik
+RewriteRule ^default\.aspx /search/Jon+Hjørnevik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigmund%20Falch
+RewriteRule ^default\.aspx /search/Sigmund+Falch? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Aase%20Dotterud
+RewriteRule ^default\.aspx /search/Aase+Dotterud? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lars%20Mæhle
+RewriteRule ^default\.aspx /search/Lars+Mæhle? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Eyvind%20Hellstrøm
+RewriteRule ^default\.aspx /search/Eyvind+Hellstrøm? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erling%20Kagge
+RewriteRule ^default\.aspx /search/Erling+Kagge? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Siri%20M.%20Kvamme
+RewriteRule ^default\.aspx /search/Siri+M.+Kvamme? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ole%20Martin%20Holte
+RewriteRule ^default\.aspx /search/Ole+Martin+Holte? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ingrid%20Bjørnov
+RewriteRule ^default\.aspx /search/Ingrid+Bjørnov? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Steve%20Wheen
+RewriteRule ^default\.aspx /search/Steve+Wheen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mari%20Lindbäck
+RewriteRule ^default\.aspx /search/Mari+Lindbäck? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=José%20Jorge%20Letria
+RewriteRule ^default\.aspx /search/José+Jorge+Letria? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Veronica%20Salinas
+RewriteRule ^default\.aspx /search/Veronica+Salinas? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Eline%20Johnsen%20Helledal
+RewriteRule ^default\.aspx /search/Eline+Johnsen+Helledal? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bård%20Løken
+RewriteRule ^default\.aspx /search/Bård+Løken? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Stig%20Beite%20Løken%20
+RewriteRule ^default\.aspx /search/Stig+Beite+Løken+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Nils-Øivind%20Haagensen
+RewriteRule ^default\.aspx /search/Nils-Øivind+Haagensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Thomas%20Moen
+RewriteRule ^default\.aspx /search/Thomas+Moen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Ewo
+RewriteRule ^default\.aspx /search/Jon+Ewo? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rune%20Johan%20Andersson
+RewriteRule ^default\.aspx /search/Rune+Johan+Andersson? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Andrea%20Gjestvang%20
+RewriteRule ^default\.aspx /search/Andrea+Gjestvang+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Max%20Estes
+RewriteRule ^default\.aspx /search/Max+Estes? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ensun%20Kim
+RewriteRule ^default\.aspx /search/Ensun+Kim? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Odd%20Børretzen%20
+RewriteRule ^default\.aspx /search/Odd+Børretzen+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Paal%20Audestad%20og%20Terje%20Winterstø%20Røthing%20
+RewriteRule ^default\.aspx /search/Paal+Audestad+Terje+Winterstø+Røthing+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tor%20Fretheim
+RewriteRule ^default\.aspx /search/Tor+Fretheim? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Håkon%20Forfod%20Sønneland
+RewriteRule ^default\.aspx /search/Håkon+Forfod+Sønneland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Karen%20Thompson%20Walker
+RewriteRule ^default\.aspx /search/Karen+Thompson+Walker? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Madalena%20Matoso
+RewriteRule ^default\.aspx /search/Madalena+Matoso? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lars%20Karelius%20Noer
+RewriteRule ^default\.aspx /search/Lars+Karelius+Noer? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kari%20Vetlesen
+RewriteRule ^default\.aspx /search/Kari+Vetlesen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Christer%20Torjussen
+RewriteRule ^default\.aspx /search/Christer+Torjussen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Alex%20Rosén
+RewriteRule ^default\.aspx /search/Alex+Rosén? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Arve%20Juritzen%20(red.)
+RewriteRule ^default\.aspx /search/Arve+Juritzen+(red.)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20M.%20Moen
+RewriteRule ^default\.aspx /search/Bjørn+M.+Moen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hilde%20Hagerup
+RewriteRule ^default\.aspx /search/Hilde+Hagerup? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rune%20Belsvik
+RewriteRule ^default\.aspx /search/Rune+Belsvik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bente%20Bratlund
+RewriteRule ^default\.aspx /search/Bente+Bratlund? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hilde%20Hagerup%20
+RewriteRule ^default\.aspx /search/Hilde+Hagerup+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Erna%20Osland
+RewriteRule ^default\.aspx /search/Erna+Osland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tim%20Bowler
+RewriteRule ^default\.aspx /search/Tim+Bowler? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sherko%20Bekas
+RewriteRule ^default\.aspx /search/Sherko+Bekas? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Atle%20Hansen
+RewriteRule ^default\.aspx /search/Atle+Hansen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Helga%20Gunerius%20Eriksen
+RewriteRule ^default\.aspx /search/Helga+Gunerius+Eriksen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ulf%20Sindt
+RewriteRule ^default\.aspx /search/Ulf+Sindt? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ivar%20Orvedal%20og%20Randi%20Strand
+RewriteRule ^default\.aspx /search/Ivar+Orvedal+Randi+Strand? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Odveig%20Klyve%20
+RewriteRule ^default\.aspx /search/Odveig+Klyve+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hilde%20Eskild%20og%20Benedicte%20Hambro
+RewriteRule ^default\.aspx /search/Hilde+Eskild+Benedicte+Hambro? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Agate%20Øksendal%20Kaupang
+RewriteRule ^default\.aspx /search/Agate+Øksendal+Kaupang? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Vera%20Micaelsen
+RewriteRule ^default\.aspx /search/Vera+Micaelsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ellisiv%20Lindkvist%20
+RewriteRule ^default\.aspx /search/Ellisiv+Lindkvist+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lisbeth%20Iglum%20Rønhovde%20og%20Ellen%20Ekevik
+RewriteRule ^default\.aspx /search/Lisbeth+Iglum+Rønhovde+Ellen+Ekevik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jan%20Ove%20Ulstein%20
+RewriteRule ^default\.aspx /search/Jan+Ove+Ulstein+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Steffen%20R.%20M.%20%20Sørum
+RewriteRule ^default\.aspx /search/Steffen+R.+M.+Sørum? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Benedicte%20Meyer%20Kroneberg
+RewriteRule ^default\.aspx /search/Benedicte+Meyer+Kroneberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Harald%20Rex%20(alias%20Odd-Magnus%20Williamson)
+RewriteRule ^default\.aspx /search/Harald+Rex+(alias+Odd-Magnus+Williamson)? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Bjørn%20Ingvaldsen
+RewriteRule ^default\.aspx /search/Bjørn+Ingvaldsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ragnar%20Hovland
+RewriteRule ^default\.aspx /search/Ragnar+Hovland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tiril%20Broch%20Aakre
+RewriteRule ^default\.aspx /search/Tiril+Broch+Aakre? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Isabell%20El-Melhaoui
+RewriteRule ^default\.aspx /search/Isabell+El-Melhaoui? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Liv%20Marit%20Weberg
+RewriteRule ^default\.aspx /search/Liv+Marit+Weberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ida%20Skivenes
+RewriteRule ^default\.aspx /search/Ida+Skivenes? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=The%20Flying%20Culinary%20Circus
+RewriteRule ^default\.aspx /search/The+Flying+Culinary+Circus? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Oslo-politiet
+RewriteRule ^default\.aspx /search/Oslo-politiet? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Liv%20Eirill%20Evensen
+RewriteRule ^default\.aspx /search/Liv+Eirill+Evensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Karpe%20Diem
+RewriteRule ^default\.aspx /search/Karpe+Diem? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigrun%20Nygaard%20Moriggi
+RewriteRule ^default\.aspx /search/Sigrun+Nygaard+Moriggi? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Terje%20Thorsen
+RewriteRule ^default\.aspx /search/Terje+Thorsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigmund%20Falch
+RewriteRule ^default\.aspx /search/Sigmund+Falch? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Guy%20Delisle
+RewriteRule ^default\.aspx /search/Guy+Delisle? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ingvild%20H.%20Rishøi
+RewriteRule ^default\.aspx /search/Ingvild+H.+Rishøi? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Frøy%20Lode%20Wiig
+RewriteRule ^default\.aspx /search/Frøy+Lode+Wiig? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hedda%20Berntsen%20og%20Kjetil%20André%20Aamodt
+RewriteRule ^default\.aspx /search/Hedda+Berntsen+Kjetil+André+Aamodt? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Cecilie%20Aurstad
+RewriteRule ^default\.aspx /search/Cecilie+Aurstad? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Håvard%20Tjora
+RewriteRule ^default\.aspx /search/Håvard+Tjora? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Rune%20Johansen
+RewriteRule ^default\.aspx /search/Rune+Johansen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Sigrid%20Beate%20Edvardsen
+RewriteRule ^default\.aspx /search/Sigrid+Beate+Edvardsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Angelika%20Klüssendorf
+RewriteRule ^default\.aspx /search/Angelika+Klüssendorf? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Widar%20Aspeli
+RewriteRule ^default\.aspx /search/Widar+Aspeli? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Finn%20Schjøll
+RewriteRule ^default\.aspx /search/Finn+Schjøll? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ina-Janine%20Johnsen
+RewriteRule ^default\.aspx /search/Ina-Janine+Johnsen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Harald%20Eia,%20Ole-Martin%20Ihle%20og%20Nils%20Brenna
+RewriteRule ^default\.aspx /search/Harald+Eia+Ole-Martin+Ihle+Nils+Brenna? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Caroline%20Kaspara%20Palonen%20
+RewriteRule ^default\.aspx /search/Caroline+Kaspara+Palonen+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kjersti%20Wøien%20Håland%20
+RewriteRule ^default\.aspx /search/Kjersti+Wøien+Håland+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Selma%20Lønning%20Aarø
+RewriteRule ^default\.aspx /search/Selma+Lønning+Aarø? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Gine%20Cornelia%20Pedersen%20
+RewriteRule ^default\.aspx /search/Gine+Cornelia+Pedersen+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Mariann%20Aaland
+RewriteRule ^default\.aspx /search/Mariann+Aaland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Linda%20Boström%20Knausgård%20
+RewriteRule ^default\.aspx /search/Linda+Boström+Knausgård+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marit%20Kaldhol
+RewriteRule ^default\.aspx /search/Marit+Kaldhol? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Julie%20Maroh
+RewriteRule ^default\.aspx /search/Julie+Maroh? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tom%20Gauld
+RewriteRule ^default\.aspx /search/Tom+Gauld? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Marguerite%20Abouet%20
+RewriteRule ^default\.aspx /search/Marguerite+Abouet+? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Helle%20Bornstein
+RewriteRule ^default\.aspx /search/Helle+Bornstein? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Kristian%20Finborud
+RewriteRule ^default\.aspx /search/Kristian+Finborud? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Einar%20Økland
+RewriteRule ^default\.aspx /search/Einar+Økland? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jon%20Hjørnevik
+RewriteRule ^default\.aspx /search/Jon+Hjørnevik? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Raymond%20Mosken
+RewriteRule ^default\.aspx /search/Raymond+Mosken? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tom%20Kristensen
+RewriteRule ^default\.aspx /search/Tom+Kristensen? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Jens%20K.%20Styve
+RewriteRule ^default\.aspx /search/Jens+K.+Styve? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Johanna%20Grønneberg%20Mesa
+RewriteRule ^default\.aspx /search/Johanna+Grønneberg+Mesa? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Lars%20Aarønæs
+RewriteRule ^default\.aspx /search/Lars+Aarønæs? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Tom%20Stalsberg%20og%20Ruben%20Espinoza%20Stalsberg
+RewriteRule ^default\.aspx /search/Tom+Stalsberg+Ruben+Espinoza+Stalsberg? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Henry%20Bronken
+RewriteRule ^default\.aspx /search/Henry+Bronken? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Katarina%20og%20Henrik%20Lange
+RewriteRule ^default\.aspx /search/Katarina+Henrik+Lange? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Anna%20Fiske
+RewriteRule ^default\.aspx /search/Anna+Fiske? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Petter%20Wilhelm%20Blichfeldt%20Schjerven
+RewriteRule ^default\.aspx /search/Petter+Wilhelm+Blichfeldt+Schjerven? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Hilde%20Hagerup
+RewriteRule ^default\.aspx /search/Hilde+Hagerup? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} view=search&author=Ann%20Eli%20Mavrakis
+RewriteRule ^default\.aspx /search/Ann+Eli+Mavrakis? [NC,L,R=301]
