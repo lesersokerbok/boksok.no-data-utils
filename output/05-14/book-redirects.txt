@@ -1,0 +1,1420 @@
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=27
+RewriteRule ^default\.aspx /bok/julie-og-sofia/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=28
+RewriteRule ^default\.aspx /bok/julie-er-forelsket/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=29
+RewriteRule ^default\.aspx /bok/asylsoeker/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=30
+RewriteRule ^default\.aspx /bok/serier-som-vil-deg-vel/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=31
+RewriteRule ^default\.aspx /bok/bli-kjent-med-barnehage-helsestasjon-tannlege-legevakt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=32
+RewriteRule ^default\.aspx /bok/min-far-falo/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=33
+RewriteRule ^default\.aspx /bok/vis-meg-hvordan/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=34
+RewriteRule ^default\.aspx /bok/velkommen-inn/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=35
+RewriteRule ^default\.aspx /bok/norske-blinkskudd/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=37
+RewriteRule ^default\.aspx /bok/fluefiskerens-felthaandbok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=38
+RewriteRule ^default\.aspx /bok/bilen-vaar-nostalgi-paa-fire-hjul/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=39
+RewriteRule ^default\.aspx /bok/skynd-deg-aa-elske/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=49
+RewriteRule ^default\.aspx /bok/norske-sjoefolk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=50
+RewriteRule ^default\.aspx /bok/god-skitur-ski-smoering-og-teknikker/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=51
+RewriteRule ^default\.aspx /bok/den-vanvittige/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=52
+RewriteRule ^default\.aspx /bok/mens-blücher-sank/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=53
+RewriteRule ^default\.aspx /bok/spor-snoe/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=54
+RewriteRule ^default\.aspx /bok/flammekaster/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=55
+RewriteRule ^default\.aspx /bok/tyl/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=56
+RewriteRule ^default\.aspx /bok/alt-det-som-er/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=57
+RewriteRule ^default\.aspx /bok/levende-vips-doed/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=58
+RewriteRule ^default\.aspx /bok/noe-som-hjelper/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=59
+RewriteRule ^default\.aspx /bok/hva-er-det-med-mor/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=60
+RewriteRule ^default\.aspx /bok/du-kan-ikke-svikte-din-beste-venn-og-bli-god-til-aa-synge-samtidig/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=61
+RewriteRule ^default\.aspx /bok/burnout/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=62
+RewriteRule ^default\.aspx /bok/alle-forteller-meg-hvor-bra-jeg-er-i-tilfelle-jeg-blir-det/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=63
+RewriteRule ^default\.aspx /bok/voksne-dikt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=64
+RewriteRule ^default\.aspx /bok/shortsen-til-far-min/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=65
+RewriteRule ^default\.aspx /bok/vekten-av-snoekrystaller/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=66
+RewriteRule ^default\.aspx /bok/hannu-hannu/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=67
+RewriteRule ^default\.aspx /bok/fredlaus/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=68
+RewriteRule ^default\.aspx /bok/stille-dager-i-mixing-part/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=69
+RewriteRule ^default\.aspx /bok/ungkarsfestivalen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=70
+RewriteRule ^default\.aspx /bok/trist-som-faen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=72
+RewriteRule ^default\.aspx /bok/drapet-paa-aurora-lindkvist/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=73
+RewriteRule ^default\.aspx /bok/postkontoret/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=74
+RewriteRule ^default\.aspx /bok/nasjonaldagen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=75
+RewriteRule ^default\.aspx /bok/elskede-poona/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=76
+RewriteRule ^default\.aspx /bok/bare-mjuke-pakker-under-treet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=77
+RewriteRule ^default\.aspx /bok/gravenstein/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=78
+RewriteRule ^default\.aspx /bok/en-kassadames-betroelser/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=79
+RewriteRule ^default\.aspx /bok/i-dag-er-ein-fin-dag/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=80
+RewriteRule ^default\.aspx /bok/eg-elska-ho/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=81
+RewriteRule ^default\.aspx /bok/det-nalda-sa/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=82
+RewriteRule ^default\.aspx /bok/en-rekke-avbrutte-forsoek/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=83
+RewriteRule ^default\.aspx /bok/lyden-av-de-andre-som-bor-her/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=84
+RewriteRule ^default\.aspx /bok/herman/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=85
+RewriteRule ^default\.aspx /bok/gutten-som-ville-vaere-en-av-gutta/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=86
+RewriteRule ^default\.aspx /bok/26-november-fire-fortellinger-fra-det-norske-holocaust/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=87
+RewriteRule ^default\.aspx /bok/laika/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=88
+RewriteRule ^default\.aspx /bok/jeg-satte-mitt-haap-til-verden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=89
+RewriteRule ^default\.aspx /bok/alltid-beredt-til-aa-doe-for-mitt-barn/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=90
+RewriteRule ^default\.aspx /bok/máilmmi-jálumus-mánná/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=91
+RewriteRule ^default\.aspx /bok/bilder-av-folk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=92
+RewriteRule ^default\.aspx /bok/hiv-mannskjiten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=93
+RewriteRule ^default\.aspx /bok/han-vet-om-noe-hun-kan-proeve/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=94
+RewriteRule ^default\.aspx /bok/pakkis/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=95
+RewriteRule ^default\.aspx /bok/den-merkelige-hendelsen-med-hunden-den-natten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=96
+RewriteRule ^default\.aspx /bok/abc-i-integrering/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=97
+RewriteRule ^default\.aspx /bok/sa-mor/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=98
+RewriteRule ^default\.aspx /bok/charter-50-aar-til-syden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=99
+RewriteRule ^default\.aspx /bok/blaaveis/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=100
+RewriteRule ^default\.aspx /bok/nmt-sangboka/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=101
+RewriteRule ^default\.aspx /bok/paa-vegne-av-venner/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=102
+RewriteRule ^default\.aspx /bok/fortellingen-om-aung-san-suu-kyi/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=103
+RewriteRule ^default\.aspx /bok/fortellingen-om-liverpool/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=104
+RewriteRule ^default\.aspx /bok/bliss-symbolspraak/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=105
+RewriteRule ^default\.aspx /bok/kryssild/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=106
+RewriteRule ^default\.aspx /bok/jeg-elsker-deg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=109
+RewriteRule ^default\.aspx /bok/paals-reise/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=110
+RewriteRule ^default\.aspx /bok/kjenner-du-kjempen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=111
+RewriteRule ^default\.aspx /bok/eg-er-her/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=113
+RewriteRule ^default\.aspx /bok/nordover-med-nansen-mot-nordpolen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=114
+RewriteRule ^default\.aspx /bok/hundrelappen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=116
+RewriteRule ^default\.aspx /bok/smaa-og-store-ting-som-du-kan-lage-selv/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=118
+RewriteRule ^default\.aspx /bok/nemi-skumle-damen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=119
+RewriteRule ^default\.aspx /bok/ernie-de-beste-fra-1988-1992/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=120
+RewriteRule ^default\.aspx /bok/toner-deg-i-moete-sanger-i-stor-skrift-ressursbok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=121
+RewriteRule ^default\.aspx /bok/toner-deg-i-moete-sanger-i-stor-skrift/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=122
+RewriteRule ^default\.aspx /bok/piraten-isaac/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=123
+RewriteRule ^default\.aspx /bok/mare-frigoris/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=124
+RewriteRule ^default\.aspx /bok/barnesoldatene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=125
+RewriteRule ^default\.aspx /bok/redd/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=126
+RewriteRule ^default\.aspx /bok/trekkspill-tvillingene-lydbok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=127
+RewriteRule ^default\.aspx /bok/ni-brev-til-advokaten-lydbok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=128
+RewriteRule ^default\.aspx /bok/emma3-og-torehund-lydbok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=129
+RewriteRule ^default\.aspx /bok/bare-en-siste-gang-lydbok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=130
+RewriteRule ^default\.aspx /bok/pass-deg-line/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=131
+RewriteRule ^default\.aspx /bok/tanzania/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=132
+RewriteRule ^default\.aspx /bok/kina/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=133
+RewriteRule ^default\.aspx /bok/utsettelsen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=134
+RewriteRule ^default\.aspx /bok/india/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=135
+RewriteRule ^default\.aspx /bok/det-store-spoersmaalet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=136
+RewriteRule ^default\.aspx /bok/eg-spoer-eg-toer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=137
+RewriteRule ^default\.aspx /bok/hoeyt-over-husene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=138
+RewriteRule ^default\.aspx /bok/simen-+-maanen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=139
+RewriteRule ^default\.aspx /bok/fire-noveller/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=140
+RewriteRule ^default\.aspx /bok/fantasiblikket/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=141
+RewriteRule ^default\.aspx /bok/dobbelt-mamma/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=142
+RewriteRule ^default\.aspx /bok/fra-t-bane-til-lenestol/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=143
+RewriteRule ^default\.aspx /bok/jenta-med-heilt-jamne-mjuke-augebryn/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=144
+RewriteRule ^default\.aspx /bok/ankomsten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=145
+RewriteRule ^default\.aspx /bok/kasper-filmer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=146
+RewriteRule ^default\.aspx /bok/en-annerledes-dag/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=147
+RewriteRule ^default\.aspx /bok/ille/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=148
+RewriteRule ^default\.aspx /bok/blaafargen-som-verden-ville-ha/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=149
+RewriteRule ^default\.aspx /bok/sorte-seil/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=150
+RewriteRule ^default\.aspx /bok/sort-hull/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=151
+RewriteRule ^default\.aspx /bok/reddhare/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=153
+RewriteRule ^default\.aspx /bok/et-sugeroer-for-to/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=154
+RewriteRule ^default\.aspx /bok/gode-naboer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=155
+RewriteRule ^default\.aspx /bok/blekkdrikkeren/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=157
+RewriteRule ^default\.aspx /bok/90's-love-song/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=159
+RewriteRule ^default\.aspx /bok/besoek-fra-det-ytre-rom/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=161
+RewriteRule ^default\.aspx /bok/kasper-spiller-realt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=162
+RewriteRule ^default\.aspx /bok/kasper-tar-straffe/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=163
+RewriteRule ^default\.aspx /bok/kasper-paa-proevetrening/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=164
+RewriteRule ^default\.aspx /bok/den-usynlige-prinsen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=165
+RewriteRule ^default\.aspx /bok/gjengangeren/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=166
+RewriteRule ^default\.aspx /bok/kaninar-og-kaninar/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=167
+RewriteRule ^default\.aspx /bok/hardt-vaer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=168
+RewriteRule ^default\.aspx /bok/pondus-eliteserien-1/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=169
+RewriteRule ^default\.aspx /bok/ingen-ild-tenner-stjernene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=170
+RewriteRule ^default\.aspx /bok/undersoekelse-og-behandling-av-kreft/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=171
+RewriteRule ^default\.aspx /bok/undersoekelse-og-behandling-av-kreft-1/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=172
+RewriteRule ^default\.aspx /bok/melkemysteriet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=173
+RewriteRule ^default\.aspx /bok/molly-paa-tegnspraak/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=174
+RewriteRule ^default\.aspx /bok/bone-dragedreperen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=175
+RewriteRule ^default\.aspx /bok/oscar-mister-en-tann/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=176
+RewriteRule ^default\.aspx /bok/tegn-til-tro-evangeliet-etter-lukas/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=177
+RewriteRule ^default\.aspx /bok/hubert-i-musetroebbel/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=178
+RewriteRule ^default\.aspx /bok/saa-kom-det-eit-kort/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=179
+RewriteRule ^default\.aspx /bok/emaline-og-gaernemannen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=180
+RewriteRule ^default\.aspx /bok/emma3-og-torehund/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=181
+RewriteRule ^default\.aspx /bok/en-bok-om-livet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=182
+RewriteRule ^default\.aspx /bok/jorda-rundt-paa-29-bokstaver/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=183
+RewriteRule ^default\.aspx /bok/shhh/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=185
+RewriteRule ^default\.aspx /bok/10-minutter-til-fastere-laar-og-en-litt-mer-spretten-rumpe/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=186
+RewriteRule ^default\.aspx /bok/lese-eller-fiske/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=187
+RewriteRule ^default\.aspx /bok/vers-paa-tvers/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=188
+RewriteRule ^default\.aspx /bok/ávvudivttat/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=189
+RewriteRule ^default\.aspx /bok/hilsen-til/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=190
+RewriteRule ^default\.aspx /bok/heksagon-tryller-en-storm/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=191
+RewriteRule ^default\.aspx /bok/ti-tanker-i-hue-og-ingen-paa-papiret/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=192
+RewriteRule ^default\.aspx /bok/spurvegutten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=193
+RewriteRule ^default\.aspx /bok/metallet-som-forandret-verden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=194
+RewriteRule ^default\.aspx /bok/glad-i-deg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=195
+RewriteRule ^default\.aspx /bok/jeg-vil-alltid-elske-burma-cho-saint-tun-forteller/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=196
+RewriteRule ^default\.aspx /bok/dager-jeg-har-glemt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=197
+RewriteRule ^default\.aspx /bok/sjenanse/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=198
+RewriteRule ^default\.aspx /bok/forelskelse/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=199
+RewriteRule ^default\.aspx /bok/trekkspill-tvillingene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=200
+RewriteRule ^default\.aspx /bok/bisk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=201
+RewriteRule ^default\.aspx /bok/vi-gir-oss-aldri/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=202
+RewriteRule ^default\.aspx /bok/pondus-sju-lange-og-sju-breie/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=203
+RewriteRule ^default\.aspx /bok/toget-en-reise-paa-skinner/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=204
+RewriteRule ^default\.aspx /bok/rocky-bok-iii/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=205
+RewriteRule ^default\.aspx /bok/dina-den-doeve-dinosauren/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=206
+RewriteRule ^default\.aspx /bok/english-conversation/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=207
+RewriteRule ^default\.aspx /bok/on-the-road-again-again/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=209
+RewriteRule ^default\.aspx /bok/skugge-under-groenskarvet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=210
+RewriteRule ^default\.aspx /bok/fotball/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=211
+RewriteRule ^default\.aspx /bok/kylling-med-svisker/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=213
+RewriteRule ^default\.aspx /bok/den-arktiske-droemmen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=214
+RewriteRule ^default\.aspx /bok/heksagon-tryller-en-storm-1/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=215
+RewriteRule ^default\.aspx /bok/evangeliet-etter-johannes/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=216
+RewriteRule ^default\.aspx /bok/salmenes-bok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=217
+RewriteRule ^default\.aspx /bok/evangeliet-etter-lukas/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=218
+RewriteRule ^default\.aspx /bok/evangeliet-etter-matteus/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=219
+RewriteRule ^default\.aspx /bok/tepper/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=220
+RewriteRule ^default\.aspx /bok/kino/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=221
+RewriteRule ^default\.aspx /bok/hemmeleg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=222
+RewriteRule ^default\.aspx /bok/maria-og-josè/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=223
+RewriteRule ^default\.aspx /bok/bone-den-mystiske-dalen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=224
+RewriteRule ^default\.aspx /bok/10-minutter-til-en-sterkere-rygg-og-litt-flatere-mage/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=225
+RewriteRule ^default\.aspx /bok/lucky-luke/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=226
+RewriteRule ^default\.aspx /bok/horton-klekker-ut-et-egg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=227
+RewriteRule ^default\.aspx /bok/kall-meg-onkel-alf/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=228
+RewriteRule ^default\.aspx /bok/den-lille-larven-aldrimett/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=229
+RewriteRule ^default\.aspx /bok/legg-cricket-paa-is/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=230
+RewriteRule ^default\.aspx /bok/naar-to-er-sinte-paa-hverandre/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=231
+RewriteRule ^default\.aspx /bok/sov-godt-pus/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=232
+RewriteRule ^default\.aspx /bok/10-minutter-til-en-sprekere-kropp/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=233
+RewriteRule ^default\.aspx /bok/jeg-drepte-hitler/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=234
+RewriteRule ^default\.aspx /bok/40-postkort/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=235
+RewriteRule ^default\.aspx /bok/rabbel-nummer-1-5/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=236
+RewriteRule ^default\.aspx /bok/palle-puddel-kjoeper-olabukser/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=237
+RewriteRule ^default\.aspx /bok/dette-med-andreas/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=238
+RewriteRule ^default\.aspx /bok/28-rom-og-kjoekken/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=239
+RewriteRule ^default\.aspx /bok/sjokolade/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=240
+RewriteRule ^default\.aspx /bok/sjokolade-1/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=241
+RewriteRule ^default\.aspx /bok/med-haanden-paa-hjertet-125-fakta-fra-verden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=242
+RewriteRule ^default\.aspx /bok/bortenfor-boekene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=243
+RewriteRule ^default\.aspx /bok/hitler-jesus-og-farfar/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=244
+RewriteRule ^default\.aspx /bok/kom-saa-loeper-vi/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=245
+RewriteRule ^default\.aspx /bok/still-deg-i-koe/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=246
+RewriteRule ^default\.aspx /bok/klikk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=247
+RewriteRule ^default\.aspx /bok/den-gongen-eg-liksom-doeydde/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=249
+RewriteRule ^default\.aspx /bok/doed-og-levende/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=250
+RewriteRule ^default\.aspx /bok/palle-puddel-staar-opp/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=251
+RewriteRule ^default\.aspx /bok/smoothies/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=252
+RewriteRule ^default\.aspx /bok/5-ballongbra-bursdagshistorier/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=253
+RewriteRule ^default\.aspx /bok/trusesangeren/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=254
+RewriteRule ^default\.aspx /bok/sau-i-sentrum/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=255
+RewriteRule ^default\.aspx /bok/laer-aa-telle-fra-1-til-10/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=256
+RewriteRule ^default\.aspx /bok/sirius-i-barnehagen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=257
+RewriteRule ^default\.aspx /bok/den-foerste-boken-om-sirius/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=258
+RewriteRule ^default\.aspx /bok/froeken-livredd-og-kjaerligheten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=259
+RewriteRule ^default\.aspx /bok/máilmmi-láikkimus-olmmos/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=260
+RewriteRule ^default\.aspx /bok/flaskekongen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=261
+RewriteRule ^default\.aspx /bok/la-hendene-snakke/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=262
+RewriteRule ^default\.aspx /bok/laant-tid/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=263
+RewriteRule ^default\.aspx /bok/kjip-skrens/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=264
+RewriteRule ^default\.aspx /bok/mina-og-kaare/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=265
+RewriteRule ^default\.aspx /bok/ikke-gi-opp-haapet-werner/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=266
+RewriteRule ^default\.aspx /bok/perler-for-svin/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=267
+RewriteRule ^default\.aspx /bok/froeken-makeloes-og-karrieren/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=268
+RewriteRule ^default\.aspx /bok/baller-av-staal-hjerte-av-gull/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=269
+RewriteRule ^default\.aspx /bok/komme-og-gaa/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=270
+RewriteRule ^default\.aspx /bok/babybekjennelser/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=271
+RewriteRule ^default\.aspx /bok/heksagon-og-padde-boboz/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=272
+RewriteRule ^default\.aspx /bok/sjoeroevarar/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=273
+RewriteRule ^default\.aspx /bok/kina-1/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=274
+RewriteRule ^default\.aspx /bok/india-1/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=275
+RewriteRule ^default\.aspx /bok/tanzania-1/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=276
+RewriteRule ^default\.aspx /bok/droemmen-om-amerika/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=277
+RewriteRule ^default\.aspx /bok/hannah-snell-kvinne-soldat-legende/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=278
+RewriteRule ^default\.aspx /bok/heksagon-og-padde-boboz-1/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=279
+RewriteRule ^default\.aspx /bok/mor-betaler/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=280
+RewriteRule ^default\.aspx /bok/den-aller-siste-mohikaner/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=281
+RewriteRule ^default\.aspx /bok/brevet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=282
+RewriteRule ^default\.aspx /bok/reis/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=283
+RewriteRule ^default\.aspx /bok/ni-brev-til-advokaten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=284
+RewriteRule ^default\.aspx /bok/eddie-bolander-jeg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=285
+RewriteRule ^default\.aspx /bok/du-er-vel-vakker/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=286
+RewriteRule ^default\.aspx /bok/flyktning-i-norge-to-kvinner-forteller/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=287
+RewriteRule ^default\.aspx /bok/gutta-boys-hardt-vaer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=288
+RewriteRule ^default\.aspx /bok/gutta-boys-hoeyt-spill/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=289
+RewriteRule ^default\.aspx /bok/gutta-boys-full-krig/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=290
+RewriteRule ^default\.aspx /bok/bli-sammen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=291
+RewriteRule ^default\.aspx /bok/ingentings-gave/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=292
+RewriteRule ^default\.aspx /bok/i-satans-tid/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=293
+RewriteRule ^default\.aspx /bok/dyr-og-fugler-i-fjellet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=294
+RewriteRule ^default\.aspx /bok/alt-jeg-skriver-er-sant/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=295
+RewriteRule ^default\.aspx /bok/oernerovet-paa-leka/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=296
+RewriteRule ^default\.aspx /bok/for-en-neve-havre/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=297
+RewriteRule ^default\.aspx /bok/grundig-om-gris/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=298
+RewriteRule ^default\.aspx /bok/fokus-paa-ku/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=299
+RewriteRule ^default\.aspx /bok/skoleklart/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=300
+RewriteRule ^default\.aspx /bok/gutta-boys-det-store-smellet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=301
+RewriteRule ^default\.aspx /bok/ps-hils-morfar/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=302
+RewriteRule ^default\.aspx /bok/saa-lenge-det-vara/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=303
+RewriteRule ^default\.aspx /bok/i-stormen-skal-du-doe/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=304
+RewriteRule ^default\.aspx /bok/blir-det-sol/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=305
+RewriteRule ^default\.aspx /bok/5-herlige-hundehistorier/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=306
+RewriteRule ^default\.aspx /bok/da-jeg-var-liten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=307
+RewriteRule ^default\.aspx /bok/dikt-vi-har-sammen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=308
+RewriteRule ^default\.aspx /bok/stroempedyret/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=309
+RewriteRule ^default\.aspx /bok/hybelmat/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=311
+RewriteRule ^default\.aspx /bok/5-heslige-heksehistorier/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=312
+RewriteRule ^default\.aspx /bok/4-blaalysende-brannbilhistorier/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=314
+RewriteRule ^default\.aspx /bok/rogers-filledokke/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=315
+RewriteRule ^default\.aspx /bok/da-det-regnet-i-oslo/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=316
+RewriteRule ^default\.aspx /bok/tegnjakten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=317
+RewriteRule ^default\.aspx /bok/min-venn-kong/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=318
+RewriteRule ^default\.aspx /bok/tunnelkjoeraren/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=319
+RewriteRule ^default\.aspx /bok/naivsuper/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=320
+RewriteRule ^default\.aspx /bok/paal-og-ida-i-fritida/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=322
+RewriteRule ^default\.aspx /bok/5-kule-klasseromshistorier/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=323
+RewriteRule ^default\.aspx /bok/naerkamp/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=324
+RewriteRule ^default\.aspx /bok/henrik-ibsen-gaaten-med-mange-svar/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=325
+RewriteRule ^default\.aspx /bok/sigrid-undset/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=326
+RewriteRule ^default\.aspx /bok/triks/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=327
+RewriteRule ^default\.aspx /bok/liv/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=328
+RewriteRule ^default\.aspx /bok/kvalross-i-bikini/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=329
+RewriteRule ^default\.aspx /bok/interessert-eg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=330
+RewriteRule ^default\.aspx /bok/alle-dei-fine-jentene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=331
+RewriteRule ^default\.aspx /bok/sirius-i-farta/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=332
+RewriteRule ^default\.aspx /bok/universet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=333
+RewriteRule ^default\.aspx /bok/dinosaurer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=334
+RewriteRule ^default\.aspx /bok/klart-vi-toer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=335
+RewriteRule ^default\.aspx /bok/klart-jeg-kan/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=336
+RewriteRule ^default\.aspx /bok/i-trafikken-introduksjon-til-norsk-trafikk-for-voksne-innvandrere/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=337
+RewriteRule ^default\.aspx /bok/sinne/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=338
+RewriteRule ^default\.aspx /bok/hoeytfungerende-autisme-og-aspergers-syndrom/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=342
+RewriteRule ^default\.aspx /bok/slik-kan-det-vaere-aa-ha-hoeytfungerende-autisme-og-asperger-syndrom/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=346
+RewriteRule ^default\.aspx /bok/strutsefant/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=347
+RewriteRule ^default\.aspx /bok/sjoeroevere/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=348
+RewriteRule ^default\.aspx /bok/alf-proeysen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=349
+RewriteRule ^default\.aspx /bok/fortellingen-om-vaalerenga/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=350
+RewriteRule ^default\.aspx /bok/ung/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=351
+RewriteRule ^default\.aspx /bok/petter-paa-folkehoeyskolen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=352
+RewriteRule ^default\.aspx /bok/hubert-i-sydensnurr/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=353
+RewriteRule ^default\.aspx /bok/hubert-blir-ikke-forelsket/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=354
+RewriteRule ^default\.aspx /bok/hubert-i-vikarkaos/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=355
+RewriteRule ^default\.aspx /bok/haien-angriper/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=356
+RewriteRule ^default\.aspx /bok/maleren-odd-nerdrum/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=357
+RewriteRule ^default\.aspx /bok/min-foerste-bok-om-selma-lagerlöf/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=358
+RewriteRule ^default\.aspx /bok/regn/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=359
+RewriteRule ^default\.aspx /bok/fortellingen-om-brann/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=360
+RewriteRule ^default\.aspx /bok/nyveien/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=361
+RewriteRule ^default\.aspx /bok/en-naken-mann/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=362
+RewriteRule ^default\.aspx /bok/persepolis/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=363
+RewriteRule ^default\.aspx /bok/veien-til-perdition/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=364
+RewriteRule ^default\.aspx /bok/villas-vals/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=365
+RewriteRule ^default\.aspx /bok/prisen-aa-betale/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=366
+RewriteRule ^default\.aspx /bok/kjaerlighet-mot-stroemmen-skuespill/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=367
+RewriteRule ^default\.aspx /bok/roede-loev-fra-laoying-i-kina/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=368
+RewriteRule ^default\.aspx /bok/hogget-sprekken/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=370
+RewriteRule ^default\.aspx /bok/fortvilet-kreps-'72/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=371
+RewriteRule ^default\.aspx /bok/safari-i-afrika/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=372
+RewriteRule ^default\.aspx /bok/greske-guder-og-helter/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=373
+RewriteRule ^default\.aspx /bok/jakten-paa-det-roede-gull/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=374
+RewriteRule ^default\.aspx /bok/kjaerlighet-mot-stroemmen-roman/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=375
+RewriteRule ^default\.aspx /bok/den-lette-hageboka/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=376
+RewriteRule ^default\.aspx /bok/julie-+-lita/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=377
+RewriteRule ^default\.aspx /bok/den-foerste-turisten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=378
+RewriteRule ^default\.aspx /bok/rogers-filledokke-vil-ha-kake/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=379
+RewriteRule ^default\.aspx /bok/hevnernes-hoest/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=380
+RewriteRule ^default\.aspx /bok/moby-dick/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=381
+RewriteRule ^default\.aspx /bok/saa-kom-englene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=382
+RewriteRule ^default\.aspx /bok/jenny-+-blaa/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=383
+RewriteRule ^default\.aspx /bok/en-naken-mann-i-paris/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=384
+RewriteRule ^default\.aspx /bok/villrosen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=385
+RewriteRule ^default\.aspx /bok/kysset-som-fikk-snoeen-til-aa-smelte/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=386
+RewriteRule ^default\.aspx /bok/fotografens-doed/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=387
+RewriteRule ^default\.aspx /bok/bjarne-elsker-katta-si/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=388
+RewriteRule ^default\.aspx /bok/tone-vil-ha-venner/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=389
+RewriteRule ^default\.aspx /bok/bare-en-siste-gang/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=390
+RewriteRule ^default\.aspx /bok/rogers-filledokke-mister-alt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=391
+RewriteRule ^default\.aspx /bok/jeg-broet-med-nazismen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=392
+RewriteRule ^default\.aspx /bok/kjaerester/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=393
+RewriteRule ^default\.aspx /bok/bjarne-elsker-katta-si-1/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=394
+RewriteRule ^default\.aspx /bok/forstyrret-barn-forstyrret-liv/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=396
+RewriteRule ^default\.aspx /bok/indianerne-i-standing-rock-haapets-reservat/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=397
+RewriteRule ^default\.aspx /bok/eventyr-sagn-og-folkeviser-fra-mange-land/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=398
+RewriteRule ^default\.aspx /bok/varg-veum-de-doedes-dal/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=399
+RewriteRule ^default\.aspx /bok/danse-paa-teppet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=401
+RewriteRule ^default\.aspx /bok/pulp/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=402
+RewriteRule ^default\.aspx /bok/noed/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=403
+RewriteRule ^default\.aspx /bok/farmor-har-kabel-tv/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=404
+RewriteRule ^default\.aspx /bok/soga-om-olav-sleggja/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=407
+RewriteRule ^default\.aspx /bok/doboka/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=409
+RewriteRule ^default\.aspx /bok/taynikma-tegneskole/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=410
+RewriteRule ^default\.aspx /bok/ferie-med-anders/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=411
+RewriteRule ^default\.aspx /bok/jeg-finner-ikke-ordene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=412
+RewriteRule ^default\.aspx /bok/flygende-tallerkener-og-smaa-groenne-menn-en-faktabok-om-ufoer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=413
+RewriteRule ^default\.aspx /bok/palle-puddel-koser-seg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=414
+RewriteRule ^default\.aspx /bok/dyr-i-drift/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=416
+RewriteRule ^default\.aspx /bok/trygg-i-dag/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=417
+RewriteRule ^default\.aspx /bok/heretter-foelger-jeg-deg-helt-hjem/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=419
+RewriteRule ^default\.aspx /bok/tilbakeblikk-da-pakistanerne-kom-til-norge/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=421
+RewriteRule ^default\.aspx /bok/fagprat/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=422
+RewriteRule ^default\.aspx /bok/da-jeg-reddet-verden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=423
+RewriteRule ^default\.aspx /bok/med-stoev-paa-hjernen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=424
+RewriteRule ^default\.aspx /bok/foer-klokka-fire/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=425
+RewriteRule ^default\.aspx /bok/som-om-ein-ny-dag-skal-komme/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=426
+RewriteRule ^default\.aspx /bok/ho-som-ror/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=427
+RewriteRule ^default\.aspx /bok/frostknuter/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=428
+RewriteRule ^default\.aspx /bok/mor-mi-staar-i-glaset-lyriske-perler-for-svin/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=429
+RewriteRule ^default\.aspx /bok/den-vanskelege-andreboka/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=430
+RewriteRule ^default\.aspx /bok/35-kilo-med-haap/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=431
+RewriteRule ^default\.aspx /bok/et-oeyeblikk-noen-tusen-aar/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=433
+RewriteRule ^default\.aspx /bok/neon-furu/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=434
+RewriteRule ^default\.aspx /bok/tyver-og-angivere/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=435
+RewriteRule ^default\.aspx /bok/det-onde/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=436
+RewriteRule ^default\.aspx /bok/dampyr-1-djevelens-soenn/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=437
+RewriteRule ^default\.aspx /bok/andungen-og-jeg-torsdag/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=438
+RewriteRule ^default\.aspx /bok/andungen-og-jeg-jul/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=439
+RewriteRule ^default\.aspx /bok/hva-er-vitsen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=440
+RewriteRule ^default\.aspx /bok/to-erotiske-fortellinger/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=441
+RewriteRule ^default\.aspx /bok/baobab/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=442
+RewriteRule ^default\.aspx /bok/1964/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=443
+RewriteRule ^default\.aspx /bok/aleksanders-dagbok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=444
+RewriteRule ^default\.aspx /bok/det-andre-blikket/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=445
+RewriteRule ^default\.aspx /bok/alfred-samuel/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=446
+RewriteRule ^default\.aspx /bok/siri-og-lammet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=447
+RewriteRule ^default\.aspx /bok/presangen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=448
+RewriteRule ^default\.aspx /bok/perlen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=449
+RewriteRule ^default\.aspx /bok/det-var-engang/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=450
+RewriteRule ^default\.aspx /bok/god-dag-jeg-er-et-dikt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=451
+RewriteRule ^default\.aspx /bok/en-travel-herre/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=452
+RewriteRule ^default\.aspx /bok/nyeng-forliser/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=453
+RewriteRule ^default\.aspx /bok/nye-bestevenner/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=454
+RewriteRule ^default\.aspx /bok/sur-eller-blid/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=455
+RewriteRule ^default\.aspx /bok/blues/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=456
+RewriteRule ^default\.aspx /bok/dikt-til-deg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=457
+RewriteRule ^default\.aspx /bok/stol-paa-meg-sa-stolen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=458
+RewriteRule ^default\.aspx /bok/aske-i-munnen-sand-i-skoa/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=459
+RewriteRule ^default\.aspx /bok/lukten-av-propan-om-morgenen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=460
+RewriteRule ^default\.aspx /bok/jeg-vil-ha-pekebok-for-voksne/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=461
+RewriteRule ^default\.aspx /bok/min-droem-om-frihet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=462
+RewriteRule ^default\.aspx /bok/vekevis/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=463
+RewriteRule ^default\.aspx /bok/alt-kan-fikses/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=464
+RewriteRule ^default\.aspx /bok/jeg-tor-aerlig/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=465
+RewriteRule ^default\.aspx /bok/redlight-setesdal/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=466
+RewriteRule ^default\.aspx /bok/gummidama/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=467
+RewriteRule ^default\.aspx /bok/norsk-attraksjon/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=468
+RewriteRule ^default\.aspx /bok/opp-i-roeyk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=469
+RewriteRule ^default\.aspx /bok/hjem-til-jul/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=470
+RewriteRule ^default\.aspx /bok/souads-vesker/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=471
+RewriteRule ^default\.aspx /bok/raina-paa-ridetur/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=472
+RewriteRule ^default\.aspx /bok/bli-kjent-med-grunnskolen-videregaaende-skole-hoegskoleuniversitet-voksenopplaering/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=473
+RewriteRule ^default\.aspx /bok/begripelig-om-adhd/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=474
+RewriteRule ^default\.aspx /bok/rotekoppens-ryddebok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=475
+RewriteRule ^default\.aspx /bok/en-saakalt-drittjobb/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=476
+RewriteRule ^default\.aspx /bok/eg-er-mamma-eg-skal-vaere-god/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=477
+RewriteRule ^default\.aspx /bok/droemmen-om-europa-the-dream-of-europe/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=478
+RewriteRule ^default\.aspx /bok/slam/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=479
+RewriteRule ^default\.aspx /bok/ordknapp/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=480
+RewriteRule ^default\.aspx /bok/mannen-og-datteren/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=481
+RewriteRule ^default\.aspx /bok/songar/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=482
+RewriteRule ^default\.aspx /bok/nyryddinga/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=483
+RewriteRule ^default\.aspx /bok/johan/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=484
+RewriteRule ^default\.aspx /bok/bitching-en-bok-om-jenter-og-mobbing/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=485
+RewriteRule ^default\.aspx /bok/brakk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=486
+RewriteRule ^default\.aspx /bok/aarstidene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=487
+RewriteRule ^default\.aspx /bok/1905-duellen-paa-hesseloe/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=488
+RewriteRule ^default\.aspx /bok/kjaere-kjaere-oluf/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=489
+RewriteRule ^default\.aspx /bok/dei-likar-ikkje-grovisar-i-rotary/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=490
+RewriteRule ^default\.aspx /bok/ho-peika-paa-ceylon-og-viste-ein-pupp/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=491
+RewriteRule ^default\.aspx /bok/barselpermisjon-et-aar-med-muligheter/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=492
+RewriteRule ^default\.aspx /bok/fristende-supper/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=494
+RewriteRule ^default\.aspx /bok/leksehjelpen-matematikk-for-foreldre/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=496
+RewriteRule ^default\.aspx /bok/duen-fra-bergen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=499
+RewriteRule ^default\.aspx /bok/mysteriet-i-nürnberg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=500
+RewriteRule ^default\.aspx /bok/ingen-kjenner-dagen-foer-solen-gaar-ned/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=501
+RewriteRule ^default\.aspx /bok/tre-folkeeventyr/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=504
+RewriteRule ^default\.aspx /bok/sitronlimonaden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=506
+RewriteRule ^default\.aspx /bok/brevet-fraa-havet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=507
+RewriteRule ^default\.aspx /bok/et-stort-oede-landskap/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=508
+RewriteRule ^default\.aspx /bok/den-lille-roede-hoena-og-hvetekornene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=510
+RewriteRule ^default\.aspx /bok/taal-mine-tics-takk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=511
+RewriteRule ^default\.aspx /bok/jakob-og-neikob/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=512
+RewriteRule ^default\.aspx /bok/spoekelseshuset/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=513
+RewriteRule ^default\.aspx /bok/god-natt-albert-aaberg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=514
+RewriteRule ^default\.aspx /bok/den-forelska-frosken/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=515
+RewriteRule ^default\.aspx /bok/hae/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=517
+RewriteRule ^default\.aspx /bok/svart-fugl/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=518
+RewriteRule ^default\.aspx /bok/dagene-styrter-avsted-som-ville-hester-over-alle-hauger/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=519
+RewriteRule ^default\.aspx /bok/overleve-en-beretning-fra-kambodsjas-moerke-aar/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=520
+RewriteRule ^default\.aspx /bok/den-virvlende-hijab/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=521
+RewriteRule ^default\.aspx /bok/beowulf/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=522
+RewriteRule ^default\.aspx /bok/fra-barn-til-ungdom-i-bilder-og-ord/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=523
+RewriteRule ^default\.aspx /bok/saa-godt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=528
+RewriteRule ^default\.aspx /bok/vanaeret/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=530
+RewriteRule ^default\.aspx /bok/kjaere-deg-min-kjaere/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=531
+RewriteRule ^default\.aspx /bok/mamma-vet-ikke-hva-som-er-deilig/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=532
+RewriteRule ^default\.aspx /bok/feit-mitt-liv-som-tjukkas/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=533
+RewriteRule ^default\.aspx /bok/jeg-bor-rett-nede-i-gata/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=534
+RewriteRule ^default\.aspx /bok/kaffe-karamell-og-vaniljesaus/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=536
+RewriteRule ^default\.aspx /bok/blokk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=537
+RewriteRule ^default\.aspx /bok/stormkyss/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=539
+RewriteRule ^default\.aspx /bok/julia-og-leon/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=541
+RewriteRule ^default\.aspx /bok/kameliadamen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=542
+RewriteRule ^default\.aspx /bok/ulvehunden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=549
+RewriteRule ^default\.aspx /bok/ingen-skal-hoere-hvor-stille-det-er/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=550
+RewriteRule ^default\.aspx /bok/med-egne-oeyne/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=552
+RewriteRule ^default\.aspx /bok/orgien-og-andre-fortellinger/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=554
+RewriteRule ^default\.aspx /bok/den-yngste/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=555
+RewriteRule ^default\.aspx /bok/ivar-nimme/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=556
+RewriteRule ^default\.aspx /bok/du-er-her-igjen-og-alt-er-forandra/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=557
+RewriteRule ^default\.aspx /bok/erfaring-og-forsvinning/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=558
+RewriteRule ^default\.aspx /bok/det-som-eingong-var/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=560
+RewriteRule ^default\.aspx /bok/den-krokete-kanalen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=561
+RewriteRule ^default\.aspx /bok/zits-en-liten-bok-om-hormoner/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=562
+RewriteRule ^default\.aspx /bok/varulvene-i-montpellier/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=563
+RewriteRule ^default\.aspx /bok/jon-hjoernevik-samlar-seg-ti-tunge-aar-med-dikt-for-nasjonen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=564
+RewriteRule ^default\.aspx /bok/ord-for-hav/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=565
+RewriteRule ^default\.aspx /bok/hijabhistorier/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=566
+RewriteRule ^default\.aspx /bok/pondus-en-liten-bok-om-sjekking/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=567
+RewriteRule ^default\.aspx /bok/doeden-i-baugen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=571
+RewriteRule ^default\.aspx /bok/kom-i-form-med-yngvar/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=573
+RewriteRule ^default\.aspx /bok/meg-og-en-kritthvit-t-skjorte-uten-trykk-paa/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=574
+RewriteRule ^default\.aspx /bok/vilja-og-bokstavene-som-kroeller-seg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=575
+RewriteRule ^default\.aspx /bok/det-er-en-bok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=576
+RewriteRule ^default\.aspx /bok/nattbordboka/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=577
+RewriteRule ^default\.aspx /bok/freddy/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=578
+RewriteRule ^default\.aspx /bok/stemmen-som-forsvant/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=581
+RewriteRule ^default\.aspx /bok/nest-best/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=582
+RewriteRule ^default\.aspx /bok/du-gaar-feil-vei/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=583
+RewriteRule ^default\.aspx /bok/historien-om-en-mor/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=584
+RewriteRule ^default\.aspx /bok/kors-paa-halsen-–-75-fakta-fra-hele-verden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=585
+RewriteRule ^default\.aspx /bok/nemi-enhjoerninger-og-avsagd-hagle-bok-1/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=586
+RewriteRule ^default\.aspx /bok/olaf-g/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=587
+RewriteRule ^default\.aspx /bok/saynab/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=589
+RewriteRule ^default\.aspx /bok/den-store-ronny-haugland-boka/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=590
+RewriteRule ^default\.aspx /bok/hemmeligheter-kan-vaere-farlige/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=592
+RewriteRule ^default\.aspx /bok/si-meg-en-ting/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=593
+RewriteRule ^default\.aspx /bok/du-er-ein-luring-finn-bjoelseth/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=594
+RewriteRule ^default\.aspx /bok/grimsborken/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=595
+RewriteRule ^default\.aspx /bok/kasper-og-pinneleken/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=596
+RewriteRule ^default\.aspx /bok/kaare-kanin-og-hinderloeypa/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=597
+RewriteRule ^default\.aspx /bok/soevn-og-doegnrytme/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=598
+RewriteRule ^default\.aspx /bok/drillos-verdensatlas/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=599
+RewriteRule ^default\.aspx /bok/johannes-jensen-opplever-et-mirakel/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=600
+RewriteRule ^default\.aspx /bok/fakta-fra-verden-ti-kniver-i-hjertet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=601
+RewriteRule ^default\.aspx /bok/den-andre-mammaen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=602
+RewriteRule ^default\.aspx /bok/den-bortkomne-tingen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=603
+RewriteRule ^default\.aspx /bok/kurt-iv/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=605
+RewriteRule ^default\.aspx /bok/sjef-i-eget-hus/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=606
+RewriteRule ^default\.aspx /bok/sjalusi/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=607
+RewriteRule ^default\.aspx /bok/blant-loever-i-afrika/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=608
+RewriteRule ^default\.aspx /bok/broren/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=609
+RewriteRule ^default\.aspx /bok/kurtby/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=610
+RewriteRule ^default\.aspx /bok/toerst/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=611
+RewriteRule ^default\.aspx /bok/talent-for-lykke/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=613
+RewriteRule ^default\.aspx /bok/mannen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=614
+RewriteRule ^default\.aspx /bok/drageloeperen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=615
+RewriteRule ^default\.aspx /bok/snakketoeyet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=616
+RewriteRule ^default\.aspx /bok/bebe/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=617
+RewriteRule ^default\.aspx /bok/psyko/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=618
+RewriteRule ^default\.aspx /bok/gamer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=621
+RewriteRule ^default\.aspx /bok/det-roede-treet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=622
+RewriteRule ^default\.aspx /bok/kjerringrokk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=624
+RewriteRule ^default\.aspx /bok/camorraland/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=625
+RewriteRule ^default\.aspx /bok/juletre-til-afrika/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=626
+RewriteRule ^default\.aspx /bok/apefjes/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=627
+RewriteRule ^default\.aspx /bok/fallteknikk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=628
+RewriteRule ^default\.aspx /bok/vivaldi/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=629
+RewriteRule ^default\.aspx /bok/finne-deg-der-inne-og-hente-deg-ut/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=630
+RewriteRule ^default\.aspx /bok/phenomena-azur-bok-1/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=631
+RewriteRule ^default\.aspx /bok/fjorden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=632
+RewriteRule ^default\.aspx /bok/norsk-fotballhaar/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=633
+RewriteRule ^default\.aspx /bok/ingen-som-roeyker-hopper-strikk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=634
+RewriteRule ^default\.aspx /bok/verdens-beste-pappa/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=635
+RewriteRule ^default\.aspx /bok/etterpaa-varer-saa-lenge/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=636
+RewriteRule ^default\.aspx /bok/phenomena-azur-bok-2/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=637
+RewriteRule ^default\.aspx /bok/barndommens-leker/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=638
+RewriteRule ^default\.aspx /bok/phenomena-azur-bok-3/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=639
+RewriteRule ^default\.aspx /bok/the-hummingbird-bakery-kakedager/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=640
+RewriteRule ^default\.aspx /bok/ketsjup-er-aalreit/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=643
+RewriteRule ^default\.aspx /bok/the-tour-of-the-united-states-of-usa/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=645
+RewriteRule ^default\.aspx /bok/sov-for-helvete/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=648
+RewriteRule ^default\.aspx /bok/den-nye-julie/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=652
+RewriteRule ^default\.aspx /bok/mat-paa-tur/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=653
+RewriteRule ^default\.aspx /bok/generator/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=654
+RewriteRule ^default\.aspx /bok/stuene-i-marka/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=655
+RewriteRule ^default\.aspx /bok/respekt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=656
+RewriteRule ^default\.aspx /bok/aya-fra-yopougon/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=657
+RewriteRule ^default\.aspx /bok/naturligvis-norske-interioerer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=658
+RewriteRule ^default\.aspx /bok/det-krokete-sporet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=659
+RewriteRule ^default\.aspx /bok/simons-katt-krysser-gjerdet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=660
+RewriteRule ^default\.aspx /bok/nyfoedte-foreldres-abc/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=661
+RewriteRule ^default\.aspx /bok/simons-katt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=662
+RewriteRule ^default\.aspx /bok/det-foerste-steget-til-en-sprekere-kropp/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=663
+RewriteRule ^default\.aspx /bok/broedre-i-blodet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=664
+RewriteRule ^default\.aspx /bok/det-skal-merkes-at-de-graater/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=665
+RewriteRule ^default\.aspx /bok/hoesten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=666
+RewriteRule ^default\.aspx /bok/det-spoers/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=667
+RewriteRule ^default\.aspx /bok/saiko/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=668
+RewriteRule ^default\.aspx /bok/bandet-mitt-spiller-ikke-progrock/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=669
+RewriteRule ^default\.aspx /bok/bergen-kirkenes-servert-paa-serviett/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=670
+RewriteRule ^default\.aspx /bok/lune-masker-nostalgisk-smaastrikk/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=671
+RewriteRule ^default\.aspx /bok/antarktis/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=672
+RewriteRule ^default\.aspx /bok/doedsreisen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=673
+RewriteRule ^default\.aspx /bok/spoekelsene-paa-frostoey/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=674
+RewriteRule ^default\.aspx /bok/tretten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=675
+RewriteRule ^default\.aspx /bok/jenta-som-lette-etter-stillhet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=676
+RewriteRule ^default\.aspx /bok/rent-–-saa-enkelt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=677
+RewriteRule ^default\.aspx /bok/sorg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=678
+RewriteRule ^default\.aspx /bok/engel-i-paris/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=680
+RewriteRule ^default\.aspx /bok/zofies-verden-en-liten-bok-om-menn/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=681
+RewriteRule ^default\.aspx /bok/din-vakre-jaevel/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=682
+RewriteRule ^default\.aspx /bok/fortellingen-om-barcelona/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=683
+RewriteRule ^default\.aspx /bok/hullet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=684
+RewriteRule ^default\.aspx /bok/hockeysveis-foerer-til-daarlige-rim/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=685
+RewriteRule ^default\.aspx /bok/den-stoerste-form-har-ingen-kontur/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=686
+RewriteRule ^default\.aspx /bok/pangea/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=687
+RewriteRule ^default\.aspx /bok/máilmmi-árggimus-áhkku/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=688
+RewriteRule ^default\.aspx /bok/tre-smaa-eventyr/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=689
+RewriteRule ^default\.aspx /bok/noedinngang/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=690
+RewriteRule ^default\.aspx /bok/det-fine-som-flyter-forbi/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=691
+RewriteRule ^default\.aspx /bok/utvalgt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=692
+RewriteRule ^default\.aspx /bok/en-pingles-dagbok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=693
+RewriteRule ^default\.aspx /bok/duste-dagboka/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=694
+RewriteRule ^default\.aspx /bok/uka-etter/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=695
+RewriteRule ^default\.aspx /bok/neste-gang-blir-alt-riktig/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=696
+RewriteRule ^default\.aspx /bok/iskremfabrikken/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=697
+RewriteRule ^default\.aspx /bok/fast-jobb-abc/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=698
+RewriteRule ^default\.aspx /bok/sy-om-med-jenny-skavlan/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=699
+RewriteRule ^default\.aspx /bok/elefanten-i-rommet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=700
+RewriteRule ^default\.aspx /bok/kongen-din/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=701
+RewriteRule ^default\.aspx /bok/rekrutten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=703
+RewriteRule ^default\.aspx /bok/da-jeg-doede-kampen-for-et-nytt-liv/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=704
+RewriteRule ^default\.aspx /bok/storesoester-astrid/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=705
+RewriteRule ^default\.aspx /bok/apefjes-2-ulvehjerte/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=706
+RewriteRule ^default\.aspx /bok/jeg-er-stolt-av-deg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=707
+RewriteRule ^default\.aspx /bok/pauls-jul/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=708
+RewriteRule ^default\.aspx /bok/blaa-blondie/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=709
+RewriteRule ^default\.aspx /bok/noen-roper-navnet-mitt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=710
+RewriteRule ^default\.aspx /bok/den-hemmelege-vegen-til-maanen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=711
+RewriteRule ^default\.aspx /bok/de-100-000-doedes-oey/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=712
+RewriteRule ^default\.aspx /bok/eg-treng-tid-til-aa-sakna-deg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=713
+RewriteRule ^default\.aspx /bok/knuter-trinn-for-trinn/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=714
+RewriteRule ^default\.aspx /bok/dauinger-1-ute-av-tiden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=715
+RewriteRule ^default\.aspx /bok/vegen-heim-fraa-sarajevo/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=716
+RewriteRule ^default\.aspx /bok/jeg-kommer-tilbake-i-kveld/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=717
+RewriteRule ^default\.aspx /bok/eremitt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=718
+RewriteRule ^default\.aspx /bok/bebe-2-ingen-ting-som-foer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=719
+RewriteRule ^default\.aspx /bok/rettsnotater-22juli-rettssaken-oslo-tinghus-2012/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=720
+RewriteRule ^default\.aspx /bok/syklus/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=721
+RewriteRule ^default\.aspx /bok/flukta-fraa-rekkehuset/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=722
+RewriteRule ^default\.aspx /bok/ingen-fridde-i-joelster/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=723
+RewriteRule ^default\.aspx /bok/den-store-julekakeboka/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=724
+RewriteRule ^default\.aspx /bok/fuck-off-i-love-you/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=725
+RewriteRule ^default\.aspx /bok/hellstroem-jr/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=726
+RewriteRule ^default\.aspx /bok/under-manhattan-en-reise-til-new-yorks-indre/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=727
+RewriteRule ^default\.aspx /bok/nattgjengar/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=728
+RewriteRule ^default\.aspx /bok/uteligger/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=729
+RewriteRule ^default\.aspx /bok/se-norges-blomsterdal/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=730
+RewriteRule ^default\.aspx /bok/den-lille-boken-om-de-smaa-hagene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=731
+RewriteRule ^default\.aspx /bok/kom-hjem/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=732
+RewriteRule ^default\.aspx /bok/hvis-jeg-var-en-bok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=733
+RewriteRule ^default\.aspx /bok/reisen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=734
+RewriteRule ^default\.aspx /bok/broren-min-om-stoffmisbruk-skuffelser-og-soeskenkjaerlighet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=735
+RewriteRule ^default\.aspx /bok/hjemlandet-steder-som-er-norge/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=736
+RewriteRule ^default\.aspx /bok/det-finnes-ingenting-mer-livsbejaende-enn-aa-vaere-moerkeredd/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=737
+RewriteRule ^default\.aspx /bok/god-morgen-og-god-natt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=738
+RewriteRule ^default\.aspx /bok/123blogg/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=739
+RewriteRule ^default\.aspx /bok/noia/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=740
+RewriteRule ^default\.aspx /bok/oerkensang/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=741
+RewriteRule ^default\.aspx /bok/en-dag-i-historien-22juli/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=742
+RewriteRule ^default\.aspx /bok/nattsyn/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=743
+RewriteRule ^default\.aspx /bok/nord-korea/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=744
+RewriteRule ^default\.aspx /bok/helt-all-right/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=745
+RewriteRule ^default\.aspx /bok/blitzregn-02-12-10-aar-med-kaizers-orchestra/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=746
+RewriteRule ^default\.aspx /bok/kjaere-miss-nina-simone/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=747
+RewriteRule ^default\.aspx /bok/saantno-hakke-de-i-byn/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=748
+RewriteRule ^default\.aspx /bok/miraklenes-tid/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=749
+RewriteRule ^default\.aspx /bok/hun-han/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=750
+RewriteRule ^default\.aspx /bok/teenage-boss-bli-sjef-over-pengene-dine/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=751
+RewriteRule ^default\.aspx /bok/bestemors-hage/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=752
+RewriteRule ^default\.aspx /bok/lekestue/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=753
+RewriteRule ^default\.aspx /bok/toeff-pappa/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=754
+RewriteRule ^default\.aspx /bok/marius-strikkebok-klassikere-historier-og-nye-oppskrifter/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=755
+RewriteRule ^default\.aspx /bok/gravskrifter/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=756
+RewriteRule ^default\.aspx /bok/ulvene-kommer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=757
+RewriteRule ^default\.aspx /bok/ein-heilt-vanlig-fyr/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=758
+RewriteRule ^default\.aspx /bok/bebe-3-den-einaste-som-veit/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=759
+RewriteRule ^default\.aspx /bok/du-biter-ikke/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=761
+RewriteRule ^default\.aspx /bok/anna-og-solmann/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=762
+RewriteRule ^default\.aspx /bok/blade-1-spille-doed/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=763
+RewriteRule ^default\.aspx /bok/i-stormens-oeye/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=766
+RewriteRule ^default\.aspx /bok/flukt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=768
+RewriteRule ^default\.aspx /bok/peri-og-peti-vender-om/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=770
+RewriteRule ^default\.aspx /bok/turbo-vil-bli-fotballproff/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=771
+RewriteRule ^default\.aspx /bok/beroeringsstrofer/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=772
+RewriteRule ^default\.aspx /bok/vintereple/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=773
+RewriteRule ^default\.aspx /bok/helt-eventyrlig/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=774
+RewriteRule ^default\.aspx /bok/aa-holde-pusten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=775
+RewriteRule ^default\.aspx /bok/hyperpubertet/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=776
+RewriteRule ^default\.aspx /bok/ditt-roede-haar-unn/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=780
+RewriteRule ^default\.aspx /bok/sosiale-antenner-har-mange-frekvenser/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=781
+RewriteRule ^default\.aspx /bok/rasmus-leikar-med-elden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=782
+RewriteRule ^default\.aspx /bok/korsfarerne-1-3/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=783
+RewriteRule ^default\.aspx /bok/hvis-noen-ser-meg-naa/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=784
+RewriteRule ^default\.aspx /bok/kongen-din-bok-2/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=787
+RewriteRule ^default\.aspx /bok/tryllemannen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=788
+RewriteRule ^default\.aspx /bok/fraa-ragnar-til-alle/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=789
+RewriteRule ^default\.aspx /bok/kniplinger/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=790
+RewriteRule ^default\.aspx /bok/kan-jeg-finnes-i-andre-formater/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=791
+RewriteRule ^default\.aspx /bok/jeg-blir-heldigvis-ikke-lagt-merke-til/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=792
+RewriteRule ^default\.aspx /bok/leik-med-maten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=793
+RewriteRule ^default\.aspx /bok/taco-paa-uno-dos-tres/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=794
+RewriteRule ^default\.aspx /bok/se-opp-for-rullestol-i-motgaaende-kjoereretning/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=795
+RewriteRule ^default\.aspx /bok/playback/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=796
+RewriteRule ^default\.aspx /bok/doedtid/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=797
+RewriteRule ^default\.aspx /bok/tegnordboka-se-hva-jeg-sier/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=798
+RewriteRule ^default\.aspx /bok/jeg-var-bikkja-til-frank/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=799
+RewriteRule ^default\.aspx /bok/levande-varde-i-lom/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=800
+RewriteRule ^default\.aspx /bok/opptegnelser-fra-jerusalem/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=801
+RewriteRule ^default\.aspx /bok/vinternoveller/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=802
+RewriteRule ^default\.aspx /bok/paa-moten/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=804
+RewriteRule ^default\.aspx /bok/jeg-greier-det/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=805
+RewriteRule ^default\.aspx /bok/bare-ukedager/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=806
+RewriteRule ^default\.aspx /bok/verdt-aa-vite/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=807
+RewriteRule ^default\.aspx /bok/glade-jul/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=809
+RewriteRule ^default\.aspx /bok/pappas-prinsesse/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=810
+RewriteRule ^default\.aspx /bok/jenta/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=811
+RewriteRule ^default\.aspx /bok/rottereir/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=812
+RewriteRule ^default\.aspx /bok/finns-metode/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=813
+RewriteRule ^default\.aspx /bok/eltefritt-broed-og-himmelske-kaker/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=814
+RewriteRule ^default\.aspx /bok/brille/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=815
+RewriteRule ^default\.aspx /bok/du-er-meg-for-soevnig/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=816
+RewriteRule ^default\.aspx /bok/kjersti-er-ein-fiktiv-person-helsing-kjersti/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=817
+RewriteRule ^default\.aspx /bok/jeg-kommer-snart/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=818
+RewriteRule ^default\.aspx /bok/null/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=819
+RewriteRule ^default\.aspx /bok/det-var-stille-det-snoedde/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=820
+RewriteRule ^default\.aspx /bok/helioskatastrofen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=821
+RewriteRule ^default\.aspx /bok/det-skulle-vere-sol-vi-skulle-reise-til-lódz/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=822
+RewriteRule ^default\.aspx /bok/blaa-er-den-varmeste-fargen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=823
+RewriteRule ^default\.aspx /bok/goliat/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=824
+RewriteRule ^default\.aspx /bok/aya-fra-yopougon-sesong-2/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=825
+RewriteRule ^default\.aspx /bok/smart-mamma/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=826
+RewriteRule ^default\.aspx /bok/ut-paa-tur/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=827
+RewriteRule ^default\.aspx /bok/statsminister-boka/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=828
+RewriteRule ^default\.aspx /bok/heimekontor-i-gravferda/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=829
+RewriteRule ^default\.aspx /bok/rocking-tattoos/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=830
+RewriteRule ^default\.aspx /bok/world-of-spycraft-mientologene/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=831
+RewriteRule ^default\.aspx /bok/friedland/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=832
+RewriteRule ^default\.aspx /bok/etter-foedselen-det-alle-glemte-aa-si/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=833
+RewriteRule ^default\.aspx /bok/skriv-godt/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=834
+RewriteRule ^default\.aspx /bok/jakten-paa-messi/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=835
+RewriteRule ^default\.aspx /bok/made-in-karasjok/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=836
+RewriteRule ^default\.aspx /bok/ibsen-paa-en-time/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=837
+RewriteRule ^default\.aspx /bok/gruppa/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=838
+RewriteRule ^default\.aspx /bok/alt-gaar-i-grisen/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=839
+RewriteRule ^default\.aspx /bok/den-kalde-vinden/? [NC,L,R=301]
+RewriteCond %{QUERY_STRING} menu=[0-9]+&id=840
+RewriteRule ^default\.aspx /bok/allergikokebok-for-hele-familien/? [NC,L,R=301]
