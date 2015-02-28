@@ -5,7 +5,7 @@ var fs = require('fs'),
     booksToXML = require('../lib/books-to-xml');
 
 
-fs.readFile('./output-example/test-json-conversion.json', function (err, data) {
+fs.readFile('./output/01-15/test-json-conversion.json', function (err, data) {
 
     if (err) {
         console.error(err);
@@ -18,7 +18,7 @@ fs.readFile('./output-example/test-json-conversion.json', function (err, data) {
 
     booksToXML(books).then(function (xml) {
         console.log("done");
-        fs.writeFile('./output-example/test-books-import-file-generator.xml', xml);
+        fs.writeFile('./output/01-15/test-books-import-file-generator.xml', xml);
     }, function (err) {
         console.error(err);
     });

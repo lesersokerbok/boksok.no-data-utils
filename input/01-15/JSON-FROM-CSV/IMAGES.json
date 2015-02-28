@@ -1,6 +1,6 @@
 [
     {
-        "DOC_ID": "841",
+        "DOC_ID": 841,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -24,7 +24,7 @@
         "IMG": "prod_images/doc_841_2.jpg"
     },
     {
-        "DOC_ID": "842",
+        "DOC_ID": 842,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -48,7 +48,7 @@
         "IMG": "prod_images/doc_842_2.jpg"
     },
     {
-        "DOC_ID": "843",
+        "DOC_ID": 843,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -72,7 +72,7 @@
         "IMG": "prod_images/doc_843_2.jpg"
     },
     {
-        "DOC_ID": "844",
+        "DOC_ID": 844,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -96,7 +96,7 @@
         "IMG": "prod_images/doc_844_2.jpg"
     },
     {
-        "DOC_ID": "845",
+        "DOC_ID": 845,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -120,7 +120,7 @@
         "IMG": "prod_images/doc_845_2.jpg"
     },
     {
-        "DOC_ID": "846",
+        "DOC_ID": 846,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -144,7 +144,7 @@
         "IMG": "prod_images/doc_846_2.jpg"
     },
     {
-        "DOC_ID": "847",
+        "DOC_ID": 847,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -168,7 +168,7 @@
         "IMG": "prod_images/doc_847_2.jpg"
     },
     {
-        "DOC_ID": "848",
+        "DOC_ID": 848,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -192,7 +192,7 @@
         "IMG": "prod_images/doc_848_2.jpg"
     },
     {
-        "DOC_ID": "849",
+        "DOC_ID": 849,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -216,7 +216,7 @@
         "IMG": "prod_images/doc_849_2.jpg"
     },
     {
-        "DOC_ID": "850",
+        "DOC_ID": 850,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -240,7 +240,7 @@
         "IMG": "prod_images/doc_850_2.jpg"
     },
     {
-        "DOC_ID": "851",
+        "DOC_ID": 851,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -264,7 +264,7 @@
         "IMG": "prod_images/doc_851_2.jpg"
     },
     {
-        "DOC_ID": "852",
+        "DOC_ID": 852,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -288,7 +288,7 @@
         "IMG": "prod_images/doc_852_2.jpg"
     },
     {
-        "DOC_ID": "853",
+        "DOC_ID": 853,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -312,7 +312,7 @@
         "IMG": "prod_images/doc_853_2.png"
     },
     {
-        "DOC_ID": "854",
+        "DOC_ID": 854,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -336,7 +336,7 @@
         "IMG": "prod_images/doc_854_2.jpg"
     },
     {
-        "DOC_ID": "855",
+        "DOC_ID": 855,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -360,7 +360,7 @@
         "IMG": "prod_images/doc_855_2.jpg"
     },
     {
-        "DOC_ID": "856",
+        "DOC_ID": 856,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -384,7 +384,7 @@
         "IMG": "prod_images/doc_856_2.jpg"
     },
     {
-        "DOC_ID": "857",
+        "DOC_ID": 857,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -408,7 +408,7 @@
         "IMG": "prod_images/doc_857_2.jpg"
     },
     {
-        "DOC_ID": "858",
+        "DOC_ID": 858,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -432,7 +432,7 @@
         "IMG": "prod_images/doc_858_2.jpg"
     },
     {
-        "DOC_ID": "859",
+        "DOC_ID": 859,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -456,7 +456,7 @@
         "IMG": "prod_images/doc_859_2.jpg"
     },
     {
-        "DOC_ID": "860",
+        "DOC_ID": 860,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -480,7 +480,7 @@
         "IMG": "prod_images/doc_860_2.png"
     },
     {
-        "DOC_ID": "861",
+        "DOC_ID": 861,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -504,7 +504,7 @@
         "IMG": "prod_images/doc_861_2.jpg"
     },
     {
-        "DOC_ID": "862",
+        "DOC_ID": 862,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -528,7 +528,7 @@
         "IMG": "prod_images/doc_862_2.bmp"
     },
     {
-        "DOC_ID": "863",
+        "DOC_ID": 863,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -552,7 +552,7 @@
         "IMG": "prod_images/doc_863_2.jpg"
     },
     {
-        "DOC_ID": "864",
+        "DOC_ID": 864,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -576,7 +576,7 @@
         "IMG": "prod_images/doc_864_2.jpg"
     },
     {
-        "DOC_ID": "865",
+        "DOC_ID": 865,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -600,7 +600,7 @@
         "IMG": "prod_images/doc_865_2.jpg"
     },
     {
-        "DOC_ID": "866",
+        "DOC_ID": 866,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -624,7 +624,7 @@
         "IMG": "prod_images/doc_866_2.jpg"
     },
     {
-        "DOC_ID": "867",
+        "DOC_ID": 867,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -648,7 +648,7 @@
         "IMG": "prod_images/doc_867_2.jpg"
     },
     {
-        "DOC_ID": "868",
+        "DOC_ID": 868,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -672,7 +672,7 @@
         "IMG": "prod_images/doc_868_2.jpg"
     },
     {
-        "DOC_ID": "869",
+        "DOC_ID": 869,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -696,7 +696,7 @@
         "IMG": "prod_images/doc_869_2.jpg"
     },
     {
-        "DOC_ID": "870",
+        "DOC_ID": 870,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -720,7 +720,7 @@
         "IMG": "prod_images/doc_870_2.jpg"
     },
     {
-        "DOC_ID": "871",
+        "DOC_ID": 871,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -744,7 +744,7 @@
         "IMG": "prod_images/doc_871_2.jpg"
     },
     {
-        "DOC_ID": "872",
+        "DOC_ID": 872,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -768,7 +768,7 @@
         "IMG": "prod_images/doc_872_2.jpg"
     },
     {
-        "DOC_ID": "873",
+        "DOC_ID": 873,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -792,7 +792,7 @@
         "IMG": "prod_images/doc_873_2.jpg"
     },
     {
-        "DOC_ID": "874",
+        "DOC_ID": 874,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -816,7 +816,7 @@
         "IMG": "prod_images/doc_874_2.jpg"
     },
     {
-        "DOC_ID": "875",
+        "DOC_ID": 875,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -840,7 +840,7 @@
         "IMG": "prod_images/doc_875_2.jpg"
     },
     {
-        "DOC_ID": "876",
+        "DOC_ID": 876,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -864,7 +864,7 @@
         "IMG": "prod_images/doc_876_2.jpg"
     },
     {
-        "DOC_ID": "877",
+        "DOC_ID": 877,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -888,7 +888,7 @@
         "IMG": "prod_images/doc_877_2.jpg"
     },
     {
-        "DOC_ID": "879",
+        "DOC_ID": 879,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -912,7 +912,7 @@
         "IMG": "prod_images/doc_879_2.jpg"
     },
     {
-        "DOC_ID": "880",
+        "DOC_ID": 880,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -936,7 +936,7 @@
         "IMG": "prod_images/doc_880_2.jpg"
     },
     {
-        "DOC_ID": "881",
+        "DOC_ID": 881,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -960,7 +960,7 @@
         "IMG": "prod_images/doc_881_2.jpg"
     },
     {
-        "DOC_ID": "882",
+        "DOC_ID": 882,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -984,7 +984,7 @@
         "IMG": "prod_images/doc_882_2.jpg"
     },
     {
-        "DOC_ID": "883",
+        "DOC_ID": 883,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1008,7 +1008,7 @@
         "IMG": "prod_images/doc_883_2.jpg"
     },
     {
-        "DOC_ID": "884",
+        "DOC_ID": 884,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1032,7 +1032,7 @@
         "IMG": "prod_images/doc_884_2.jpg"
     },
     {
-        "DOC_ID": "885",
+        "DOC_ID": 885,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1056,7 +1056,7 @@
         "IMG": "prod_images/doc_885_2.jpg"
     },
     {
-        "DOC_ID": "886",
+        "DOC_ID": 886,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1080,7 +1080,7 @@
         "IMG": "prod_images/doc_886_2.jpg"
     },
     {
-        "DOC_ID": "887",
+        "DOC_ID": 887,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1104,7 +1104,7 @@
         "IMG": "prod_images/doc_887_2.jpg"
     },
     {
-        "DOC_ID": "888",
+        "DOC_ID": 888,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1128,7 +1128,7 @@
         "IMG": "prod_images/doc_888_2.jpg"
     },
     {
-        "DOC_ID": "889",
+        "DOC_ID": 889,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1152,7 +1152,7 @@
         "IMG": "prod_images/doc_889_2.jpg"
     },
     {
-        "DOC_ID": "890",
+        "DOC_ID": 890,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1176,7 +1176,7 @@
         "IMG": "prod_images/doc_890_2.jpg"
     },
     {
-        "DOC_ID": "891",
+        "DOC_ID": 891,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1200,7 +1200,7 @@
         "IMG": "prod_images/doc_891_2.jpg"
     },
     {
-        "DOC_ID": "892",
+        "DOC_ID": 892,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1224,7 +1224,7 @@
         "IMG": "prod_images/doc_892_2.jpg"
     },
     {
-        "DOC_ID": "893",
+        "DOC_ID": 893,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1248,7 +1248,7 @@
         "IMG": "prod_images/doc_893_2.jpg"
     },
     {
-        "DOC_ID": "894",
+        "DOC_ID": 894,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1272,7 +1272,7 @@
         "IMG": "prod_images/doc_894_2.jpg"
     },
     {
-        "DOC_ID": "895",
+        "DOC_ID": 895,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1296,7 +1296,7 @@
         "IMG": "prod_images/doc_895_2.jpg"
     },
     {
-        "DOC_ID": "896",
+        "DOC_ID": 896,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1320,7 +1320,7 @@
         "IMG": "prod_images/doc_896_2.jpg"
     },
     {
-        "DOC_ID": "897",
+        "DOC_ID": 897,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1344,7 +1344,7 @@
         "IMG": "prod_images/doc_897_2.jpg"
     },
     {
-        "DOC_ID": "898",
+        "DOC_ID": 898,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1368,7 +1368,7 @@
         "IMG": "prod_images/doc_898_2.jpg"
     },
     {
-        "DOC_ID": "899",
+        "DOC_ID": 899,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1392,7 +1392,7 @@
         "IMG": "prod_images/doc_899_2.jpg"
     },
     {
-        "DOC_ID": "900",
+        "DOC_ID": 900,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1416,7 +1416,7 @@
         "IMG": "prod_images/doc_900_2.jpg"
     },
     {
-        "DOC_ID": "901",
+        "DOC_ID": 901,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1440,7 +1440,7 @@
         "IMG": "prod_images/doc_901_2.jpg"
     },
     {
-        "DOC_ID": "903",
+        "DOC_ID": 903,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",
@@ -1464,7 +1464,7 @@
         "IMG": "prod_images/doc_903_2.jpg"
     },
     {
-        "DOC_ID": "904",
+        "DOC_ID": 904,
         "param_id": "2",
         "xsl_id": "0",
         "pos": "10",

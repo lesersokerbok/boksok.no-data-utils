@@ -1,0 +1,2663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+    <channel>
+        <wp:wxr_version>1.2</wp:wxr_version>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Bebe 4: Alt kjekt kan skje</title>
+            <wp:post_name>bebe-4-alt-kjekt-kan-skje</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Bebe og Sara er på sydentur. No skal alt snu!]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788282380829]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2014]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[53]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Eg kjenner meg så glad. Så lett. - Torsten likar deg, seier ho så. Eg stivnar. - Det er berre sommarflørt, seier eg. - Ja, du har Tommy. - Ja, eg har Tommy.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[1]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_support_cat</wp:meta_key>
+                <wp:meta_value><![CDATA[purple]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_support_cat</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_support_cat]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="mangschou"><![CDATA[Mangschou]]></category>
+            <category domain="lsb_tax_author" nicename="bente-bratlund"><![CDATA[Bente Bratlund]]></category>
+            <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
+            <category domain="lsb_tax_genre" nicename="prosa"><![CDATA[prosa]]></category>
+            <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
+            <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
+            <category domain="lsb_tax_customization" nicename="skjønnlitteratur"><![CDATA[skjønnlitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5000]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>BEBE4.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5000</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/7B4D288C86BC4E6887791EDEA3DE988E.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Alle har en bakside</title>
+            <wp:post_name>alle-har-en-bakside</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Alle har en forside. Alle har en bakside.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788202434977]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2014]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[88]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Alle mennesker har en kropp. Alle kropper er forskjellige.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[1]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_support_cat</wp:meta_key>
+                <wp:meta_value><![CDATA[green]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_support_cat</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_support_cat]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="cappelen-damm"><![CDATA[Cappelen Damm]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://www.cappelendamm.no/main/Katalog.aspx?artid=9938]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="anna-fiske"><![CDATA[Anna Fiske]]></category>
+            <category domain="lsb_tax_illustrator" nicename="anna-fiske"><![CDATA[Anna Fiske]]></category>
+            <category domain="lsb_tax_age" nicename="barn"><![CDATA[barn]]></category>
+            <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="humor"><![CDATA[humor]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="utviklingshemmede"><![CDATA[utviklingshemmede]]></category>
+            <category domain="lsb_tax_customization" nicename="enkelt-innhold"><![CDATA[enkelt innhold]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5001]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Fiske_AlleHarEnBakside.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5001</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/51BD062E660C43BD9EB996B70323C54E.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Så godt! med symboler og bilder</title>
+            <wp:post_name>saa-godt-med-symboler-og-bilder</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Dette er en lettlest kokebok med bilder og symboler. ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788230325407]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2014]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[207]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[1]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_support_cat</wp:meta_key>
+                <wp:meta_value><![CDATA[blue]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_support_cat</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_support_cat]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="signo"><![CDATA[Signo]]></category>
+            <category domain="lsb_tax_author" nicename="anne-gro-innstrand"><![CDATA[Anne Gro Innstrand]]></category>
+            <category domain="lsb_tax_author" nicename="sølvi-linde"><![CDATA[Sølvi Linde]]></category>
+            <category domain="lsb_tax_illustrator" nicename="pål-hoff"><![CDATA[Pål Hoff]]></category>
+            <category domain="lsb_tax_translator" nicename="lene-hansen"><![CDATA[Lene Hansen]]></category>
+            <category domain="lsb_tax_translator" nicename="heidi-trolldalen"><![CDATA[Heidi Trolldalen]]></category>
+            <category domain="lsb_tax_age" nicename="barn"><![CDATA[barn]]></category>
+            <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
+            <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="bliss"><![CDATA[bliss]]></category>
+            <category domain="lsb_tax_customization" nicename="piktogram"><![CDATA[piktogram]]></category>
+            <category domain="lsb_tax_customization" nicename="ny-i-norge"><![CDATA[ny i norge]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="utviklingshemmede"><![CDATA[utviklingshemmede]]></category>
+            <category domain="lsb_tax_customization" nicename="enkelt-innhold"><![CDATA[enkelt innhold]]></category>
+            <category domain="lsb_tax_customization" nicename="demente"><![CDATA[demente]]></category>
+            <category domain="lsb_tax_customization" nicename="enkelt-innhold"><![CDATA[enkelt innhold]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5002]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>så godt forside.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5002</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/9B3F5A448A374F21924BA0FE4AFCBAB5.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>12 uker til et sunnere liv og en slankere midje</title>
+            <wp:post_name>12-uker-til-et-sunnere-liv-og-en-slankere-midje</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Denne boka gir deg en innføring i hvordan du kan endre livsstilen din på 12 uker. ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788205458390]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2014]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[288]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Naturen har virkelig skjønt det - den har plassert all verdens nyttige næringsstoffer, som virker sammen og forsterker hverandre, i én og samme plante. Grønnsaker, frukt og bær bidrar med både antioksidantkraft, fiber, fettsyrer, protein, langsomme karbohydrater og en hærskare nyttige vitaminarbeidere og mineralverktøy.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/gyldendalnorskforlag/docs/12_uker_til_et_sunnere_liv_og_en_sm/11?e=0/7440700]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="berit-nordstrand"><![CDATA[Berit Nordstrand]]></category>
+            <category domain="lsb_tax_illustrator" nicename="studio-dreyer-hensley"><![CDATA[Studio Dreyer Hensley]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
+            <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5003]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>12-uker-til-et-sunnere-liv-og-en-smalere-midje_hd_image.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5003</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/7730C507FC544F0E9A6048E885CA7A53.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Mormor farmor - Håndbok for besteforeldre </title>
+            <wp:post_name>mormor-farmor-haandbok-for-besteforeldre</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[En bok om lek og alvor, prøving og feiling.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788248913719]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[183]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Jeg hadde en drøm om å bli supermormor. En verdig formidler av myten om bæssmorfanget. Jeg hadde en drøm om å bli husket for verdens beste boller, for rampete, blodtørstige eventyr og heltekvad, for sprell og sprang og fantastiske reiser og opplevelser i virkeligheten og i fantasien.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="kagge"><![CDATA[Kagge]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/kaggeforlag/docs/01_mormor_farmor/1]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="toppen-bech"><![CDATA[Toppen Bech]]></category>
+            <category domain="lsb_tax_illustrator" nicename="eivind-stoud-platou"><![CDATA[Eivind Stoud Platou]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
+            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
+            <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5004]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>11.Mormor Farmor STOR.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5004</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/934F9279CD544C20B113BD11B7BE53E7.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Malstrøm</title>
+            <wp:post_name>malstroem</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[En roman fra havets dyp og himmelens høyder, fra sorgens bunn og gledens topp. Og om hvor raskt det skifter fra det ene til det andre.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788205457447]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2014]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[236]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Sola kommer inn vinduet over senga, deler veggen i tykke striper. Hun stryker ham over ryggen. Huden hans er myk. Hun stryker til hun kjenner noe hardt under fingertuppene, reiser seg på albuen. Han har et stort arr på høyre side som strekker seg over ryggraden. Det er rødt og ser ikke veldig gammelt ut. ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
+            <category domain="lsb_tax_author" nicename="caterina-cattaneo"><![CDATA[Caterina Cattaneo]]></category>
+            <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
+            <category domain="lsb_tax_genre" nicename="prosa"><![CDATA[prosa]]></category>
+            <category domain="lsb_tax_topic" nicename="krim"><![CDATA[krim]]></category>
+            <category domain="lsb_tax_topic" nicename="spenning"><![CDATA[spenning]]></category>
+            <category domain="lsb_tax_topic" nicename="kjærlighet"><![CDATA[kjærlighet]]></category>
+            <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="skjønnlitteratur"><![CDATA[skjønnlitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5005]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>10.Malstroem_hd_image.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5005</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/97D862B144484E8B9613E2B76C998285.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Klatrehåndboken</title>
+            <wp:post_name>klatrehaandboken</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[En grunnleggende bok om klatring. ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788205453241]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[315]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Klatring på topptau er antakelig den formen for klatring som de fleste nybegynnere kommer i kontakt med. Med topptau kan du utfordre deg selv på krevende ruter uten å måtte bekymre deg for å falle. Topptauing er også utmerket for å trene bevegelsesteknikk eller ganske enkelt bare for å ha det gøy i fjellveggen!]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/gyldendalnorskforlag/docs/klatrehaandboken?e=1324688/4347404]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="nils-ragnar-gustavsson"><![CDATA[Nils Ragnar Gustavsson]]></category>
+            <category domain="lsb_tax_illustrator" nicename="nils-ragnar-gustavsson"><![CDATA[Nils Ragnar Gustavsson]]></category>
+            <category domain="lsb_tax_illustrator" nicename="martin-karlsson"><![CDATA[Martin Karlsson]]></category>
+            <category domain="lsb_tax_illustrator" nicename="panda-ekvall"><![CDATA[Panda Ekvall]]></category>
+            <category domain="lsb_tax_translator" nicename="ann-høydalsnes"><![CDATA[Ann Høydalsnes]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="sport"><![CDATA[sport]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5006]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>9.Klatrehaandboken_hd_image.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5006</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/FB8D704EEF514496B8FE16DF32C85A45.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Motorisk trening – øvelser for barn</title>
+            <wp:post_name>motorisk-trening-–-oevelser-for-barn</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[En introduksjon i motoriske ferdigheter for barn. ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9879186323165]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[56]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Øvelsene som presenteres, er morsomme og lystbetonte – men hver og en av dem har også et bestemt formål. Det handler om å styrke bestemte deler – "frø"– som til sammen utgjør grunnlaget for alle framtidige, effektive bevegelsesmønster. Hvis disse "bevegelsesfrøene", som stabilitet, balanse og kroppskontroll, plantes tidlig, får ikke barna bare god bevegelighet, men de forberedes også på innlæring av mer idrettspesifikke teknikker.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="akilles"><![CDATA[Akilles]]></category>
+            <category domain="lsb_tax_author" nicename="joanne-elphinston"><![CDATA[Joanne Elphinston]]></category>
+            <category domain="lsb_tax_illustrator" nicename="håkan-flank"><![CDATA[Håkan Flank]]></category>
+            <category domain="lsb_tax_translator" nicename="språkverkstaden"><![CDATA[Språkverkstaden]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="sport"><![CDATA[sport]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5007]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>8. Motorisk-trening-OEvelser-for-barn_book_cover_full.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5007</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/84E50FE9B27E4EA29477823E055E7092.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Alt om Champions League 2013</title>
+            <wp:post_name>alt-om-champions-league-2013</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Høydepunkter fra Champions League 2013, og morsomme fakta fra tidligere år.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788205444607]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[77]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Da Manchester United møtter Bayern Munchen i 1999 var tre nordmenn involvert, selv om bare to av dem spilte. Ronny Johnsen var med fra start, som erstatning for en skadet Henning Berg, og han spilte hele kampen. Ole Gunnar Solskjær, derimot, fikk bare 13 minutter på banen, men det var mer enn nok til å gjøre ham til den første norske matchvinneren i Champions Leagues historie. ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
+            <category domain="lsb_tax_author" nicename="steffen-gronemann"><![CDATA[Steffen Gronemann]]></category>
+            <category domain="lsb_tax_illustrator" nicename="scanpix"><![CDATA[Scanpix]]></category>
+            <category domain="lsb_tax_illustrator" nicename="all-over"><![CDATA[All Over]]></category>
+            <category domain="lsb_tax_illustrator" nicename="getty"><![CDATA[Getty]]></category>
+            <category domain="lsb_tax_translator" nicename="jan-chr.-næss"><![CDATA[Jan Chr. Næss]]></category>
+            <category domain="lsb_tax_age" nicename="barn"><![CDATA[barn]]></category>
+            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
+            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
+            <category domain="lsb_tax_topic" nicename="sport"><![CDATA[sport]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5008]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>7. Alt-om-Champions-League_hd_image.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5008</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/23FD3DD92DFD4F718842036673D7B14B.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Til skogs</title>
+            <wp:post_name>til-skogs</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Kjenner du skogen kalle? Vil du vite mer om hva skogen har betydd og hva den faktisk betyr?]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788248913443]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[190]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Skogens historie handler ikke bare om vekstsoner og klimaperioder, teknologi og tømmerpriser, men om menneskenes liv og virksomhet. Sporene etter våre forfedre kan leses i landskapet. Her er funn etter jegerne som vandret opp i dalen etter istiden, og av jernalderens bygdeborger og gravhauger. Her er infrastruktur og spor etter skipsbygging, jernverk, sagbruk, og en senmiddelaldersk havn for eksport av bjelker fra Larvik.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="kagge"><![CDATA[Kagge]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/kaggeforlag/docs/01_til_skogs_3be1a99d013508/1]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="haakon-bull-hansen"><![CDATA[Haakon Bull-Hansen]]></category>
+            <category domain="lsb_tax_illustrator" nicename="haakon-bull-hansen"><![CDATA[Haakon Bull-Hansen]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
+            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
+            <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
+            <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5009]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>6. org_Til skogs_STOR.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5009</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/65313B9E613F40EA982473ECCAA6F60F.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Si at vi har hele dagen </title>
+            <wp:post_name>si-at-vi-har-hele-dagen</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[En historie om identitet og søken, om sorg og kjærlighet. Om hvordan det er å være adoptert og lure på hvordan livet ville blitt, hvis man ikke var det.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788205463646]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2014]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[223]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Da jeg går inn i t-banevognen, forsvinner jeg, ansiktet mitt blir tatt opp i mengden. Jeg blir oppslukt. En ny og annerledes følelse av tilhørighet brer seg i kroppen min. Jeg ligner de andre, de ligner meg. En estetisk lengsel jeg ikke visste om, åpenbarer seg; jeg snur meg og ser bakover, ikke ett eneste hvitt ansikt, ikke én skarp linje i synsfeltet, bare et bølgende teppe i sort og brunt.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
+            <category domain="lsb_tax_author" nicename="anne-kyong-sook-øfsti"><![CDATA[Anne Kyong-Sook Øfsti]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="prosa"><![CDATA[prosa]]></category>
+            <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="skjønnlitteratur"><![CDATA[skjønnlitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5010]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>5. Si-at-vi-har-hele-dagen_hd_image.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5010</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/1D943AE8D60046A8B34C4416FF399B80.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Livets skole</title>
+            <wp:post_name>livets-skole</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Noen afghanske kvinner risikerer sitt eget liv for å redde andres. Dette er historien om jordmorskolen i Wardak. ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788203293412]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[305]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Sommeren 2011, da jeg begynte arbeidet med denne boken, døde hvert femte afghanske barn før det fylte fem år, det vil si 550 barn hver eneste dag. Samtidig døde en afghansk kvinne i barsel hver halvtime. Det ble sagt at det var 200 ganger mer sannsynlig at en afghansk kvinne døde i barsel eller av graviditetskomplikasjoner, enn av kuler og bomber. ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="aschehoug"><![CDATA[Aschehoug]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/aschehoug/docs/kristin_solberg_-_livets_skole?e=2026704/5148927]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="kristin-solberg"><![CDATA[Kristin Solberg]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
+            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
+            <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5011]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1.solberg.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5011</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/654AF4C789834C4C9DDB92F60E557510.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Fellesskap fungerer – om velferdsordningene </title>
+            <wp:post_name>fellesskap-fungerer-–-om-velferdsordningene</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Stemmer det at Norges velferdsordning gjør oss passive?]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788292866689]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[110]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Ordningene er til for at mennesker ikke skal ruineres om de ikke kan sikre seg selv økonomisk gjennom jobb eller annet. Dersom man sikter mot at "noen av ytelsene vi har, bør begrenses", noe som innebærer "kutt i utbetalingene for noen", vil maktforholdene forskyves til fordel for dem som allerede har mer. Det er heller ikke utenkelig at fattigdommen i Norge vil øke.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="manifest-"><![CDATA[Manifest ]]></category>
+            <category domain="lsb_tax_author" nicename="lotta-elstad"><![CDATA[Lotta Elstad]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
+            <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5012]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>3. Fellesskap fungerer Velferd.png</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5012</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/B822037A45D9488280189506DA085D1C.png</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Fellesskap fungerer – om arbeidslivet</title>
+            <wp:post_name>fellesskap-fungerer-–-om-arbeidslivet</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[I denne boka kan du lese noen av grunnene til hvorfor det går bra med Norge.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788292866795]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2014]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[78]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Lenge har det vært en trend at industribedrifter har flyttet produksjonen sin til land med lavere lønninger for å øke lønnsomheten. Nå ser vi flere tilfeller av norske industribedrifter som flytter tilbake igjen. Et eksempel på dette er Brumunddals-bedriften Globus, som lager deler til landbruksmaskiner. Bedriften har flagget hjem fra Litauen. ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="manifest-"><![CDATA[Manifest ]]></category>
+            <category domain="lsb_tax_author" nicename="ida-søraunet-wangberg"><![CDATA[Ida Søraunet Wangberg]]></category>
+            <category domain="lsb_tax_author" nicename="ingrid-wergeland"><![CDATA[Ingrid Wergeland]]></category>
+            <category domain="lsb_tax_author" nicename="lotta-elstad"><![CDATA[Lotta Elstad]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
+            <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5013]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>2. Fellesskap funker.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5013</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/9B0E92E9B4EC45CC997D74D6161A247E.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Nordmarka - natur og miljø</title>
+            <wp:post_name>nordmarka-natur-og-miljoe</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Boka for den som ønsker å bli skikkelig godt kjent med Nordmarka. ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788282650670]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[213]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Mange mener at kontakt med levende natur er nødvendig for sjelelig sunnhet, og alle har vi i Marka hatt store naturopplevelser. Vinterstid kan det være stillheten blant kritthvite, snøtune graner, eller en vårkveld med måltrostens klare fløytetoner, suset i trekronene og lukten av råtnende snø som driver mellom trestammene. Tallrike studier har vist at kontakt med naturen reduserer stress og fremmer rehabilitering etter den psykiske utmatting mange kjenner etter et hektisk liv i et myldrende bymiljø. ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="dreyers"><![CDATA[Dreyers]]></category>
+            <category domain="lsb_tax_author" nicename="leif-ryvarden"><![CDATA[Leif Ryvarden]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="natur"><![CDATA[natur]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5014]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1nordmarka.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5014</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/790D0D4979F54CF6A5B99AE53DA5EEFD.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Et liv i stein</title>
+            <wp:post_name>et-liv-i-stein</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Eventyret om steinkongen Thor Lundh; visjonæren som så mulighetene.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788203390531]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2012]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[160]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Det begynte med et stort smell. Fjellet åpnet seg – og der lyste det av skatten i det blå berget. Da kruttrøyken og støvet hadde lagt seg, så de det: Bruddsidene skinte i blått. Den enorme kubben de hadde sprengt løs, hadde styrtet nesten ti meter ned langs den bratte fjellsiden, ned myra så torv og myrvann sto til værs.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="aschehoug"><![CDATA[Aschehoug]]></category>
+            <category domain="lsb_tax_author" nicename="tom-lotherington"><![CDATA[Tom Lotherington]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="natur"><![CDATA[natur]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5015]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1stein.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5015</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/3BFAB0C5892C49A194171B2686EEB50B.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Bombene over Hiroshima og Nagasaki</title>
+            <wp:post_name>bombene-over-hiroshima-og-nagasaki</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Dette er historien om hva som skjedde nede på bakken da bombene smalt.  ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788253036175]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[128]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Yoshiharu Yasuhara var 17 år da bomben falt. Tidlig på morgenen dagen etter var han på vei hjem da han fikk øye på en kvinne som lå midt i veien. I armene holdt hun et lite barn, og hun hadde krøket seg over barnet som for å beskytte det, men til ingen nyte. Begge var brent svarte. Yoshiharu tenkte med en gang at det kunne være sin egen mor og lillesøster han så, men i stedet for å se nærmere etter, styrtet han avgårde til hjemmet bare noen titalls meter unna. <br />]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="omnipax"><![CDATA[Omnipax]]></category>
+            <category domain="lsb_tax_author" nicename="anne-thelle"><![CDATA[Anne Thelle]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
+            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
+            <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
+            <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5016]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1bombene.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5016</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/5568330041004233B8708B9F85EA0671.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Nynorsk for dumskallar</title>
+            <wp:post_name>nynorsk-for-dumskallar</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Ei innføring i nynorsk for dei som ikkje vil læra det. Og for alle andre, sjølvsagt.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788252183160]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[108]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Eit godt råd er å dela opp det du skal læra, og konsentrera deg om éin del om gongen. Du kan til dømes setja av litt tid til å berre arbeida med nynorske hokjønnsord. Ikkje gjev deg før du har halde på ei stund. Stoffet blir meir overkomeleg når du deler det opp i bitar i staden for å fortvila over at du ikkje forstår alt med ein gong. Tenk at det er som å eta ei brødskive: Vi tek éin bit og tygg han godt før vi tek ein ny bit; vi stappar ikkje inn heile skiva og svelgjer henne heil.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="samlaget"><![CDATA[Samlaget]]></category>
+            <category domain="lsb_tax_author" nicename="kristin-fridtun"><![CDATA[Kristin Fridtun]]></category>
+            <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="annet"><![CDATA[annet]]></category>
+            <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5017]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1dumskallar.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5017</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/8E92394A21DB4A3C948EE8D2E859DAEE.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Bursdagskaker</title>
+            <wp:post_name>bursdagskaker</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Avanserte festkaker for store og små.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788202397180]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[110]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Min store hobby og lidenskap er baking og kakepynting. En av grunnene til at jeg elsker dette, er at mulighetene er så mange, og det er vel egentlig bare fantasien som setter begrensninger. Jeg får lov til å være kreativ, og derfor er det så gøy. Det hjelper imidlertid ikke å imponere med kaker som ser flotte ut hvis de ikke smaker godt. Hva som befinner seg under pynten på den flotte kaken er like viktig. <br />]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="cappelen-damm"><![CDATA[Cappelen Damm]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/cappelendamm/docs/bursdagskaker?e=0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="janne-jensen"><![CDATA[Janne Jensen]]></category>
+            <category domain="lsb_tax_illustrator" nicename="veslemøy-vråskar"><![CDATA[Veslemøy Vråskar]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
+            <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5018]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1kaker.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5018</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/5D6E054786B64BF8A4C2AE2352EFC60E.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Burgerboka</title>
+            <wp:post_name>burgerboka</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Har du burger på hjernen?]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788293053200]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[159]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Selv synes vi at de store kjedene har gitt burgeren et ufortjent dårlig rykte som usunn kaloribombe og forutsigbar, kjedelig mat, forbeholdt simple smaksløker. Likevel er det et ubestridelig faktum at en overlegent stor majoritet av alle burgere som blir solgt og fortært verden over, kommer fra disse gigantselskapene. Det er synd, for vi mener det er åpenbart at de beste burgerne ikke er de som masseproduseres og tilberedes av svette og underbetalte tenåringer uten den minste interesse for matlaging, slik tilfellet er litt for ofte i disse kjedene. ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="kontur"><![CDATA[Kontur]]></category>
+            <category domain="lsb_tax_author" nicename="terje-haakstad"><![CDATA[Terje Haakstad]]></category>
+            <category domain="lsb_tax_author" nicename="panos-konstantinidis"><![CDATA[Panos Konstantinidis]]></category>
+            <category domain="lsb_tax_illustrator" nicename="raymond-mosken"><![CDATA[Raymond Mosken]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
+            <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5019]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1burger.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5019</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/49B7FA11EE9C41A49B873C7FD0865864.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>5:2-diettens kokebok</title>
+            <wp:post_name>52-diettens-kokebok</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[En enkel innføring i hvordan du to dager i uka faster mellom frokost og middag, og hva du helst bør spise når du først spiser.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788205461826]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2014]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[223]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Reglene for hva du kan spise, er ikke så mange. Du trenger ikke måle opp fyrstikkeskestore porsjoner med ost. Du trenger verken å veie maten, ergre deg eller løse kompliserte regnestykker. Mottoet for måltidene de dagene du faster, er "først og fremst proteiner og matvarer fra planteriket." Dette er basisen for alle oppskriftene i boken. De inneholder også litt fett, noen langsomme karbohydrater og et og annet meieriprodukt. ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/gyldendalnorskforlag/docs/5-2-diettens_kokebok?e=1324688/6405509]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="mimi-spencer"><![CDATA[Mimi Spencer]]></category>
+            <category domain="lsb_tax_author" nicename="sarah-schenker"><![CDATA[Sarah Schenker]]></category>
+            <category domain="lsb_tax_illustrator" nicename="tomas-ford"><![CDATA[Tomas Ford]]></category>
+            <category domain="lsb_tax_translator" nicename="lisbeth-kristoffersen"><![CDATA[Lisbeth Kristoffersen]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
+            <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5020]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1.dietten.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5020</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/886D4E5710754CD5942043F707E83E8A.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Betroelser</title>
+            <wp:post_name>betroelser</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Dikt om kjærlighet, familie, sykdom; om lidelse og håp.  ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788293349037]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2014]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[78]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Forlatt <br /> <br />Hele tiden har jeg fryktet det <br />å bli forlatt. <br /> <br />Har opplevd det mange ganger <br />i fantasien. <br /> <br />Men barna mine forlater meg aldri. <br /> <br />Selv om de er et annet sted bor de i hjertet mitt <br />og jeg bor i hjertene deres. <br /> <br />Derfor er vi sammen. <br />]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="lyst"><![CDATA[Lyst]]></category>
+            <category domain="lsb_tax_author" nicename="hanne-langeland-brune"><![CDATA[Hanne Langeland Brune]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="dikt"><![CDATA[dikt]]></category>
+            <category domain="lsb_tax_topic" nicename="kjærlighet"><![CDATA[kjærlighet]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="skjønnlitteratur"><![CDATA[skjønnlitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5021]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1betroelser-cover.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5021</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/88248198E2804C0D877A7210541C825C.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Bildilla</title>
+            <wp:post_name>bildilla</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[En hyllest til alle som har bildilla!]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788248913375]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[156]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Jeg har fått bilen gratis, og planen er å få den på veien uten å bruke ei krone på den. Men akkurat nå er det den her som er babyen da, sier Stig og peker på en gammel motorsykkel han har stående. <br />– Det er en 1954 Simson AWO. De ble bygd på øst-tyske BMW-fabrikker på 50-tallet og importert og solgt i Trondheim. Bensintanken på sykkelen har jeg malt for hånd med pensel og 3-stjerners gulvlakk. <br /> <br />]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="kagge"><![CDATA[Kagge]]></category>
+            <category domain="lsb_tax_author" nicename="eskil-roll"><![CDATA[Eskil Roll]]></category>
+            <category domain="lsb_tax_author" nicename="gunn-m.-roll"><![CDATA[Gunn M. Roll]]></category>
+            <category domain="lsb_tax_illustrator" nicename="eskil-roll"><![CDATA[Eskil Roll]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="annet"><![CDATA[annet]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5022]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1org_Bildilla_STOR.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5022</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/768C4C20A90B43EBA50674FD15A5B04F.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Fotballmagi</title>
+            <wp:post_name>fotballmagi</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Vil du utvikle deg som fotballspiller?]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788248913399]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[111]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[At fotball er et dynamisk spill vil si at det hele tiden er mange bevegelser og nye situasjoner som oppstår. Det betyr også at det hele tiden er omstillinger fra forsvar til angrep og motsatt. Spillet kan ofte bølge fram og tilbake. Fotball er spill og motspill. <br /> <br />Det er ikke alltid noen av lagene kommer seg i etablert forsvar. Det å oppfatte situasjonene hurtig ved balltap og ballerobring er veldig viktig. Dette for å kunne angripe det andre laget som eventuelt er i ubalanse og for å kunne komme i balanse for det forsvarende laget. <br />]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="kagge"><![CDATA[Kagge]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/kaggeforlag/docs/01_fotballmagi/1]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="viggo-strømme"><![CDATA[Viggo Strømme]]></category>
+            <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="sport"><![CDATA[sport]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5023]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1org_Fotballmagi STOR.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5023</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/CC22C0DE2E6B413D99DACF83FE28DE70.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Med helsing frå Sogn og Fjordane   </title>
+            <wp:post_name>med-helsing-fraa-sogn-og-fjordane</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Om du ikkje fekk tida til å reise til Sogn og Fjordane i sumar, kan du berre skaffe deg den her boka.  ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788279591955]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[205]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Kor kaldt skulle det vore her <br />om ikkje fjorden var? <br />Om Golfstraumen ikkje sende varme <br />straumar like inn i Jotunheimen? <br /> <br />På høgd med Jakutsk på den sibirske tundraen <br />nord i Hudson Bay <br />midt i Alaska <br />nord for Kapp Farvel på Grønland <br /> <br />Her veks eple, plommer, pærer og morellar <br />saman med fersken og valneter <br />I eit voksterland mellom fjord og fjell <br />der evig snø kysser lyset i sommarnatta <br />]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="skald"><![CDATA[Skald]]></category>
+            <category domain="lsb_tax_author" nicename="henning-rivedal"><![CDATA[Henning Rivedal]]></category>
+            <category domain="lsb_tax_illustrator" nicename="leiv-bergum"><![CDATA[Leiv Bergum]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
+            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
+            <category domain="lsb_tax_topic" nicename="natur"><![CDATA[natur]]></category>
+            <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5024]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1sogn.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5024</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/813F664888B74E4697DC5B4BAF8A6661.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>God jul</title>
+            <wp:post_name>god-jul</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[For noen handler jul om gaver. For andre handler det om mye mer. I denne boka er det litt av alt.  ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788205449947]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[215]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Er du en som samler på det mest utrolige? Slik som skakke og rustne gamle spiker? Gamle utvaskede plankebiter funnet på en strand, kongler samlet på turer i skog og mark og ståltråd du ikke helt vet hva du skal bruke til? Da kan du finne fram alt dette nå og la deg inspirere til å lage noen små juletrær på sokkel.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/gyldendalnorskforlag/docs/godjul?e=1324688/4883662]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="may-b.-langhelle"><![CDATA[May B. Langhelle]]></category>
+            <category domain="lsb_tax_author" nicename="heidi-bjørnsdotter-thorvik"><![CDATA[Heidi Bjørnsdotter Thorvik]]></category>
+            <category domain="lsb_tax_illustrator" nicename="may-b.-langhelle"><![CDATA[May B. Langhelle]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="hus"><![CDATA[hus]]></category>
+            <category domain="lsb_tax_topic" nicename="hjem"><![CDATA[hjem]]></category>
+            <category domain="lsb_tax_topic" nicename="hage"><![CDATA[hage]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5025]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1God-jul.-Julepynt-gaver-og-kaker-til-glede-og-inspirasjon.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5025</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/A005234BF1E74277A6658AB2CB85AD81.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Helt enkelt – en basiskokebok </title>
+            <wp:post_name>helt-enkelt-–-en-basiskokebok</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Du kan ikke å lage mat, sier du? Det kan hende du kan det litt bedre etter å ha lest denne boka.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788205461260]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[223]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Wokkede grønnsaker er topp både når det gjelder farge og smak. Lettvint å lage er det også. Det er forarbeidet som er det viktigste. Alle grønnsakene må være vasket, renset og skåret opp på forhånd. Finn også fram alt det andre som skal brukes, som soyasaus eller balsamicoeddik, salt, pepperkvern, olje og redskaper. <br /> <br />Du trenger strengt tatt ikke en wok. En stor stekepanne eller vidbunnet gryte vil gjøre nytten. Men det er liksom enklere å røre rundt i matvarene i woken fordi den har så vid åpning. Bruk alle typer grønnsaker, for eksempel gulrot, løk, blomkål, brokkoli, hodekål, squash, bønner, sukkererter, bladgrønnsaker og spirer. <br /> <br />]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
+            <category domain="lsb_tax_author" nicename="ingrid-espelid-hovig"><![CDATA[Ingrid Espelid Hovig]]></category>
+            <category domain="lsb_tax_author" nicename="paul-løwe"><![CDATA[Paul Løwe]]></category>
+            <category domain="lsb_tax_illustrator" nicename="nina-dreyer-hensley"><![CDATA[Nina Dreyer Hensley]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
+            <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5026]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1Helt-enkelt.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5026</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/BBA85FA1DB8C4D1DAB918882707FEDA1.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Charlottes viltkokebok</title>
+            <wp:post_name>charlottes-viltkokebok</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Ikke bare ei viltkokebok. ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788202414115]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[175]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Det er mye godt vilt! Trost, eller kramsfugl, var kjent som en delikatesse i gamle dager, men det er få som bruker det i dag. Mesteparten av trosten som blir skutt i Norge, blir skutt av italienere. De regner den fortsatt som en delikatesse. Beverjakta er spesiell og eksotisk. Idet isen går i elver og dammer, er det full aktivitet, og det er mange unge jegere som starter sesongen med beverjakt.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="cappelen-damm"><![CDATA[Cappelen Damm]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/cappelendamm/docs/blaibok_viltkokebok?e=0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="charlotte-mohn-gaustad"><![CDATA[Charlotte Mohn Gaustad]]></category>
+            <category domain="lsb_tax_illustrator" nicename="mona-nordøy"><![CDATA[Mona Nordøy]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_topic" nicename="natur"><![CDATA[natur]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5027]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1charlotte.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5027</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/8AF85D419D57457F82666E1558C3AD34.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Papayaene i Gombolo </title>
+            <wp:post_name>papayaene-i-gombolo</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Anne Louise Hübert er 19 år gammel da hun drar til landsbygda i Kenya for å møte ”det virkelige Afrika”. ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788205445505]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[263]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[- Får barna på Primary mat hver dag? Rektoren svelget tung før han fortalte at myndighetene hadde hatt et skolematprogram i lengre tid, men at da skolen startet etter ferien, hadde det ikke kommet noe mat. Han viste meg et tomt matlager innenfor kontoret ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
+            <category domain="lsb_tax_author" nicename="anne-louise-hübert"><![CDATA[Anne Louise Hübert]]></category>
+            <category domain="lsb_tax_illustrator" nicename="anne-louise-hübert"><![CDATA[Anne Louise Hübert]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
+            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
+            <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
+            <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5028]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1Papayaene-i-Gombolo.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5028</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/E150330BE97C497186B66BE750C77FE5.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Kenneth</title>
+            <wp:post_name>kenneth</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Dette er historia om Kenneth Sivertsen og kva suksessen gjorde med han. ]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788252183184]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[175]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[No hadde det verkeleg bikka over for han – nøyaktig når, veit dei ikkje. For den vesle truppen tok det meste til å dreie seg om akkurat dette: Korleis halde Kenneth edru nok til å gjennomføre showet. Korleis passe på at han var der i tide, og ikkje ti minutt eller meir etter at det hadde begynt.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="samlaget"><![CDATA[Samlaget]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/detnorskesamlaget/docs/kenneth?e=1955840/5027511]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="kathrine-sele"><![CDATA[Kathrine Sele]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
+            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
+            <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
+            <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5029]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1kenneth788252183184 framside.ashx.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5029</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/7172CB7B15F44B07857A7F513A6C1AAD.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Atlanterhavsflygaren Thor Solberg - ei røvarhistorie</title>
+            <wp:post_name>atlanterhavsflygaren-thor-solberg-ei-roevarhistorie</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Den utrulege historia om ein eventyrar utanom det vanlege.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788252183078]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[140]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[18. juli 1935 klokka 13.30 var han igjen klar til å starte. Vêret var fint. Thor tok på seg skinnhuva og stramma reima under haka. Så flybrillene og eit par varme hanskar. Fordi dei flaug i open cockpit, kunne det bli kaldt i høgare luftlag. Han sjekka at jakka sat godt, og starta motoren. Deretter gjekk det slag i slag.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="samlaget"><![CDATA[Samlaget]]></category>
+            <wp:postmeta>
+                <wp:meta_key>lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[http://issuu.com/detnorskesamlaget/docs/atlanterhavsflygaren_thor_solberg?e=1955840/4825287]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_look_inside</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_look_inside]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_author" nicename="dag-h.-nestegard"><![CDATA[Dag H. Nestegard]]></category>
+            <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
+            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
+            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
+            <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
+            <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
+            <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5030]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1solberg.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5030</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/797B5CB3D5234AA796CD5C4C28B535F4.jpg</wp:attachment_url>
+        </item>
+        <item>
+            <wp:post_type>lsb_book</wp:post_type>
+            <wp:status>publish</wp:status>
+            <title>Dikterjenter</title>
+            <wp:post_name>dikterjenter</wp:post_name>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <excerpt:encoded><![CDATA[Boka om Lucy Maud Montgomery, forfatteren bak Anne fra Bjørkely.]]></excerpt:encoded>
+            <wp:postmeta>
+                <wp:meta_key>lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[9788253036144]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_isbn</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_isbn]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[2013]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_published_year</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_published_year]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[156]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_pages</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_pages]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_review</wp:meta_key>
+                <wp:meta_value/>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_review</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_review]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[Maud gjorde seg ferdig og gikk ned trappa. I det samme kom faren inn døra med posten fra dagen før. Maud kunne se at The Patriot stakk ut mellom brevene. Hun grep avisa med skjelvende fingre. Bladde. Så ble hun svimmel, bokstavene danset foran øynene hennes. Der var diktet hennes! <br />Hun fikk ikke fram et ord, bare viste siden til faren sin. Hun skulle aldri glemme hvor glad han så ut. Og stolt. Stemoren hennes derimot, så dødelig fornærmet ut. Akkurat som om Maud skulle ha gjort det for å plage henne. <br />]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_quote</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_quote]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[0]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_lsb_supported</wp:meta_key>
+                <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
+            </wp:postmeta>
+            <category domain="lsb_tax_publisher" nicename="omnipax"><![CDATA[Omnipax]]></category>
+            <category domain="lsb_tax_author" nicename="lise-männikö"><![CDATA[Lise Männikö]]></category>
+            <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
+            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
+            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
+            <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
+            <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
+            <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
+            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
+            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
+            <wp:postmeta>
+                <wp:meta_key>_thumbnail_id</wp:meta_key>
+                <wp:meta_value><![CDATA[5031]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>1dikterjenter.jpg</title>
+            <dc:creator><![CDATA[test]]></dc:creator>
+            <wp:post_id>5031</wp:post_id>
+            <wp:status>inherit</wp:status>
+            <wp:post_type>attachment</wp:post_type>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/6E9463F66DCC437EB2D6BEF603DC0FED.jpg</wp:attachment_url>
+        </item>
+    </channel>
+</rss>
