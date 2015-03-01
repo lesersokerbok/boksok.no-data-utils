@@ -57,6 +57,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="mangschou"><![CDATA[Mangschou]]></category>
             <category domain="lsb_tax_author" nicename="bente-bratlund"><![CDATA[Bente Bratlund]]></category>
             <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
@@ -217,6 +218,7 @@
             </wp:postmeta>
             <category domain="lsb_tax_lsb_cat" nicename="bliss"><![CDATA[bliss]]></category>
             <category domain="lsb_tax_lsb_cat" nicename="piktogram"><![CDATA[piktogram]]></category>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_lsb_cat" nicename="enkelt-innhold"><![CDATA[enkelt innhold]]></category>
             <category domain="lsb_tax_lsb_cat" nicename="bliss-&amp;-piktogram"><![CDATA[bliss & piktogram]]></category>
             <category domain="lsb_tax_publisher" nicename="signo"><![CDATA[Signo]]></category>
@@ -299,6 +301,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -382,6 +385,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="kagge"><![CDATA[Kagge]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -464,6 +468,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
             <category domain="lsb_tax_author" nicename="caterina-cattaneo"><![CDATA[Caterina Cattaneo]]></category>
             <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
@@ -540,6 +545,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -625,6 +631,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="akilles"><![CDATA[Akilles]]></category>
             <category domain="lsb_tax_author" nicename="joanne-elphinston"><![CDATA[Joanne Elphinston]]></category>
             <category domain="lsb_tax_illustrator" nicename="håkan-flank"><![CDATA[Håkan Flank]]></category>
@@ -700,6 +707,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
             <category domain="lsb_tax_author" nicename="steffen-gronemann"><![CDATA[Steffen Gronemann]]></category>
             <category domain="lsb_tax_illustrator" nicename="scanpix"><![CDATA[Scanpix]]></category>
@@ -777,6 +785,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="kagge"><![CDATA[Kagge]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -860,6 +869,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
             <category domain="lsb_tax_author" nicename="anne-kyong-sook-øfsti"><![CDATA[Anne Kyong-Sook Øfsti]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
@@ -933,6 +943,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="aschehoug"><![CDATA[Aschehoug]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -1014,6 +1025,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="manifest-"><![CDATA[Manifest ]]></category>
             <category domain="lsb_tax_author" nicename="lotta-elstad"><![CDATA[Lotta Elstad]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
@@ -1088,6 +1100,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="manifest-"><![CDATA[Manifest ]]></category>
             <category domain="lsb_tax_author" nicename="ida-søraunet-wangberg"><![CDATA[Ida Søraunet Wangberg]]></category>
             <category domain="lsb_tax_author" nicename="ingrid-wergeland"><![CDATA[Ingrid Wergeland]]></category>
@@ -1164,6 +1177,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="dreyers"><![CDATA[Dreyers]]></category>
             <category domain="lsb_tax_author" nicename="leif-ryvarden"><![CDATA[Leif Ryvarden]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
@@ -1237,6 +1251,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="aschehoug"><![CDATA[Aschehoug]]></category>
             <category domain="lsb_tax_author" nicename="tom-lotherington"><![CDATA[Tom Lotherington]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
@@ -1310,6 +1325,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="omnipax"><![CDATA[Omnipax]]></category>
             <category domain="lsb_tax_author" nicename="anne-thelle"><![CDATA[Anne Thelle]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
@@ -1384,6 +1400,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="samlaget"><![CDATA[Samlaget]]></category>
             <category domain="lsb_tax_author" nicename="kristin-fridtun"><![CDATA[Kristin Fridtun]]></category>
             <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
@@ -1457,6 +1474,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="cappelen-damm"><![CDATA[Cappelen Damm]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -1540,6 +1558,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="kontur"><![CDATA[Kontur]]></category>
             <category domain="lsb_tax_author" nicename="terje-haakstad"><![CDATA[Terje Haakstad]]></category>
             <category domain="lsb_tax_author" nicename="panos-konstantinidis"><![CDATA[Panos Konstantinidis]]></category>
@@ -1616,6 +1635,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -1701,6 +1721,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="lyst"><![CDATA[Lyst]]></category>
             <category domain="lsb_tax_author" nicename="hanne-langeland-brune"><![CDATA[Hanne Langeland Brune]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
@@ -1774,6 +1795,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="kagge"><![CDATA[Kagge]]></category>
             <category domain="lsb_tax_author" nicename="eskil-roll"><![CDATA[Eskil Roll]]></category>
             <category domain="lsb_tax_author" nicename="gunn-m.-roll"><![CDATA[Gunn M. Roll]]></category>
@@ -1849,6 +1871,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="kagge"><![CDATA[Kagge]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -1930,6 +1953,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="skald"><![CDATA[Skald]]></category>
             <category domain="lsb_tax_author" nicename="henning-rivedal"><![CDATA[Henning Rivedal]]></category>
             <category domain="lsb_tax_illustrator" nicename="leiv-bergum"><![CDATA[Leiv Bergum]]></category>
@@ -2004,6 +2028,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -2089,6 +2114,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
             <category domain="lsb_tax_author" nicename="ingrid-espelid-hovig"><![CDATA[Ingrid Espelid Hovig]]></category>
             <category domain="lsb_tax_author" nicename="paul-løwe"><![CDATA[Paul Løwe]]></category>
@@ -2165,6 +2191,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="cappelen-damm"><![CDATA[Cappelen Damm]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -2247,6 +2274,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
             <category domain="lsb_tax_author" nicename="anne-louise-hübert"><![CDATA[Anne Louise Hübert]]></category>
             <category domain="lsb_tax_illustrator" nicename="anne-louise-hübert"><![CDATA[Anne Louise Hübert]]></category>
@@ -2322,6 +2350,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="samlaget"><![CDATA[Samlaget]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -2403,6 +2432,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="samlaget"><![CDATA[Samlaget]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -2485,6 +2515,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <category domain="lsb_tax_publisher" nicename="omnipax"><![CDATA[Omnipax]]></category>
             <category domain="lsb_tax_author" nicename="lise-männikö"><![CDATA[Lise Männikö]]></category>
             <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
