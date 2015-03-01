@@ -14,25 +14,20 @@
         "lsb_published_year": "2014",
         "lsb_isbn": "9788282380829",
         "lsb_pages": "53",
-        "lsb_supported": true,
-        "lsb_support_cat": "Litt å lese",
         "lsb_age": [
             "ungdom"
         ],
-        "lsb_extra": [],
-        "lsb_genre": [
-            "prosa"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "mennesker i mellom"
         ],
         "lsb_language": [
             "nynorsk"
         ],
-        "lsb_customization": [
-            "skjønnlitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": true,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 842,
@@ -51,30 +46,27 @@
         "lsb_published_year": "2014",
         "lsb_isbn": "9788202434977",
         "lsb_pages": "88",
-        "lsb_supported": true,
-        "lsb_support_cat": "Enkelt innhold",
+        "lsb_look_inside": "http://www.cappelendamm.no/main/Katalog.aspx?artid=9938",
         "lsb_age": [
             "barn",
             "ungdom",
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "humor"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "utviklingshemmede",
-            "enkelt innhold"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [
+            "utviklingshemmede"
         ],
-        "lsb_look_inside": "http://www.cappelendamm.no/main/Katalog.aspx?artid=9938"
+        "lsb_supported": true,
+        "lsb_tax_lsb_cat": [
+            "enkelt innhold"
+        ]
     },
     {
         "id": 843,
@@ -96,19 +88,12 @@
         "lsb_published_year": "2014",
         "lsb_isbn": "9788230325407",
         "lsb_pages": "207",
-        "lsb_supported": true,
-        "lsb_support_cat": "Bliss & piktogram",
         "lsb_age": [
             "barn",
             "ungdom",
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "mat",
             "helse"
@@ -116,15 +101,18 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [
+            "ny i norge",
+            "utviklingshemmede",
+            "demente"
+        ],
+        "lsb_supported": true,
+        "lsb_tax_lsb_cat": [
             "bliss",
             "piktogram",
-            "ny i norge",
-            "litt å lese",
-            "utviklingshemmede",
             "enkelt innhold",
-            "demente",
-            "enkelt innhold"
+            "bliss & piktogram"
         ]
     },
     {
@@ -144,16 +132,11 @@
         "lsb_published_year": "2014",
         "lsb_isbn": "9788205458390",
         "lsb_pages": "288",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/12_uker_til_et_sunnere_liv_og_en_sm/11?e=0/7440700",
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "mat",
             "helse"
@@ -161,11 +144,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/12_uker_til_et_sunnere_liv_og_en_sm/11?e=0/7440700"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 845,
@@ -184,28 +166,21 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788248913719",
         "lsb_pages": "183",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/kaggeforlag/docs/01_mormor_farmor/1",
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "dokumentar",
-            "fakta"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "mennesker i mellom"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/kaggeforlag/docs/01_mormor_farmor/1"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 846,
@@ -222,14 +197,10 @@
         "lsb_published_year": "2014",
         "lsb_isbn": "9788205457447",
         "lsb_pages": "236",
-        "lsb_supported": false,
         "lsb_age": [
             "ungdom"
         ],
-        "lsb_extra": [],
-        "lsb_genre": [
-            "prosa"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "krim",
             "spenning",
@@ -239,10 +210,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "skjønnlitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 847,
@@ -265,27 +236,21 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788205453241",
         "lsb_pages": "315",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/klatrehaandboken?e=1324688/4347404",
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "sport"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/klatrehaandboken?e=1324688/4347404"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 848,
@@ -306,26 +271,20 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9879186323165",
         "lsb_pages": "56",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "sport"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 849,
@@ -348,27 +307,20 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788205444607",
         "lsb_pages": "77",
-        "lsb_supported": false,
         "lsb_age": [
             "barn"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "dokumentar",
-            "fakta"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "sport"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 850,
@@ -387,17 +339,11 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788248913443",
         "lsb_pages": "190",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/kaggeforlag/docs/01_til_skogs_3be1a99d013508/1",
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "dokumentar",
-            "fakta"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "historie",
             "samfunn"
@@ -405,11 +351,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/kaggeforlag/docs/01_til_skogs_3be1a99d013508/1"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 851,
@@ -426,24 +371,20 @@
         "lsb_published_year": "2014",
         "lsb_isbn": "9788205463646",
         "lsb_pages": "223",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [],
-        "lsb_genre": [
-            "prosa"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "mennesker i mellom"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "skjønnlitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 852,
@@ -460,26 +401,21 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788203293412",
         "lsb_pages": "305",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/aschehoug/docs/kristin_solberg_-_livets_skole?e=2026704/5148927",
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [],
-        "lsb_genre": [
-            "dokumentar",
-            "fakta"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "mennesker i mellom"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/aschehoug/docs/kristin_solberg_-_livets_skole?e=2026704/5148927"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 853,
@@ -496,16 +432,10 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788292866689",
         "lsb_pages": "110",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "historie",
             "samfunn"
@@ -513,10 +443,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 854,
@@ -535,16 +465,10 @@
         "lsb_published_year": "2014",
         "lsb_isbn": "9788292866795",
         "lsb_pages": "78",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "historie",
             "samfunn"
@@ -552,10 +476,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 884,
@@ -572,26 +496,20 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788282650670",
         "lsb_pages": "213",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "natur"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 885,
@@ -608,26 +526,20 @@
         "lsb_published_year": "2012",
         "lsb_isbn": "9788203390531",
         "lsb_pages": "160",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "natur"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 886,
@@ -644,17 +556,10 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788253036175",
         "lsb_pages": "128",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "dokumentar",
-            "fakta"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "historie",
             "samfunn"
@@ -662,10 +567,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 887,
@@ -682,24 +587,20 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788252183160",
         "lsb_pages": "108",
-        "lsb_supported": false,
         "lsb_age": [
             "ungdom"
         ],
-        "lsb_extra": [],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "annet"
         ],
         "lsb_language": [
             "nynorsk"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 888,
@@ -718,16 +619,11 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788202397180",
         "lsb_pages": "110",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/bursdagskaker?e=0",
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "mat",
             "helse"
@@ -735,11 +631,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/bursdagskaker?e=0"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 889,
@@ -759,16 +654,10 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788293053200",
         "lsb_pages": "159",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "mat",
             "helse"
@@ -776,10 +665,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 890,
@@ -801,16 +690,11 @@
         "lsb_published_year": "2014",
         "lsb_isbn": "9788205461826",
         "lsb_pages": "223",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/5-2-diettens_kokebok?e=1324688/6405509",
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "mat",
             "helse"
@@ -818,11 +702,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/5-2-diettens_kokebok?e=1324688/6405509"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 891,
@@ -839,24 +722,20 @@
         "lsb_published_year": "2014",
         "lsb_isbn": "9788293349037",
         "lsb_pages": "78",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [],
-        "lsb_genre": [
-            "dikt"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "kjærlighet"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "skjønnlitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 892,
@@ -876,26 +755,20 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788248913375",
         "lsb_pages": "156",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "annet"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 893,
@@ -912,27 +785,21 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788248913399",
         "lsb_pages": "111",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/kaggeforlag/docs/01_fotballmagi/1",
         "lsb_age": [
             "ungdom"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "sport"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/kaggeforlag/docs/01_fotballmagi/1"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 894,
@@ -951,27 +818,20 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788279591955",
         "lsb_pages": "205",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "dokumentar",
-            "fakta"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "natur"
         ],
         "lsb_language": [
             "nynorsk"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 895,
@@ -991,16 +851,11 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788205449947",
         "lsb_pages": "215",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/godjul?e=1324688/4883662",
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "hus",
             "hjem",
@@ -1009,11 +864,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/gyldendalnorskforlag/docs/godjul?e=1324688/4883662"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 896,
@@ -1033,16 +887,10 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788205461260",
         "lsb_pages": "223",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "mat",
             "helse"
@@ -1050,10 +898,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 897,
@@ -1072,27 +920,21 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788202414115",
         "lsb_pages": "175",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/blaibok_viltkokebok?e=0",
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "faglitteratur"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "natur"
         ],
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/cappelendamm/docs/blaibok_viltkokebok?e=0"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 898,
@@ -1111,17 +953,10 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788205445505",
         "lsb_pages": "263",
-        "lsb_supported": false,
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "dokumentar",
-            "fakta"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "historie",
             "samfunn"
@@ -1129,10 +964,10 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 899,
@@ -1149,26 +984,21 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788252183184",
         "lsb_pages": "175",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/detnorskesamlaget/docs/kenneth?e=1955840/5027511",
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [],
-        "lsb_genre": [
-            "dokumentar",
-            "fakta"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "mennesker i mellom"
         ],
         "lsb_language": [
             "nynorsk"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/detnorskesamlaget/docs/kenneth?e=1955840/5027511"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 900,
@@ -1185,17 +1015,11 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788252183078",
         "lsb_pages": "140",
-        "lsb_supported": false,
+        "lsb_look_inside": "http://issuu.com/detnorskesamlaget/docs/atlanterhavsflygaren_thor_solberg?e=1955840/4825287",
         "lsb_age": [
             "voksne"
         ],
-        "lsb_extra": [
-            "mange bilder"
-        ],
-        "lsb_genre": [
-            "dokumentar",
-            "fakta"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "historie",
             "samfunn"
@@ -1203,11 +1027,10 @@
         "lsb_language": [
             "nynorsk"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ],
-        "lsb_look_inside": "http://issuu.com/detnorskesamlaget/docs/atlanterhavsflygaren_thor_solberg?e=1955840/4825287"
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     },
     {
         "id": 901,
@@ -1224,15 +1047,10 @@
         "lsb_published_year": "2013",
         "lsb_isbn": "9788253036144",
         "lsb_pages": "156",
-        "lsb_supported": false,
         "lsb_age": [
             "ungdom"
         ],
-        "lsb_extra": [],
-        "lsb_genre": [
-            "dokumentar",
-            "fakta"
-        ],
+        "lsb_genre": [],
         "lsb_topic": [
             "historie",
             "samfunn"
@@ -1240,9 +1058,9 @@
         "lsb_language": [
             "bokmål"
         ],
-        "lsb_customization": [
-            "faglitteratur",
-            "litt å lese"
-        ]
+        "lsb_tax_customization": [],
+        "lsb_tax_audience": [],
+        "lsb_supported": false,
+        "lsb_tax_lsb_cat": []
     }
 ]

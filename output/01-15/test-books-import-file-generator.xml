@@ -57,22 +57,11 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>lsb_support_cat</wp:meta_key>
-                <wp:meta_value><![CDATA[purple]]></wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>_lsb_support_cat</wp:meta_key>
-                <wp:meta_value><![CDATA[lsb_acf_support_cat]]></wp:meta_value>
-            </wp:postmeta>
             <category domain="lsb_tax_publisher" nicename="mangschou"><![CDATA[Mangschou]]></category>
             <category domain="lsb_tax_author" nicename="bente-bratlund"><![CDATA[Bente Bratlund]]></category>
             <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
-            <category domain="lsb_tax_genre" nicename="prosa"><![CDATA[prosa]]></category>
             <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
             <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
-            <category domain="lsb_tax_customization" nicename="skjønnlitteratur"><![CDATA[skjønnlitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5000]]></wp:meta_value>
@@ -141,14 +130,7 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>lsb_support_cat</wp:meta_key>
-                <wp:meta_value><![CDATA[green]]></wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>_lsb_support_cat</wp:meta_key>
-                <wp:meta_value><![CDATA[lsb_acf_support_cat]]></wp:meta_value>
-            </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="enkelt-innhold"><![CDATA[enkelt innhold]]></category>
             <category domain="lsb_tax_publisher" nicename="cappelen-damm"><![CDATA[Cappelen Damm]]></category>
             <wp:postmeta>
                 <wp:meta_key>lsb_look_inside</wp:meta_key>
@@ -163,12 +145,8 @@
             <category domain="lsb_tax_age" nicename="barn"><![CDATA[barn]]></category>
             <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="humor"><![CDATA[humor]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="utviklingshemmede"><![CDATA[utviklingshemmede]]></category>
-            <category domain="lsb_tax_customization" nicename="enkelt-innhold"><![CDATA[enkelt innhold]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5001]]></wp:meta_value>
@@ -237,14 +215,10 @@
                 <wp:meta_key>_lsb_supported</wp:meta_key>
                 <wp:meta_value><![CDATA[lsb_acf_supported]]></wp:meta_value>
             </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>lsb_support_cat</wp:meta_key>
-                <wp:meta_value><![CDATA[blue]]></wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>_lsb_support_cat</wp:meta_key>
-                <wp:meta_value><![CDATA[lsb_acf_support_cat]]></wp:meta_value>
-            </wp:postmeta>
+            <category domain="lsb_tax_lsb_cat" nicename="bliss"><![CDATA[bliss]]></category>
+            <category domain="lsb_tax_lsb_cat" nicename="piktogram"><![CDATA[piktogram]]></category>
+            <category domain="lsb_tax_lsb_cat" nicename="enkelt-innhold"><![CDATA[enkelt innhold]]></category>
+            <category domain="lsb_tax_lsb_cat" nicename="bliss-&amp;-piktogram"><![CDATA[bliss & piktogram]]></category>
             <category domain="lsb_tax_publisher" nicename="signo"><![CDATA[Signo]]></category>
             <category domain="lsb_tax_author" nicename="anne-gro-innstrand"><![CDATA[Anne Gro Innstrand]]></category>
             <category domain="lsb_tax_author" nicename="sølvi-linde"><![CDATA[Sølvi Linde]]></category>
@@ -254,19 +228,9 @@
             <category domain="lsb_tax_age" nicename="barn"><![CDATA[barn]]></category>
             <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
             <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="bliss"><![CDATA[bliss]]></category>
-            <category domain="lsb_tax_customization" nicename="piktogram"><![CDATA[piktogram]]></category>
-            <category domain="lsb_tax_customization" nicename="ny-i-norge"><![CDATA[ny i norge]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="utviklingshemmede"><![CDATA[utviklingshemmede]]></category>
-            <category domain="lsb_tax_customization" nicename="enkelt-innhold"><![CDATA[enkelt innhold]]></category>
-            <category domain="lsb_tax_customization" nicename="demente"><![CDATA[demente]]></category>
-            <category domain="lsb_tax_customization" nicename="enkelt-innhold"><![CDATA[enkelt innhold]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5002]]></wp:meta_value>
@@ -347,13 +311,9 @@
             <category domain="lsb_tax_author" nicename="berit-nordstrand"><![CDATA[Berit Nordstrand]]></category>
             <category domain="lsb_tax_illustrator" nicename="studio-dreyer-hensley"><![CDATA[Studio Dreyer Hensley]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
             <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5003]]></wp:meta_value>
@@ -434,13 +394,8 @@
             <category domain="lsb_tax_author" nicename="toppen-bech"><![CDATA[Toppen Bech]]></category>
             <category domain="lsb_tax_illustrator" nicename="eivind-stoud-platou"><![CDATA[Eivind Stoud Platou]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
-            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
             <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5004]]></wp:meta_value>
@@ -512,14 +467,11 @@
             <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
             <category domain="lsb_tax_author" nicename="caterina-cattaneo"><![CDATA[Caterina Cattaneo]]></category>
             <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
-            <category domain="lsb_tax_genre" nicename="prosa"><![CDATA[prosa]]></category>
             <category domain="lsb_tax_topic" nicename="krim"><![CDATA[krim]]></category>
             <category domain="lsb_tax_topic" nicename="spenning"><![CDATA[spenning]]></category>
             <category domain="lsb_tax_topic" nicename="kjærlighet"><![CDATA[kjærlighet]]></category>
             <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="skjønnlitteratur"><![CDATA[skjønnlitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5005]]></wp:meta_value>
@@ -603,12 +555,8 @@
             <category domain="lsb_tax_illustrator" nicename="panda-ekvall"><![CDATA[Panda Ekvall]]></category>
             <category domain="lsb_tax_translator" nicename="ann-høydalsnes"><![CDATA[Ann Høydalsnes]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="sport"><![CDATA[sport]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5006]]></wp:meta_value>
@@ -682,12 +630,8 @@
             <category domain="lsb_tax_illustrator" nicename="håkan-flank"><![CDATA[Håkan Flank]]></category>
             <category domain="lsb_tax_translator" nicename="språkverkstaden"><![CDATA[Språkverkstaden]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="sport"><![CDATA[sport]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5007]]></wp:meta_value>
@@ -763,13 +707,8 @@
             <category domain="lsb_tax_illustrator" nicename="getty"><![CDATA[Getty]]></category>
             <category domain="lsb_tax_translator" nicename="jan-chr.-næss"><![CDATA[Jan Chr. Næss]]></category>
             <category domain="lsb_tax_age" nicename="barn"><![CDATA[barn]]></category>
-            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
-            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
             <category domain="lsb_tax_topic" nicename="sport"><![CDATA[sport]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5008]]></wp:meta_value>
@@ -850,14 +789,9 @@
             <category domain="lsb_tax_author" nicename="haakon-bull-hansen"><![CDATA[Haakon Bull-Hansen]]></category>
             <category domain="lsb_tax_illustrator" nicename="haakon-bull-hansen"><![CDATA[Haakon Bull-Hansen]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
-            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
             <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
             <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5009]]></wp:meta_value>
@@ -929,11 +863,8 @@
             <category domain="lsb_tax_publisher" nicename="gyldendal"><![CDATA[Gyldendal]]></category>
             <category domain="lsb_tax_author" nicename="anne-kyong-sook-øfsti"><![CDATA[Anne Kyong-Sook Øfsti]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="prosa"><![CDATA[prosa]]></category>
             <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="skjønnlitteratur"><![CDATA[skjønnlitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5010]]></wp:meta_value>
@@ -1013,12 +944,8 @@
             </wp:postmeta>
             <category domain="lsb_tax_author" nicename="kristin-solberg"><![CDATA[Kristin Solberg]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
-            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
             <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5011]]></wp:meta_value>
@@ -1090,13 +1017,9 @@
             <category domain="lsb_tax_publisher" nicename="manifest-"><![CDATA[Manifest ]]></category>
             <category domain="lsb_tax_author" nicename="lotta-elstad"><![CDATA[Lotta Elstad]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
             <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5012]]></wp:meta_value>
@@ -1170,13 +1093,9 @@
             <category domain="lsb_tax_author" nicename="ingrid-wergeland"><![CDATA[Ingrid Wergeland]]></category>
             <category domain="lsb_tax_author" nicename="lotta-elstad"><![CDATA[Lotta Elstad]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
             <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5013]]></wp:meta_value>
@@ -1248,12 +1167,8 @@
             <category domain="lsb_tax_publisher" nicename="dreyers"><![CDATA[Dreyers]]></category>
             <category domain="lsb_tax_author" nicename="leif-ryvarden"><![CDATA[Leif Ryvarden]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="natur"><![CDATA[natur]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5014]]></wp:meta_value>
@@ -1325,12 +1240,8 @@
             <category domain="lsb_tax_publisher" nicename="aschehoug"><![CDATA[Aschehoug]]></category>
             <category domain="lsb_tax_author" nicename="tom-lotherington"><![CDATA[Tom Lotherington]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="natur"><![CDATA[natur]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5015]]></wp:meta_value>
@@ -1402,14 +1313,9 @@
             <category domain="lsb_tax_publisher" nicename="omnipax"><![CDATA[Omnipax]]></category>
             <category domain="lsb_tax_author" nicename="anne-thelle"><![CDATA[Anne Thelle]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
-            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
             <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
             <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5016]]></wp:meta_value>
@@ -1481,11 +1387,8 @@
             <category domain="lsb_tax_publisher" nicename="samlaget"><![CDATA[Samlaget]]></category>
             <category domain="lsb_tax_author" nicename="kristin-fridtun"><![CDATA[Kristin Fridtun]]></category>
             <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="annet"><![CDATA[annet]]></category>
             <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5017]]></wp:meta_value>
@@ -1566,13 +1469,9 @@
             <category domain="lsb_tax_author" nicename="janne-jensen"><![CDATA[Janne Jensen]]></category>
             <category domain="lsb_tax_illustrator" nicename="veslemøy-vråskar"><![CDATA[Veslemøy Vråskar]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
             <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5018]]></wp:meta_value>
@@ -1646,13 +1545,9 @@
             <category domain="lsb_tax_author" nicename="panos-konstantinidis"><![CDATA[Panos Konstantinidis]]></category>
             <category domain="lsb_tax_illustrator" nicename="raymond-mosken"><![CDATA[Raymond Mosken]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
             <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5019]]></wp:meta_value>
@@ -1735,13 +1630,9 @@
             <category domain="lsb_tax_illustrator" nicename="tomas-ford"><![CDATA[Tomas Ford]]></category>
             <category domain="lsb_tax_translator" nicename="lisbeth-kristoffersen"><![CDATA[Lisbeth Kristoffersen]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
             <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5020]]></wp:meta_value>
@@ -1813,11 +1704,8 @@
             <category domain="lsb_tax_publisher" nicename="lyst"><![CDATA[Lyst]]></category>
             <category domain="lsb_tax_author" nicename="hanne-langeland-brune"><![CDATA[Hanne Langeland Brune]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="dikt"><![CDATA[dikt]]></category>
             <category domain="lsb_tax_topic" nicename="kjærlighet"><![CDATA[kjærlighet]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="skjønnlitteratur"><![CDATA[skjønnlitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5021]]></wp:meta_value>
@@ -1891,12 +1779,8 @@
             <category domain="lsb_tax_author" nicename="gunn-m.-roll"><![CDATA[Gunn M. Roll]]></category>
             <category domain="lsb_tax_illustrator" nicename="eskil-roll"><![CDATA[Eskil Roll]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="annet"><![CDATA[annet]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5022]]></wp:meta_value>
@@ -1976,12 +1860,8 @@
             </wp:postmeta>
             <category domain="lsb_tax_author" nicename="viggo-strømme"><![CDATA[Viggo Strømme]]></category>
             <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="sport"><![CDATA[sport]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5023]]></wp:meta_value>
@@ -2054,13 +1934,8 @@
             <category domain="lsb_tax_author" nicename="henning-rivedal"><![CDATA[Henning Rivedal]]></category>
             <category domain="lsb_tax_illustrator" nicename="leiv-bergum"><![CDATA[Leiv Bergum]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
-            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
             <category domain="lsb_tax_topic" nicename="natur"><![CDATA[natur]]></category>
             <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5024]]></wp:meta_value>
@@ -2142,14 +2017,10 @@
             <category domain="lsb_tax_author" nicename="heidi-bjørnsdotter-thorvik"><![CDATA[Heidi Bjørnsdotter Thorvik]]></category>
             <category domain="lsb_tax_illustrator" nicename="may-b.-langhelle"><![CDATA[May B. Langhelle]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="hus"><![CDATA[hus]]></category>
             <category domain="lsb_tax_topic" nicename="hjem"><![CDATA[hjem]]></category>
             <category domain="lsb_tax_topic" nicename="hage"><![CDATA[hage]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5025]]></wp:meta_value>
@@ -2223,13 +2094,9 @@
             <category domain="lsb_tax_author" nicename="paul-løwe"><![CDATA[Paul Løwe]]></category>
             <category domain="lsb_tax_illustrator" nicename="nina-dreyer-hensley"><![CDATA[Nina Dreyer Hensley]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="mat"><![CDATA[mat]]></category>
             <category domain="lsb_tax_topic" nicename="helse"><![CDATA[helse]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5026]]></wp:meta_value>
@@ -2310,12 +2177,8 @@
             <category domain="lsb_tax_author" nicename="charlotte-mohn-gaustad"><![CDATA[Charlotte Mohn Gaustad]]></category>
             <category domain="lsb_tax_illustrator" nicename="mona-nordøy"><![CDATA[Mona Nordøy]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
             <category domain="lsb_tax_topic" nicename="natur"><![CDATA[natur]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5027]]></wp:meta_value>
@@ -2388,14 +2251,9 @@
             <category domain="lsb_tax_author" nicename="anne-louise-hübert"><![CDATA[Anne Louise Hübert]]></category>
             <category domain="lsb_tax_illustrator" nicename="anne-louise-hübert"><![CDATA[Anne Louise Hübert]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
-            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
             <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
             <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5028]]></wp:meta_value>
@@ -2475,12 +2333,8 @@
             </wp:postmeta>
             <category domain="lsb_tax_author" nicename="kathrine-sele"><![CDATA[Kathrine Sele]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
-            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
             <category domain="lsb_tax_topic" nicename="mennesker-i-mellom"><![CDATA[mennesker i mellom]]></category>
             <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5029]]></wp:meta_value>
@@ -2560,14 +2414,9 @@
             </wp:postmeta>
             <category domain="lsb_tax_author" nicename="dag-h.-nestegard"><![CDATA[Dag H. Nestegard]]></category>
             <category domain="lsb_tax_age" nicename="voksne"><![CDATA[voksne]]></category>
-            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
-            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
             <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
             <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
             <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
-            <category domain="lsb_tax_customization" nicename="mange-bilder"><![CDATA[mange bilder]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5030]]></wp:meta_value>
@@ -2639,13 +2488,9 @@
             <category domain="lsb_tax_publisher" nicename="omnipax"><![CDATA[Omnipax]]></category>
             <category domain="lsb_tax_author" nicename="lise-männikö"><![CDATA[Lise Männikö]]></category>
             <category domain="lsb_tax_age" nicename="ungdom"><![CDATA[ungdom]]></category>
-            <category domain="lsb_tax_genre" nicename="dokumentar"><![CDATA[dokumentar]]></category>
-            <category domain="lsb_tax_genre" nicename="fakta"><![CDATA[fakta]]></category>
             <category domain="lsb_tax_topic" nicename="historie"><![CDATA[historie]]></category>
             <category domain="lsb_tax_topic" nicename="samfunn"><![CDATA[samfunn]]></category>
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
-            <category domain="lsb_tax_customization" nicename="faglitteratur"><![CDATA[faglitteratur]]></category>
-            <category domain="lsb_tax_customization" nicename="litt-å-lese"><![CDATA[litt å lese]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
                 <wp:meta_value><![CDATA[5031]]></wp:meta_value>
