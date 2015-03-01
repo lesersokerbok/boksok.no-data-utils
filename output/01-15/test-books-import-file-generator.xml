@@ -64,16 +64,16 @@
             <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5000]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15000]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>BEBE4.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5000</wp:post_id>
+            <wp:post_id>15000</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/7B4D288C86BC4E6887791EDEA3DE988E.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/7B4D288C86BC4E6887791EDEA3DE988E.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -149,16 +149,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5001]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15001]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>Fiske_AlleHarEnBakside.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5001</wp:post_id>
+            <wp:post_id>15001</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/51BD062E660C43BD9EB996B70323C54E.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/51BD062E660C43BD9EB996B70323C54E.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -233,16 +233,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5002]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15002]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>så godt forside.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5002</wp:post_id>
+            <wp:post_id>15002</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/9B3F5A448A374F21924BA0FE4AFCBAB5.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/9B3F5A448A374F21924BA0FE4AFCBAB5.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -316,16 +316,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5003]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15003]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>12-uker-til-et-sunnere-liv-og-en-smalere-midje_hd_image.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5003</wp:post_id>
+            <wp:post_id>15003</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/7730C507FC544F0E9A6048E885CA7A53.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/7730C507FC544F0E9A6048E885CA7A53.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -398,16 +398,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5004]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15004]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>11.Mormor Farmor STOR.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5004</wp:post_id>
+            <wp:post_id>15004</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/934F9279CD544C20B113BD11B7BE53E7.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/934F9279CD544C20B113BD11B7BE53E7.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -474,16 +474,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5005]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15005]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>10.Malstroem_hd_image.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5005</wp:post_id>
+            <wp:post_id>15005</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/97D862B144484E8B9613E2B76C998285.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/97D862B144484E8B9613E2B76C998285.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -559,16 +559,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5006]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15006]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>9.Klatrehaandboken_hd_image.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5006</wp:post_id>
+            <wp:post_id>15006</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/FB8D704EEF514496B8FE16DF32C85A45.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/FB8D704EEF514496B8FE16DF32C85A45.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -634,16 +634,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5007]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15007]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>8. Motorisk-trening-OEvelser-for-barn_book_cover_full.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5007</wp:post_id>
+            <wp:post_id>15007</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/84E50FE9B27E4EA29477823E055E7092.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/84E50FE9B27E4EA29477823E055E7092.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -711,16 +711,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5008]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15008]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>7. Alt-om-Champions-League_hd_image.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5008</wp:post_id>
+            <wp:post_id>15008</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/23FD3DD92DFD4F718842036673D7B14B.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/23FD3DD92DFD4F718842036673D7B14B.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -794,16 +794,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5009]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15009]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>6. org_Til skogs_STOR.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5009</wp:post_id>
+            <wp:post_id>15009</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/65313B9E613F40EA982473ECCAA6F60F.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/65313B9E613F40EA982473ECCAA6F60F.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -867,16 +867,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5010]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15010]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>5. Si-at-vi-har-hele-dagen_hd_image.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5010</wp:post_id>
+            <wp:post_id>15010</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/1D943AE8D60046A8B34C4416FF399B80.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/1D943AE8D60046A8B34C4416FF399B80.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -948,16 +948,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5011]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15011]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1.solberg.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5011</wp:post_id>
+            <wp:post_id>15011</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/654AF4C789834C4C9DDB92F60E557510.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/654AF4C789834C4C9DDB92F60E557510.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1022,16 +1022,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5012]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15012]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>3. Fellesskap fungerer Velferd.png</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5012</wp:post_id>
+            <wp:post_id>15012</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/B822037A45D9488280189506DA085D1C.png</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/B822037A45D9488280189506DA085D1C.png</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1098,16 +1098,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5013]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15013]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>2. Fellesskap funker.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5013</wp:post_id>
+            <wp:post_id>15013</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/9B0E92E9B4EC45CC997D74D6161A247E.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/9B0E92E9B4EC45CC997D74D6161A247E.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1171,16 +1171,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5014]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15014]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1nordmarka.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5014</wp:post_id>
+            <wp:post_id>15014</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/790D0D4979F54CF6A5B99AE53DA5EEFD.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/790D0D4979F54CF6A5B99AE53DA5EEFD.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1244,16 +1244,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5015]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15015]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1stein.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5015</wp:post_id>
+            <wp:post_id>15015</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/3BFAB0C5892C49A194171B2686EEB50B.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/3BFAB0C5892C49A194171B2686EEB50B.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1318,16 +1318,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5016]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15016]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1bombene.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5016</wp:post_id>
+            <wp:post_id>15016</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/5568330041004233B8708B9F85EA0671.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/5568330041004233B8708B9F85EA0671.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1391,16 +1391,16 @@
             <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5017]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15017]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1dumskallar.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5017</wp:post_id>
+            <wp:post_id>15017</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/8E92394A21DB4A3C948EE8D2E859DAEE.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/8E92394A21DB4A3C948EE8D2E859DAEE.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1474,16 +1474,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5018]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15018]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1kaker.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5018</wp:post_id>
+            <wp:post_id>15018</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/5D6E054786B64BF8A4C2AE2352EFC60E.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/5D6E054786B64BF8A4C2AE2352EFC60E.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1550,16 +1550,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5019]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15019]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1burger.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5019</wp:post_id>
+            <wp:post_id>15019</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/49B7FA11EE9C41A49B873C7FD0865864.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/49B7FA11EE9C41A49B873C7FD0865864.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1635,16 +1635,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5020]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15020]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1.dietten.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5020</wp:post_id>
+            <wp:post_id>15020</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/886D4E5710754CD5942043F707E83E8A.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/886D4E5710754CD5942043F707E83E8A.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1708,16 +1708,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5021]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15021]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1betroelser-cover.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5021</wp:post_id>
+            <wp:post_id>15021</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/88248198E2804C0D877A7210541C825C.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/88248198E2804C0D877A7210541C825C.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1783,16 +1783,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5022]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15022]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1org_Bildilla_STOR.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5022</wp:post_id>
+            <wp:post_id>15022</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/768C4C20A90B43EBA50674FD15A5B04F.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/768C4C20A90B43EBA50674FD15A5B04F.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1864,16 +1864,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5023]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15023]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1org_Fotballmagi STOR.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5023</wp:post_id>
+            <wp:post_id>15023</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/CC22C0DE2E6B413D99DACF83FE28DE70.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/CC22C0DE2E6B413D99DACF83FE28DE70.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -1938,16 +1938,16 @@
             <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5024]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15024]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1sogn.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5024</wp:post_id>
+            <wp:post_id>15024</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/813F664888B74E4697DC5B4BAF8A6661.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/813F664888B74E4697DC5B4BAF8A6661.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -2023,16 +2023,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5025]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15025]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1God-jul.-Julepynt-gaver-og-kaker-til-glede-og-inspirasjon.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5025</wp:post_id>
+            <wp:post_id>15025</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/A005234BF1E74277A6658AB2CB85AD81.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/A005234BF1E74277A6658AB2CB85AD81.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -2099,16 +2099,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5026]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15026]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1Helt-enkelt.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5026</wp:post_id>
+            <wp:post_id>15026</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/BBA85FA1DB8C4D1DAB918882707FEDA1.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/BBA85FA1DB8C4D1DAB918882707FEDA1.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -2181,16 +2181,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5027]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15027]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1charlotte.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5027</wp:post_id>
+            <wp:post_id>15027</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/8AF85D419D57457F82666E1558C3AD34.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/8AF85D419D57457F82666E1558C3AD34.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -2256,16 +2256,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5028]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15028]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1Papayaene-i-Gombolo.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5028</wp:post_id>
+            <wp:post_id>15028</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/E150330BE97C497186B66BE750C77FE5.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/E150330BE97C497186B66BE750C77FE5.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -2337,16 +2337,16 @@
             <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5029]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15029]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1kenneth788252183184 framside.ashx.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5029</wp:post_id>
+            <wp:post_id>15029</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/7172CB7B15F44B07857A7F513A6C1AAD.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/7172CB7B15F44B07857A7F513A6C1AAD.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -2419,16 +2419,16 @@
             <category domain="lsb_tax_language" nicename="no_nn"><![CDATA[nynorsk]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5030]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15030]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1solberg.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5030</wp:post_id>
+            <wp:post_id>15030</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/797B5CB3D5234AA796CD5C4C28B535F4.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/797B5CB3D5234AA796CD5C4C28B535F4.jpg</wp:attachment_url>
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
@@ -2493,16 +2493,16 @@
             <category domain="lsb_tax_language" nicename="no_nb"><![CDATA[bokmål]]></category>
             <wp:postmeta>
                 <wp:meta_key>_thumbnail_id</wp:meta_key>
-                <wp:meta_value><![CDATA[5031]]></wp:meta_value>
+                <wp:meta_value><![CDATA[15031]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>1dikterjenter.jpg</title>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <wp:post_id>5031</wp:post_id>
+            <wp:post_id>15031</wp:post_id>
             <wp:status>inherit</wp:status>
             <wp:post_type>attachment</wp:post_type>
-            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/master/output/01-15/images/6E9463F66DCC437EB2D6BEF603DC0FED.jpg</wp:attachment_url>
+            <wp:attachment_url>https://raw.githubusercontent.com/lesersokerbok/boksok.no-data-utils/develop/output/01-15/images/6E9463F66DCC437EB2D6BEF603DC0FED.jpg</wp:attachment_url>
         </item>
     </channel>
 </rss>
