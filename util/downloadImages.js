@@ -4,7 +4,7 @@ var fs = require('fs'),
     _ = require('underscore'),
     async = require('async'),
     request = require('request'),
-    images = JSON.parse(fs.readFileSync('./original-data/JSON-FROM-CSV/IMAGES.json'));
+    images = JSON.parse(fs.readFileSync('./input/01-15/JSON-FROM-CSV/IMAGES.json'));
 
 function download(uri, filename, callback) {
     request.head(uri, function (err, res, body) {
@@ -16,13 +16,13 @@ function download(uri, filename, callback) {
 }
 
 async.eachSeries(images, function (image, callback) {
-    var url = 'http://www.boksok.no/thumb.aspx?file=upload_images/'
+    var url = 'http://boksok.avento.no/thumb.aspx?file=upload_images/'
         + image.object_id
         + '.'
         + image.EXTENTION
         + '&width=1024';
 
-    download(url, './output-example/images/'
+    download(url, './output/01-15/images/'
         + image.object_id
         + '.'
         + image.EXTENTION, function () {
