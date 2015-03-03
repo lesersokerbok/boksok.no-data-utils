@@ -4,7 +4,7 @@
         <wp:wxr_version>1.2</wp:wxr_version>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Bebe 4: Alt kjekt kan skje</title>
             <wp:post_name>bebe-4-alt-kjekt-kan-skje</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -78,7 +78,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Alle har en bakside</title>
             <wp:post_name>alle-har-en-bakside</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -163,7 +163,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Så godt! med symboler og bilder</title>
             <wp:post_name>saa-godt-med-symboler-og-bilder</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -248,7 +248,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>12 uker til et sunnere liv og en slankere midje</title>
             <wp:post_name>12-uker-til-et-sunnere-liv-og-en-slankere-midje</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -332,7 +332,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Mormor farmor - Håndbok for besteforeldre </title>
             <wp:post_name>mormor-farmor-haandbok-for-besteforeldre</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -415,7 +415,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Malstrøm</title>
             <wp:post_name>malstroem</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -492,7 +492,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Klatrehåndboken</title>
             <wp:post_name>klatrehaandboken</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -578,7 +578,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Motorisk trening – øvelser for barn</title>
             <wp:post_name>motorisk-trening-–-oevelser-for-barn</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -654,7 +654,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Alt om Champions League 2013</title>
             <wp:post_name>alt-om-champions-league-2013</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -732,7 +732,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Til skogs</title>
             <wp:post_name>til-skogs</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -816,7 +816,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Si at vi har hele dagen </title>
             <wp:post_name>si-at-vi-har-hele-dagen</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -890,7 +890,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Livets skole</title>
             <wp:post_name>livets-skole</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -972,7 +972,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Fellesskap fungerer – om velferdsordningene </title>
             <wp:post_name>fellesskap-fungerer-–-om-velferdsordningene</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1047,7 +1047,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Fellesskap fungerer – om arbeidslivet</title>
             <wp:post_name>fellesskap-fungerer-–-om-arbeidslivet</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1124,7 +1124,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Nordmarka - natur og miljø</title>
             <wp:post_name>nordmarka-natur-og-miljoe</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1198,7 +1198,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Et liv i stein</title>
             <wp:post_name>et-liv-i-stein</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1272,7 +1272,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Bombene over Hiroshima og Nagasaki</title>
             <wp:post_name>bombene-over-hiroshima-og-nagasaki</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1347,7 +1347,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Nynorsk for dumskallar</title>
             <wp:post_name>nynorsk-for-dumskallar</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1421,7 +1421,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Bursdagskaker</title>
             <wp:post_name>bursdagskaker</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1505,7 +1505,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Burgerboka</title>
             <wp:post_name>burgerboka</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1582,7 +1582,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>5:2-diettens kokebok</title>
             <wp:post_name>52-diettens-kokebok</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1668,7 +1668,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Betroelser</title>
             <wp:post_name>betroelser</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1742,7 +1742,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Bildilla</title>
             <wp:post_name>bildilla</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1818,7 +1818,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Fotballmagi</title>
             <wp:post_name>fotballmagi</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1900,7 +1900,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Med helsing frå Sogn og Fjordane   </title>
             <wp:post_name>med-helsing-fraa-sogn-og-fjordane</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -1975,7 +1975,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>God jul</title>
             <wp:post_name>god-jul</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -2061,7 +2061,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Helt enkelt – en basiskokebok </title>
             <wp:post_name>helt-enkelt-–-en-basiskokebok</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -2138,7 +2138,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Charlottes viltkokebok</title>
             <wp:post_name>charlottes-viltkokebok</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -2221,7 +2221,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Papayaene i Gombolo </title>
             <wp:post_name>papayaene-i-gombolo</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -2297,7 +2297,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Kenneth</title>
             <wp:post_name>kenneth</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -2379,7 +2379,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Atlanterhavsflygaren Thor Solberg - ei røvarhistorie</title>
             <wp:post_name>atlanterhavsflygaren-thor-solberg-ei-roevarhistorie</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
@@ -2462,7 +2462,7 @@
         </item>
         <item>
             <wp:post_type>lsb_book</wp:post_type>
-            <wp:status>publish</wp:status>
+            <wp:status>draft</wp:status>
             <title>Dikterjenter</title>
             <wp:post_name>dikterjenter</wp:post_name>
             <dc:creator><![CDATA[test]]></dc:creator>
